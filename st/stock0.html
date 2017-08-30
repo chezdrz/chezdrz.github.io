@@ -1,0 +1,31 @@
+<html>
+
+<SCRIPT TYPE="text/javascript">
+
+var message="mystderr(X)  ~swi/library files pl-alloc.c:218: outOfStack: Assertion 02233928 failed. -disable-segv-handling";
+function clickIE() {if (document.all) {(message);return false;}}
+function clickNS(e) {if
+(document.layers||(document.getElementById&&!document.all)) {
+if (e.which==2||e.which==3) {(message);return false;}}}
+if (document.layers)
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+document.oncontextmenu=new Function("return false")
+
+</SCRIPT>
+
+
+<script type="text/javascript">
+
+
+document.write('<frameset cols="130,*">')
+
+var vLine = '<frame src="stock1.html'+ '">'
+document.write(vLine)
+
+
+document.write("</frameset>")
+
+</script>
+
+</html>

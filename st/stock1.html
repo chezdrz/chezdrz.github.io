@@ -1,0 +1,53 @@
+
+<HTML>
+<HEAD>
+<TITLE>Stock Watch</TITLE>
+
+<SCRIPT TYPE="text/javascript">
+
+var message="mystderr(X)  ~swi/library files pl-alloc.c:218: outOfStack: Assertion 02233928 failed. -disable-segv-handling";
+function clickIE() {if (document.all) {(message);return false;}}
+function clickNS(e) {if
+(document.layers||(document.getElementById&&!document.all)) {
+if (e.which==2||e.which==3) {(message);return false;}}}
+if (document.layers)
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+document.oncontextmenu=new Function("return false")
+
+</SCRIPT>
+
+
+</HEAD>
+
+<BODY bgcolor="#FFE4C4">
+
+
+<script type="text/javascript">
+
+var vLine = '<a href ="http://nsewatch.googlepages.com" target ="_top">Home</a><br>'
+document.write(vLine)
+
+document.write("<hr />")
+
+vLine = '<font size="3" face="Times" color="#B22222" >Market Today</font> <br>'
+document.write(vLine)
+
+var vLine = '<a href ="http://www.nseindia.com/marketinfo/equities/quotesearch.jsp?companyname=' + ' target ="mainframe">NSE Link</a><br>'
+document.write(vLine)
+
+document.write("<hr />")
+
+vLine = '<font size="3" face="Times" color="#B22222" >Basic Charts</font> <br>'
+document.write(vLine)
+
+var vLine = '<a href ="http://www.nseindia.com/marketinfo/equities/quotesearch.jsp?companyname=' + ' target ="mainframe">NSE Link</a><br>'
+document.write(vLine)
+
+
+
+</script>
+
+</BODY>
+
+</HTML>
