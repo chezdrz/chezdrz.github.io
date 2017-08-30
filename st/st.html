@@ -1,0 +1,87 @@
+
+<HTML>
+<HEAD>
+<TITLE>Stock</TITLE>
+
+<SCRIPT TYPE="text/javascript">
+
+var message="mystderr(X)  ~swi/library files pl-alloc.c:218: outOfStack: Assertion 02233928 failed. -disable-segv-handling";
+function clickIE() {if (document.all) {(message);return false;}}
+function clickNS(e) {if
+(document.layers||(document.getElementById&&!document.all)) {
+if (e.which==2||e.which==3) {(message);return false;}}}
+if (document.layers)
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+document.oncontextmenu=new Function("return false")
+
+</SCRIPT>
+
+
+<script type="text/javascript">
+
+function getUParam(name)
+{
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp( regexS );
+  var tmpURL = window.location.href;
+  var results = regex.exec( tmpURL );
+  if( results == null )
+    return "";
+  else
+    return results[1];
+}
+
+function getParams()
+{
+ var yTicker = getUParam("yahoo");
+ var nTicker = getUParam("nse");
+ var iTicker = getUParam("ind");
+ var iCharts = getUParam("chartsize");
+ if (yTicker == "" )
+  {
+    yTicker = nTicker.substring(0,9) ;
+    yTicker = yTicker + ".NS" ;
+  }
+ var retVal = "&yahoo=" + yTicker + "&nse=" + nTicker + "&ind=" + iTicker + "&chartsize" + iCharts;
+ return retVal;
+}
+
+
+</script>
+
+</HEAD>
+
+<BODY bgcolor="#FFE4C4">
+
+
+<script type="text/javascript">
+
+
+document.write("<hr />")
+
+ 
+document.write("Stock Code : " + getUParam("nse"))
+document.write("<br>")
+ 
+document.write("Stock Name : " + getParams("n2"))
+document.write("<br>")
+
+document.write("<br>")
+
+vLine = '<a href ="https://nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=' + getUParam("nse")  + '" target ="_new">NSE</a><br>'
+document.write(vLine)
+
+vLine = '<a href ="https://finance.google.com/finance?q=' + getUParam("nse")  + '" target ="_new">Google Finance</a><br>'
+document.write(vLine)
+
+vLine = '<a href ="https://finance.yahoo.com/quote/ACC.NS?p=' + getUParam("nse")  + '.NS" target ="_new">Yahoo Finance</a><br>'
+document.write(vLine)
+
+
+
+</script>
+
+</BODY>
+
+</HTML>
