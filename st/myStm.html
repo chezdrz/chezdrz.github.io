@@ -1,0 +1,149 @@
+<html>
+
+
+<SCRIPT TYPE="text/javascript">
+
+/*
+var message="mystderr(X)  ~swi/library files pl-alloc.c:218: outOfStack: Assertion 02233928 failed. -disable-segv-handling";
+function clickIE() {if (document.all) {(message);return false;}}
+function clickNS(e) {if
+(document.layers||(document.getElementById&&!document.all)) {
+if (e.which==2||e.which==3) {(message);return false;}}}
+if (document.layers)
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+document.oncontextmenu=new Function("return false")
+
+*/
+
+</SCRIPT>
+
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<script type="text/javascript">
+
+
+function getPgp(name)
+{
+
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp( regexS );
+  var tmpURL = window.location.href;
+  var results = regex.exec( tmpURL );
+  if( results == null )
+    return "";
+  else
+    return results[1];
+
+}
+
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Movement', 'Movement by Month YY-MM'],
+          [getPgp("xv1"),  Number(getPgp("xd1"))],
+          [getPgp("xu1"),  Number(getPgp("xw1"))],
+          [getPgp("xv2"),  Number(getPgp("xd2"))],
+          [getPgp("xu2"),  Number(getPgp("xw2"))],
+          [getPgp("xv3"),  Number(getPgp("xd3"))],
+          [getPgp("xu3"),  Number(getPgp("xw3"))],
+          [getPgp("xv4"),  Number(getPgp("xd4"))],
+          [getPgp("xu4"),  Number(getPgp("xw4"))],
+          [getPgp("xv5"),  Number(getPgp("xd5"))],
+          [getPgp("xu5"),  Number(getPgp("xw5"))],
+          [getPgp("xv6"),  Number(getPgp("xd6"))],
+          [getPgp("xu6"),  Number(getPgp("xw6"))],
+
+          [getPgp("xv7"),  Number(getPgp("xd7"))],
+          [getPgp("xu7"),  Number(getPgp("xw7"))],
+
+          [getPgp("xv8"),  Number(getPgp("xd8"))],
+          [getPgp("xu8"),  Number(getPgp("xw8"))],
+
+          [getPgp("xv9"),  Number(getPgp("xd9"))],
+          [getPgp("xu9"),  Number(getPgp("xw9"))],
+
+          [getPgp("xv10"),  Number(getPgp("xd10"))],
+          [getPgp("xu10"),  Number(getPgp("xw10"))],
+
+          [getPgp("xv11"),  Number(getPgp("xd11"))],
+          [getPgp("xu11"),  Number(getPgp("xw11"))],
+
+          [getPgp("xv12"),  Number(getPgp("xd12"))]
+
+        ]);
+
+        var options = {
+          title: 'High/Low of Monthly movement',
+          curveType: 'function',
+          legend: { position: 'bottom' }
+        };
+
+        var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+
+        chart.draw(data, options);
+      }
+
+document.write('<body>')
+
+var vLine ='<table width="700" border="1" ><tr BGCOLOR="#A9CCE3" ><td><a><font face="book antiqua" size="4"><b>Detail Stock Analysis</b></font></a></td></tr></table>'
+document.write(vLine)
+
+vLine ='<a><font face="book antiqua" size="3"><i>Listing of Trending analysis</i></font></a> <hr> Analytics generated as on closing : ' + getPgp("xdt") +'<br><br><a href="javascript:this.location.reload();" style="color: #38ACEC; font-weight: normal">Refresh page</a> <br>'
+document.write(vLine)
+
+vLine ='<br><table border="1"><tr bgcolor="#D4E6F1"><td>' + getPgp("xnse") + '</td><td> '  + getPgp("xname")+ '</td></tr>'
+document.write(vLine)
+
+vLine = '<tr><td valign="top">   <table><tr> <td>Last Price </td><td>' + getPgp("xcl") + '</td> <td> &nbsp;&nbsp;&nbsp;&nbsp;</td>       </tr>'
+   document.write(vLine)
+
+vLine = '<tr> <td>52 Week High </td><td>'  + getPgp("xh52") +  '</td>  <td> &nbsp;&nbsp;&nbsp;&nbsp;</td>     </tr>'
+   document.write(vLine)
+
+vLine = '<tr> <td>52 Week Low </td><td> '  + getPgp("xl52") + '</td>  <td> &nbsp;&nbsp;&nbsp;&nbsp;</td>     </tr>'
+   document.write(vLine)
+
+vLine = '</table>  '
+   document.write(vLine)
+
+vLine = '<table> <tr> <td> </td></tr></table></td>'
+   document.write(vLine)
+
+vLine ='<td align="left"><div id="curve_chart" style="width: 800px; height: 300px"></div></td>'
+document.write(vLine)
+
+
+
+
+
+
+vLine = '</tr></table>'
+   document.write(vLine)
+
+
+vLine = '<table><tr>'
+   document.write(vLine)
+
+vLine = ' <td> <a href="https://nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=' +  getPgp("xnse") + '" target="_new"><img src="img/nse.png"  width="100" height="40"></a></td>'
+   document.write(vLine)
+
+
+vLine = ' <td>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://finance.google.com/finance?q=NSE:' +  getPgp("xnse") + '" target="_new"><img src="img/gfin.png"  width="120" height="50"></a></td>'
+   document.write(vLine)
+
+vLine = ' <td>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://finance.yahoo.com/quote/' +  getPgp("xnse") + '.NS" target="_new"><img src="img/yfin.png"  width="120" height="50"></a></td>'
+   document.write(vLine)
+
+vLine = '</tr></table>'
+   document.write(vLine)
+
+
+document.write("</body>")
+
+</script>
+
+</html>
