@@ -76,19 +76,25 @@ var gq2 = getPgp("gq2");
 var gq3 = getPgp("gq3");
 var gq4 = getPgp("gq4");
 
+var vq0 = getPgp("var_q0");
+var vq1 = getPgp("var_q1");
+var vq2 = getPgp("var_q2");
+var vq3 = getPgp("var_q3");
+var vq4 = getPgp("var_q4");
+
 
 var vlastrate =  getPgp("xcl");
 var v52whv = getCalc("52wv",vlastrate,v52wh,-1);
 var v52wlv = getCalc("52wv",vlastrate,v52wl,-1);
 
 
-var vLine ='<table width="700" border="0" ><tr BGCOLOR="#b3b3ff" ><td><a><font face="book antiqua" size="4"><b>Detail Stock Analysis</b></font></a></td></tr></table>'
+var vLine ='<table width="700" border="0" ><tr BGCOLOR="#76D7C4" ><td><a><font face="book antiqua" size="4"><b>Detail Stock Analysis</b></font></a></td></tr></table>'
 document.write(vLine)
 
 vLine ='<a><font face="book antiqua" size="3"><i>Listing of Trending analysis</i></font></a> <hr> Analytics generated as on closing : ' + getPgp("xdt") +'<br><br><a href="javascript:this.location.reload();" style="color: #38ACEC; font-weight: normal">Refresh page</a> <br>'
 document.write(vLine)
 
-vLine ='<br><table border="0"><tr bgcolor="#ccccff"><td>' + getPgp("xnse") + '</td><td> '  + getPgp("xname")+ '</td></tr>'
+vLine ='<br><table border="0"><tr bgcolor="#D1F2EB"><td>' + getPgp("xnse") + '</td><td> '  + getPgp("xname")+ '</td></tr>'
 document.write(vLine)
 
 /*  Trending analysis starts here --*/
@@ -98,7 +104,7 @@ vLine = '<tr><td valign="top">   Last Price : ' + vlastrate  + '<br><br>'
 
 /*  Individual tables 52w --*/
    
- vLine = '<table border="0"><tr bgcolor="#ccccff"><td> 52 Week </td><td align="right">Value</td><td align="right">% Var</td></tr>'
+ vLine = '<table border="0"><tr bgcolor="#D1F2EB"><td> 52 Week </td><td align="right">Value</td><td align="right">% Var</td></tr>'
     document.write(vLine)
 
  vLine = '<tr><td> High </td><td align="right">' + v52wh + '</td><td align="right">' + v52whv + '%</td></tr>'
@@ -109,27 +115,27 @@ vLine = '<tr><td valign="top">   Last Price : ' + vlastrate  + '<br><br>'
 
 /*  Individual tables Profits --*/
 
-vLine = 'Growth Trend <br> <table border="0"><tr bgcolor="#ccccff"><td>Qtr</td><td align="right">High Val</td><td align="right">Low Val</td><td align="right">% Chg Prev Qtr</td></tr>'
+vLine = 'Growth Trend <br> <table border="0"><tr bgcolor="#D1F2EB"><td>Qtr</td><td align="right">High Val</td><td align="right">Low Val</td><td align="right">Prv Q Chg%</td><td align="right">Cur Q Chg%</td></tr>'
     document.write(vLine)
 
- vLine = '<tr><td>Q1</td><td align="right">' + hq0 + '</td><td align="right">' + lq0 + '</td><td align="right">' + "-" + '</td></tr>'
+ vLine = '<tr><td>Q0</td><td align="right">' + hq0 + '</td><td align="right">' + lq0 + '</td><td align="right">' + "-" + '</td><td align="right">' + vq0+ '%</td></tr>'
     document.write(vLine)
 
-	vLine = '<tr><td>Q1</td><td align="right">' + hq1 + '</td><td align="right">' + lq1 + '</td><td align="right">' + gq1 + '%</td></tr>'
+	vLine = '<tr><td>Q1</td><td align="right">' + hq1 + '</td><td align="right">' + lq1 + '</td><td align="right">' + gq1 + '%</td><td align="right">' + vq1 + '%</td></tr>'
     document.write(vLine)
 
- vLine = '<tr><td>Q2</td><td align="right">' + hq2 + '</td><td align="right">' + hq2 + '</td><td align="right">' +  gq2 + '%</td></tr>'
+ vLine = '<tr><td>Q2</td><td align="right">' + hq2 + '</td><td align="right">' + lq2 + '</td><td align="right">' +  gq2 + '%</td><td align="right">' + vq2 + '%</td></tr>'
     document.write(vLine)
 
- vLine = '<tr><td>Q3</td><td align="right">' + hq3 + '</td><td align="right">' + hq3 + '</td><td align="right">' +  gq3 + '%</td></tr>'
+ vLine = '<tr><td>Q3</td><td align="right">' + hq3 + '</td><td align="right">' + lq3 + '</td><td align="right">' +  gq3 + '%</td><td align="right">' + vq3 + '%</td></tr>'
  document.write(vLine)
 	
- vLine = '<tr><td>Q4</td><td align="right">' + hq4 + '</td><td align="right">' + hq4 + '</td><td align="right">' +  gq4 + '%</td></tr></table>'
+ vLine = '<tr><td>Q4</td><td align="right">' + hq4 + '</td><td align="right">' + lq4 + '</td><td align="right">' +  gq4 + '%</td><td align="right">' + vq4 + '%</td></tr></table>'
  document.write(vLine)
 
 	/* Second col chart starts here */	
    
-vLine = '</td> <td align="left"><div id="curve_chart" style="width: 800px; height: 300px"></div><br>' 
+vLine = '</td> <td align="left"><div id="curve_chart" style="width: 700px; height: 250px"></div><br>' 
    document.write(vLine)
 
 
