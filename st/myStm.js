@@ -32,7 +32,11 @@ function getCalc(xfrm,xval1,xval2,xval3)
 
   if( xfrm == "52wv")
   {
-   /* get 52w high/low variance  */
+   /* get 52w high/low variance  
+     xfrm = not used
+	 xval1 = start price
+	 xval3 = end price
+   */
 	var xret = ((100*xval1/xval2) - 100);
 	xret = xret.toFixed(2);
     return xret ;	
