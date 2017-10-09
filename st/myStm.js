@@ -1,3 +1,8 @@
+function LoadOnce()
+{
+ window.location.reload();
+}
+
 function getPgp(name)
 {
 
