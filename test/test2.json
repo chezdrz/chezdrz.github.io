@@ -5,7 +5,7 @@ export default [
       {
         code: ‘Item1’,
         nm: ‘Item1 name’,
-        last: '200',
+        last: '200', 
         v1: '4%',
         v2:'424',
         v3:'100',
