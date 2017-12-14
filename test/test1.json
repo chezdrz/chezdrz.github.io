@@ -1,11 +1,46 @@
-[
 {
- id: 1,
- message: "Hello world"
-},
-{
- id: 2,
- message: "Hello world message 2"
+	"stocklist": {
+		"category": [
+			{
+				"stock": [
+					{
+						"nse": "ACC",
+						"name": " ACC Name",
+						"open": "100 ",
+						"close": "120 "
+					},
+					{
+						"nse": "SBIN",
+						"name": " SBIN Name",
+						"open": "1002 ",
+						"close": "1202 "
+					}
+				],
+				"_catname": "alpha"
+			},
+			{
+				"stock": [
+					{
+						"nse": "ITC",
+						"name": " ITC Name",
+						"open": "1200 ",
+						"close": "1220 "
+					},
+					{
+						"nse": "REL",
+						"name": " REL Name",
+						"open": "1002 ",
+						"close": "1202 "
+					},
+					{
+						"nse": "ICICI",
+						"name": " ICICI Name",
+						"open": "10022 ",
+						"close": "12022 "
+					}
+				],
+				"_catname": "bravo"
+			}
+		]
+	}
 }
-
-]
