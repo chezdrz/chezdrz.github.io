@@ -1,0 +1,12 @@
+[ 
+{ "sector_name":"Auto","icon":"car" }
+,{ "sector_name":"FMCG","icon":"cart" }
+,{ "sector_name":"Financial Services","icon":"calculator" }
+,{ "sector_name":"IT","icon":"laptop" }
+,{ "sector_name":"Media","icon":"film" }
+,{ "sector_name":"Metal","icon":"build" }
+,{ "sector_name":"PSU Bank","icon":"globe" }
+,{ "sector_name":"Pharma","icon":"thermometer" }
+,{ "sector_name":"Private Bank","icon":"card" }
+,{ "sector_name":"Reality","icon":"home" }
+ ]
