@@ -1,18 +1,19 @@
 [ 
-{ "nse_code":"BEPL","nse_name":"Bhansali Engineering Polymers Limited","blu":"N","last_p":168.75,"v52_hi":217.50,"v52_lo":22.25 }
-,{ "nse_code":"SUNFLAG","nse_name":"Sunflag Iron And Steel Company Limited","blu":"N","last_p":86.10,"v52_hi":100.40,"v52_lo":34.30 }
-,{ "nse_code":"LUXIND","nse_name":"Lux Industries Limited","blu":"N","last_p":1763.25,"v52_hi":1929.00,"v52_lo":650.00 }
-,{ "nse_code":"WELCORP","nse_name":"Welspun Corp Limited","blu":"N","last_p":173.25,"v52_hi":197.15,"v52_lo":80.65 }
-,{ "nse_code":"NOCIL","nse_name":"NOCIL Limited","blu":"N","last_p":204.20,"v52_hi":236.40,"v52_lo":79.90 }
-,{ "nse_code":"KEC","nse_name":"KEC International Limited","blu":"N","last_p":406.30,"v52_hi":437.85,"v52_lo":161.50 }
-,{ "nse_code":"TATAGLOBAL","nse_name":"Tata Global Beverages Limited","blu":"N","last_p":274.15,"v52_hi":328.75,"v52_lo":136.75 }
-,{ "nse_code":"DMART","nse_name":"Avenue Supermarts Limited","blu":"N","last_p":1327.15,"v52_hi":1387.00,"v52_lo":558.30 }
-,{ "nse_code":"ASHOKLEY","nse_name":"Ashok Leyland Limited","blu":"Y","last_p":139.85,"v52_hi":143.90,"v52_lo":80.75 }
-,{ "nse_code":"ASTRAL","nse_name":"Astral Poly Technik Limited","blu":"N","last_p":851.50,"v52_hi":950.00,"v52_lo":434.95 }
-,{ "nse_code":"VOLTAS","nse_name":"Voltas Limited","blu":"N","last_p":622.85,"v52_hi":675.30,"v52_lo":368.10 }
-,{ "nse_code":"KNRCON","nse_name":"KNR Constructions Limited","blu":"N","last_p":297.15,"v52_hi":349.00,"v52_lo":175.00 }
-,{ "nse_code":"GENUSPOWER","nse_name":"Genus Power Infrastructures Limited","blu":"N","last_p":57.70,"v52_hi":86.10,"v52_lo":36.60 }
-,{ "nse_code":"HINDUNILVR","nse_name":"Hindustan Unilever Limited","blu":"Y","last_p":1293.20,"v52_hi":1410.00,"v52_lo":862.20 }
-,{ "nse_code":"GAYAPROJ","nse_name":"Gayatri Projects Limited","blu":"N","last_p":207.15,"v52_hi":239.00,"v52_lo":132.60 }
-,{ "nse_code":"HDFCBANK","nse_name":"HDFC Bank Limited","blu":"Y","last_p":1846.25,"v52_hi":2015.00,"v52_lo":1373.10 }
+{ "nse_code":"BEPL","nse_name":"Bhansali Engineering Polymers Limited","blu":"N","last_p":164.70,"v52_hi":217.50,"v52_lo":22.25 }
+,{ "nse_code":"ORIENTLTD","nse_name":"Orient Press Limited","blu":"N","last_p":241.95,"v52_hi":254.95,"v52_lo":60.05 }
+,{ "nse_code":"SUNFLAG","nse_name":"Sunflag Iron And Steel Company Limited","blu":"N","last_p":81.45,"v52_hi":100.40,"v52_lo":34.30 }
+,{ "nse_code":"LUXIND","nse_name":"Lux Industries Limited","blu":"N","last_p":1691.25,"v52_hi":1929.00,"v52_lo":650.00 }
+,{ "nse_code":"WELCORP","nse_name":"Welspun Corp Limited","blu":"N","last_p":165.70,"v52_hi":197.15,"v52_lo":80.65 }
+,{ "nse_code":"NOCIL","nse_name":"NOCIL Limited","blu":"N","last_p":196.40,"v52_hi":236.40,"v52_lo":79.90 }
+,{ "nse_code":"KEC","nse_name":"KEC International Limited","blu":"N","last_p":405.40,"v52_hi":437.85,"v52_lo":161.50 }
+,{ "nse_code":"TATAGLOBAL","nse_name":"Tata Global Beverages Limited","blu":"N","last_p":268.90,"v52_hi":328.75,"v52_lo":136.75 }
+,{ "nse_code":"DMART","nse_name":"Avenue Supermarts Limited","blu":"N","last_p":1298.80,"v52_hi":1387.00,"v52_lo":558.30 }
+,{ "nse_code":"ASHOKLEY","nse_name":"Ashok Leyland Limited","blu":"Y","last_p":141.25,"v52_hi":143.90,"v52_lo":80.75 }
+,{ "nse_code":"ASTRAL","nse_name":"Astral Poly Technik Limited","blu":"N","last_p":846.40,"v52_hi":950.00,"v52_lo":440.00 }
+,{ "nse_code":"VOLTAS","nse_name":"Voltas Limited","blu":"N","last_p":626.60,"v52_hi":675.30,"v52_lo":376.15 }
+,{ "nse_code":"KNRCON","nse_name":"KNR Constructions Limited","blu":"N","last_p":291.80,"v52_hi":349.00,"v52_lo":175.00 }
+,{ "nse_code":"GENUSPOWER","nse_name":"Genus Power Infrastructures Limited","blu":"N","last_p":57.00,"v52_hi":86.10,"v52_lo":36.60 }
+,{ "nse_code":"HINDUNILVR","nse_name":"Hindustan Unilever Limited","blu":"Y","last_p":1293.85,"v52_hi":1410.00,"v52_lo":862.20 }
+,{ "nse_code":"GAYAPROJ","nse_name":"Gayatri Projects Limited","blu":"N","last_p":206.95,"v52_hi":239.00,"v52_lo":132.60 }
+,{ "nse_code":"HDFCBANK","nse_name":"HDFC Bank Limited","blu":"Y","last_p":1832.60,"v52_hi":2015.00,"v52_lo":1376.20 }
  ]
