@@ -193,7 +193,6 @@
 ,{"nse_code":"BLISSGVS","nse_name":"Bliss GVS Pharma Limited"}
 ,{"nse_code":"BLKASHYAP","nse_name":"B. L. Kashyap and Sons Limited"}
 ,{"nse_code":"BLUEBLENDS","nse_name":"Blue Blends (I) Limited"}
-,{"nse_code":"BLUECOAST","nse_name":"Blue Coast Hotels Limited"}
 ,{"nse_code":"BLUEDART","nse_name":"Blue Dart Express Limited"}
 ,{"nse_code":"BLUESTARCO","nse_name":"Blue Star Limited"}
 ,{"nse_code":"BODALCHEM","nse_name":"Bodal Chemicals Limited"}
@@ -370,7 +369,6 @@
 ,{"nse_code":"ESSELPACK","nse_name":"Essel Propack Limited"}
 ,{"nse_code":"ESTER","nse_name":"Ester Industries Limited"}
 ,{"nse_code":"EUROCERA","nse_name":"Euro Ceramics Limited"}
-,{"nse_code":"EUROMULTI","nse_name":"Euro Multivision Limited"}
 ,{"nse_code":"EUROTEXIND","nse_name":"Eurotex Industries and Exports Limited"}
 ,{"nse_code":"EVEREADY","nse_name":"Eveready Industries India Limited"}
 ,{"nse_code":"EVERESTIND","nse_name":"Everest Industries Limited"}
@@ -493,7 +491,6 @@
 ,{"nse_code":"HATSUN","nse_name":"Hatsun Agro Product Limited"}
 ,{"nse_code":"HAVELLS","nse_name":"Havells India Limited"}
 ,{"nse_code":"HBLPOWER","nse_name":"HBL Power Systems Limited"}
-,{"nse_code":"HBSTOCK","nse_name":"HB Stockholdings Limited"}
 ,{"nse_code":"HCC","nse_name":"Hindustan Construction Company Limited"}
 ,{"nse_code":"HCG","nse_name":"Healthcare Global Enterprises Limited"}
 ,{"nse_code":"HCL-INSYS","nse_name":"HCL Infosystems Limited"}
@@ -614,7 +611,6 @@
 ,{"nse_code":"JAGSNPHARM","nse_name":"Jagsonpal Pharmaceuticals Limited"}
 ,{"nse_code":"JAIBALAJI","nse_name":"Jai Balaji Industries Limited"}
 ,{"nse_code":"JAICORPLTD","nse_name":"Jai Corp Limited"}
-,{"nse_code":"JAIHINDPRO","nse_name":"Jaihind Projects Limited"}
 ,{"nse_code":"JAYBARMARU","nse_name":"Jay Bharat Maruti Limited"}
 ,{"nse_code":"JAYNECOIND","nse_name":"Jayaswal Neco Industries Limited"}
 ,{"nse_code":"JAYSREETEA","nse_name":"Jayshree Tea & Industries Limited"}
@@ -1015,6 +1011,7 @@
 ,{"nse_code":"PVR","nse_name":"PVR Limited"}
 ,{"nse_code":"QUESS","nse_name":"Quess Corp Limited"}
 ,{"nse_code":"QUICKHEAL","nse_name":"Quick Heal Technologies Limited"}
+,{"nse_code":"RADAAN","nse_name":"Radaan Mediaworks India Limited"}
 ,{"nse_code":"RADICO","nse_name":"Radico Khaitan Limited"}
 ,{"nse_code":"RADIOCITY","nse_name":"Music Broadcast Limited"}
 ,{"nse_code":"RAIN","nse_name":"Rain Industries Limited"}
