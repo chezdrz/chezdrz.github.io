@@ -179,6 +179,7 @@
 ,{"nse_code":"BIGBLOC","nse_name":"Bigbloc Construction Limited"}
 ,{"nse_code":"BIL","nse_name":"Bhartiya International Limited"}
 ,{"nse_code":"BILENERGY","nse_name":"Bil Energy Systems Limited"}
+,{"nse_code":"BILPOWER","nse_name":"Bilpower  Limited"}
 ,{"nse_code":"BINANIIND","nse_name":"Binani Industries Limited"}
 ,{"nse_code":"BINDALAGRO","nse_name":"Oswal Chemicals & Fertilizers Limited"}
 ,{"nse_code":"BIRLACABLE","nse_name":"Birla Cable Limited"}
@@ -364,7 +365,6 @@
 ,{"nse_code":"ESSELPACK","nse_name":"Essel Propack Limited"}
 ,{"nse_code":"ESTER","nse_name":"Ester Industries Limited"}
 ,{"nse_code":"EUROCERA","nse_name":"Euro Ceramics Limited"}
-,{"nse_code":"EUROMULTI","nse_name":"Euro Multivision Limited"}
 ,{"nse_code":"EUROTEXIND","nse_name":"Eurotex Industries and Exports Limited"}
 ,{"nse_code":"EVEREADY","nse_name":"Eveready Industries India Limited"}
 ,{"nse_code":"EVERESTIND","nse_name":"Everest Industries Limited"}
@@ -604,7 +604,6 @@
 ,{"nse_code":"JAGSNPHARM","nse_name":"Jagsonpal Pharmaceuticals Limited"}
 ,{"nse_code":"JAIBALAJI","nse_name":"Jai Balaji Industries Limited"}
 ,{"nse_code":"JAICORPLTD","nse_name":"Jai Corp Limited"}
-,{"nse_code":"JAIHINDPRO","nse_name":"Jaihind Projects Limited"}
 ,{"nse_code":"JAYBARMARU","nse_name":"Jay Bharat Maruti Limited"}
 ,{"nse_code":"JAYNECOIND","nse_name":"Jayaswal Neco Industries Limited"}
 ,{"nse_code":"JAYSREETEA","nse_name":"Jayshree Tea & Industries Limited"}
@@ -707,7 +706,6 @@
 ,{"nse_code":"LAKSHVILAS","nse_name":"Lakshmi Vilas Bank Limited"}
 ,{"nse_code":"LALPATHLAB","nse_name":"Dr. Lal Path Labs Ltd."}
 ,{"nse_code":"LAMBODHARA","nse_name":"Lambodhara Textiles Limited"}
-,{"nse_code":"LAOPALA","nse_name":"La Opala RG Limited"}
 ,{"nse_code":"LASA","nse_name":"Lasa Supergenerics Limited"}
 ,{"nse_code":"LAURUSLABS","nse_name":"Laurus Labs Limited"}
 ,{"nse_code":"LAXMIMACH","nse_name":"Lakshmi Machine Works Limited"}
@@ -1190,6 +1188,7 @@
 ,{"nse_code":"STEELXIND","nse_name":"STEEL EXCHANGE INDIA LIMITED"}
 ,{"nse_code":"STEL","nse_name":"Stel Holdings Limited"}
 ,{"nse_code":"STERTOOLS","nse_name":"Sterling Tools Limited"}
+,{"nse_code":"STINDIA","nse_name":"STI India Limited"}
 ,{"nse_code":"STRTECH","nse_name":"Sterlite Technologies Limited"}
 ,{"nse_code":"SUBEX","nse_name":"Subex Limited"}
 ,{"nse_code":"SUBROS","nse_name":"Subros Limited"}
@@ -1400,6 +1399,7 @@
 ,{"nse_code":"ZENTEC","nse_name":"Zen Technologies Limited"}
 ,{"nse_code":"ZICOM","nse_name":"Zicom Electronic Security Systems Limited"}
 ,{"nse_code":"ZODIACLOTH","nse_name":"Zodiac Clothing Company Limited"}
+,{"nse_code":"ZODJRDMKJ","nse_name":"Zodiac JRD- MKJ Limited"}
 ,{"nse_code":"ZUARI","nse_name":"Zuari Agro Chemicals Limited"}
 ,{"nse_code":"ZUARIGLOB","nse_name":"Zuari Global Limited"}
 ,{"nse_code":"ZYDUSWELL","nse_name":"Zydus Wellness Limited"}
