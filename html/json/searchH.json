@@ -179,7 +179,6 @@
 ,{"nse_code":"BIGBLOC","nse_name":"Bigbloc Construction Limited"}
 ,{"nse_code":"BIL","nse_name":"Bhartiya International Limited"}
 ,{"nse_code":"BILENERGY","nse_name":"Bil Energy Systems Limited"}
-,{"nse_code":"BILPOWER","nse_name":"Bilpower  Limited"}
 ,{"nse_code":"BINANIIND","nse_name":"Binani Industries Limited"}
 ,{"nse_code":"BINDALAGRO","nse_name":"Oswal Chemicals & Fertilizers Limited"}
 ,{"nse_code":"BIRLACABLE","nse_name":"Birla Cable Limited"}
@@ -190,7 +189,6 @@
 ,{"nse_code":"BLISSGVS","nse_name":"Bliss GVS Pharma Limited"}
 ,{"nse_code":"BLKASHYAP","nse_name":"B. L. Kashyap and Sons Limited"}
 ,{"nse_code":"BLUEBLENDS","nse_name":"Blue Blends (I) Limited"}
-,{"nse_code":"BLUECOAST","nse_name":"Blue Coast Hotels Limited"}
 ,{"nse_code":"BLUEDART","nse_name":"Blue Dart Express Limited"}
 ,{"nse_code":"BLUESTARCO","nse_name":"Blue Star Limited"}
 ,{"nse_code":"BODALCHEM","nse_name":"Bodal Chemicals Limited"}
@@ -286,6 +284,7 @@
 ,{"nse_code":"DBCORP","nse_name":"D.B.Corp Limited"}
 ,{"nse_code":"DBL","nse_name":"Dilip Buildcon Limited"}
 ,{"nse_code":"DBREALTY","nse_name":"D B Realty Limited"}
+,{"nse_code":"DBSTOCKBRO","nse_name":"DB (International) Stock Brokers Limited"}
 ,{"nse_code":"DCAL","nse_name":"Dishman Carbogen Amcis Limited"}
 ,{"nse_code":"DCBBANK","nse_name":"DCB Bank Limited"}
 ,{"nse_code":"DCM","nse_name":"DCM  Limited"}
@@ -468,7 +467,6 @@
 ,{"nse_code":"GSPL","nse_name":"Gujarat State Petronet Limited"}
 ,{"nse_code":"GSS","nse_name":"GSS Infotech Limited"}
 ,{"nse_code":"GTL","nse_name":"GTL Limited"}
-,{"nse_code":"GTLINFRA","nse_name":"GTL Infrastructure Limited"}
 ,{"nse_code":"GTNIND","nse_name":"GTN Industries Limited"}
 ,{"nse_code":"GTNTEX","nse_name":"GTN Textiles Limited"}
 ,{"nse_code":"GTPL","nse_name":"GTPL Hathway Limited"}
@@ -604,7 +602,6 @@
 ,{"nse_code":"JAGSNPHARM","nse_name":"Jagsonpal Pharmaceuticals Limited"}
 ,{"nse_code":"JAIBALAJI","nse_name":"Jai Balaji Industries Limited"}
 ,{"nse_code":"JAICORPLTD","nse_name":"Jai Corp Limited"}
-,{"nse_code":"JAIHINDPRO","nse_name":"Jaihind Projects Limited"}
 ,{"nse_code":"JAYBARMARU","nse_name":"Jay Bharat Maruti Limited"}
 ,{"nse_code":"JAYNECOIND","nse_name":"Jayaswal Neco Industries Limited"}
 ,{"nse_code":"JAYSREETEA","nse_name":"Jayshree Tea & Industries Limited"}
@@ -805,6 +802,7 @@
 ,{"nse_code":"MMFL","nse_name":"MM Forgings Limited"}
 ,{"nse_code":"MMTC","nse_name":"MMTC Limited"}
 ,{"nse_code":"MOHITIND","nse_name":"Mohit Industries Limited"}
+,{"nse_code":"MOHOTAIND","nse_name":"Mohota Industries Limited"}
 ,{"nse_code":"MOIL","nse_name":"MOIL Limited"}
 ,{"nse_code":"MOLDTECH","nse_name":"Mold-Tek Technologies Limited"}
 ,{"nse_code":"MOLDTKPAC","nse_name":"Mold-Tek Packaging Limited"}
@@ -1227,7 +1225,6 @@
 ,{"nse_code":"TAJGVK","nse_name":"Taj GVK Hotels & Resorts Limited"}
 ,{"nse_code":"TAKE","nse_name":"Take Solutions Limited"}
 ,{"nse_code":"TALBROAUTO","nse_name":"Talbros Automotive Components Limited"}
-,{"nse_code":"TALWALKARS","nse_name":"Talwalkars Better Value Fitness Limited"}
 ,{"nse_code":"TANLA","nse_name":"Tanla Solutions Limited"}
 ,{"nse_code":"TARAJEWELS","nse_name":"Tara Jewels Limited"}
 ,{"nse_code":"TARAPUR","nse_name":"Tarapur Transformers Limited"}
@@ -1395,12 +1392,10 @@
 ,{"nse_code":"ZEEL","nse_name":"Zee Entertainment Enterprises Limited"}
 ,{"nse_code":"ZEELEARN","nse_name":"Zee Learn Limited"}
 ,{"nse_code":"ZEEMEDIA","nse_name":"Zee Media Corporation Limited"}
-,{"nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited"}
 ,{"nse_code":"ZENSARTECH","nse_name":"Zensar Technologies Limited"}
 ,{"nse_code":"ZENTEC","nse_name":"Zen Technologies Limited"}
 ,{"nse_code":"ZICOM","nse_name":"Zicom Electronic Security Systems Limited"}
 ,{"nse_code":"ZODIACLOTH","nse_name":"Zodiac Clothing Company Limited"}
-,{"nse_code":"ZODJRDMKJ","nse_name":"Zodiac JRD- MKJ Limited"}
 ,{"nse_code":"ZUARI","nse_name":"Zuari Agro Chemicals Limited"}
 ,{"nse_code":"ZUARIGLOB","nse_name":"Zuari Global Limited"}
 ,{"nse_code":"ZYDUSWELL","nse_name":"Zydus Wellness Limited"}
