@@ -80,7 +80,6 @@
 ,{"nse_code":"APOLSINHOT","nse_name":"Apollo Sindoori Hotels Limited"}
 ,{"nse_code":"APTECHT","nse_name":"Aptech Limited"}
 ,{"nse_code":"ARCHIDPLY","nse_name":"Archidply Industries Limited"}
-,{"nse_code":"ARENTERP","nse_name":"Rajdarshan Industries Limited"}
 ,{"nse_code":"ARIES","nse_name":"Aries Agro Limited"}
 ,{"nse_code":"ARIHANTSUP","nse_name":"Arihant Superstructures Limited"}
 ,{"nse_code":"AROGRANITE","nse_name":"Aro Granite Industries Limited"}
@@ -176,7 +175,6 @@
 ,{"nse_code":"BHUSANSTL","nse_name":"Bhushan Steel Limited"}
 ,{"nse_code":"BIGBLOC","nse_name":"Bigbloc Construction Limited"}
 ,{"nse_code":"BIL","nse_name":"Bhartiya International Limited"}
-,{"nse_code":"BILPOWER","nse_name":"Bilpower  Limited"}
 ,{"nse_code":"BINANIIND","nse_name":"Binani Industries Limited"}
 ,{"nse_code":"BINDALAGRO","nse_name":"Oswal Chemicals & Fertilizers Limited"}
 ,{"nse_code":"BIRLACORPN","nse_name":"Birla Corporation Limited"}
@@ -185,7 +183,6 @@
 ,{"nse_code":"BLKASHYAP","nse_name":"B. L. Kashyap and Sons Limited"}
 ,{"nse_code":"BLS","nse_name":"BLS International Services Limited"}
 ,{"nse_code":"BLUEBLENDS","nse_name":"Blue Blends (I) Limited"}
-,{"nse_code":"BLUECOAST","nse_name":"Blue Coast Hotels Limited"}
 ,{"nse_code":"BLUEDART","nse_name":"Blue Dart Express Limited"}
 ,{"nse_code":"BLUESTARCO","nse_name":"Blue Star Limited"}
 ,{"nse_code":"BODALCHEM","nse_name":"Bodal Chemicals Limited"}
@@ -265,6 +262,7 @@
 ,{"nse_code":"CUB","nse_name":"City Union Bank Limited"}
 ,{"nse_code":"CUMMINSIND","nse_name":"Cummins India Limited"}
 ,{"nse_code":"CUPID","nse_name":"Cupid Limited"}
+,{"nse_code":"CYBERMEDIA","nse_name":"Cyber Media (India) Limited"}
 ,{"nse_code":"CYBERTECH","nse_name":"Cybertech Systems And Software Limited"}
 ,{"nse_code":"CYIENT","nse_name":"Cyient Limited"}
 ,{"nse_code":"DAAWAT","nse_name":"LT Foods Limited"}
@@ -286,7 +284,6 @@
 ,{"nse_code":"DEEPAKNTR","nse_name":"Deepak Nitrite Limited"}
 ,{"nse_code":"DEEPIND","nse_name":"Deep Industries Limited"}
 ,{"nse_code":"DELTACORP","nse_name":"Delta Corp Limited"}
-,{"nse_code":"DELTAMAGNT","nse_name":"Delta Magnets Limited"}
 ,{"nse_code":"DEN","nse_name":"Den Networks Limited"}
 ,{"nse_code":"DENABANK","nse_name":"Dena Bank"}
 ,{"nse_code":"DENORA","nse_name":"De Nora India Limited"}
@@ -350,6 +347,7 @@
 ,{"nse_code":"ESSELPACK","nse_name":"Essel Propack Limited"}
 ,{"nse_code":"ESTER","nse_name":"Ester Industries Limited"}
 ,{"nse_code":"EUROCERA","nse_name":"Euro Ceramics Limited"}
+,{"nse_code":"EUROMULTI","nse_name":"Euro Multivision Limited"}
 ,{"nse_code":"EUROTEXIND","nse_name":"Eurotex Industries and Exports Limited"}
 ,{"nse_code":"EVEREADY","nse_name":"Eveready Industries India Limited"}
 ,{"nse_code":"EVERESTIND","nse_name":"Everest Industries Limited"}
@@ -652,6 +650,7 @@
 ,{"nse_code":"KELLTONTEC","nse_name":"Kellton Tech Solutions Limited"}
 ,{"nse_code":"KESARENT","nse_name":"Kesar Enterprises Limited"}
 ,{"nse_code":"KESORAMIND","nse_name":"Kesoram Industries Limited"}
+,{"nse_code":"KEYCORPSER","nse_name":"Keynote Corporate Services Limited"}
 ,{"nse_code":"KHADIM","nse_name":"Khadim India Limited"}
 ,{"nse_code":"KHAITANLTD","nse_name":"Khaitan (India) Limited"}
 ,{"nse_code":"KHANDSE","nse_name":"Khandwala Securities Limited"}
@@ -860,7 +859,6 @@
 ,{"nse_code":"NMDC","nse_name":"NMDC Limited"}
 ,{"nse_code":"NOCIL","nse_name":"NOCIL Limited"}
 ,{"nse_code":"NOIDATOLL","nse_name":"Noida Toll Bridge Company Limited"}
-,{"nse_code":"NORBTEAEXP","nse_name":"Norben Tea & Exports Limited"}
 ,{"nse_code":"NRAIL","nse_name":"N R Agarwal Industries Limited"}
 ,{"nse_code":"NRBBEARING","nse_name":"NRB Bearing Limited"}
 ,{"nse_code":"NSIL","nse_name":"Nalwa Sons Investments Limited"}
@@ -914,7 +912,6 @@
 ,{"nse_code":"PDMJEPAPER","nse_name":"Pudumjee Paper Products Limited"}
 ,{"nse_code":"PDPL","nse_name":"Parenteral Drugs (India) Limited"}
 ,{"nse_code":"PDSMFL","nse_name":"PDS Multinational Fashions Limited"}
-,{"nse_code":"PEARLPOLY","nse_name":"Pearl Polymers Limited"}
 ,{"nse_code":"PEL","nse_name":"Piramal Enterprises Limited"}
 ,{"nse_code":"PENIND","nse_name":"Pennar Industries Limited"}
 ,{"nse_code":"PENINLAND","nse_name":"Peninsula Land Limited"}
@@ -961,7 +958,6 @@
 ,{"nse_code":"PRECWIRE","nse_name":"Precision Wires India Limited"}
 ,{"nse_code":"PREMEXPLN","nse_name":"Premier Explosives Limited"}
 ,{"nse_code":"PREMIER","nse_name":"Premier Limited"}
-,{"nse_code":"PREMIERPOL","nse_name":"Premier Polyfilm Limited"}
 ,{"nse_code":"PRESSMN","nse_name":"Pressman Advertising Limited"}
 ,{"nse_code":"PRESTIGE","nse_name":"Prestige Estates Projects Limited"}
 ,{"nse_code":"PRICOLLTD","nse_name":"Pricol Limited"}
@@ -984,7 +980,6 @@
 ,{"nse_code":"RADICO","nse_name":"Radico Khaitan Limited"}
 ,{"nse_code":"RADIOCITY","nse_name":"Music Broadcast Limited"}
 ,{"nse_code":"RAIN","nse_name":"Rain Industries Limited"}
-,{"nse_code":"RAINBOWPAP","nse_name":"Rainbow Papers Limited"}
 ,{"nse_code":"RAJESHEXPO","nse_name":"Rajesh Exports Limited"}
 ,{"nse_code":"RAJSREESUG","nse_name":"Rajshree Sugars & Chemicals Limited"}
 ,{"nse_code":"RAJTV","nse_name":"Raj Television Network Limited"}
@@ -1169,6 +1164,7 @@
 ,{"nse_code":"SUBEX","nse_name":"Subex Limited"}
 ,{"nse_code":"SUBROS","nse_name":"Subros Limited"}
 ,{"nse_code":"SUDARSCHEM","nse_name":"Sudarshan Chemical Industries Limited"}
+,{"nse_code":"SUJANAUNI","nse_name":"Sujana Universal Industries Limited"}
 ,{"nse_code":"SUMEETINDS","nse_name":"Sumeet Industries Limited"}
 ,{"nse_code":"SUMMITSEC","nse_name":"Summit Securities Limited"}
 ,{"nse_code":"SUNCLAYLTD","nse_name":"Sundaram Clayton Limited"}
@@ -1286,6 +1282,7 @@
 ,{"nse_code":"UJJIVAN","nse_name":"Ujjivan Financial Services Limited"}
 ,{"nse_code":"ULTRACEMCO","nse_name":"UltraTech Cement Limited"}
 ,{"nse_code":"UMANGDAIRY","nse_name":"Umang Dairies Limited"}
+,{"nse_code":"UMESLTD","nse_name":"Usha Martin Education & Solutions Limited"}
 ,{"nse_code":"UNICHEMLAB","nse_name":"Unichem Laboratories Limited"}
 ,{"nse_code":"UNIENTER","nse_name":"Uniphos Enterprises Limited"}
 ,{"nse_code":"UNIONBANK","nse_name":"Union Bank of India"}
