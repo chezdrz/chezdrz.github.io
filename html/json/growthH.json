@@ -1,14 +1,18 @@
 [ 
-{ "nse_code":"FSL","nse_name":"Firstsource Solutions Limited","blu":"N","last_p":79.25,"v52_hi":79.80,"v52_lo":30.35 }
-,{ "nse_code":"KPIT","nse_name":"KPIT Technologies Limited","blu":"N","last_p":273.00,"v52_hi":290.40,"v52_lo":104.05 }
-,{ "nse_code":"SASKEN","nse_name":"Sasken Technologies Limited","blu":"N","last_p":1065.45,"v52_hi":1115.00,"v52_lo":403.00 }
-,{ "nse_code":"TECHM","nse_name":"Tech Mahindra Limited","blu":"Y","last_p":706.95,"v52_hi":729.50,"v52_lo":369.30 }
-,{ "nse_code":"HEXAWARE","nse_name":"Hexaware Technologies Limited","blu":"N","last_p":432.10,"v52_hi":459.30,"v52_lo":228.10 }
-,{ "nse_code":"JSWSTEEL","nse_name":"JSW Steel Limited","blu":"Y","last_p":343.25,"v52_hi":346.50,"v52_lo":192.50 }
-,{ "nse_code":"BRITANNIA","nse_name":"Britannia Industries Limited","blu":"Y","last_p":5917.65,"v52_hi":6017.00,"v52_lo":3523.00 }
-,{ "nse_code":"NESTLEIND","nse_name":"Nestle India Limited","blu":"N","last_p":9888.85,"v52_hi":10000.00,"v52_lo":6530.00 }
-,{ "nse_code":"ASTRAL","nse_name":"Astral Poly Technik Limited","blu":"N","last_p":1011.90,"v52_hi":1058.00,"v52_lo":606.00 }
-,{ "nse_code":"BHARATFIN","nse_name":"Bharat Financial Inclusion Limited","blu":"N","last_p":1155.25,"v52_hi":1183.00,"v52_lo":663.30 }
-,{ "nse_code":"HINDUNILVR","nse_name":"Hindustan Unilever Limited","blu":"Y","last_p":1595.60,"v52_hi":1624.40,"v52_lo":1064.00 }
-,{ "nse_code":"INFY","nse_name":"Infosys Limited","blu":"Y","last_p":1260.05,"v52_hi":1262.00,"v52_lo":860.00 }
+{ "nse_code":"LTI","nse_name":"Larsen & Toubro Infotech Limited","blu":"N","last_p":1671.00,"v52_hi":1759.00,"v52_lo":724.55 }
+,{ "nse_code":"FSL","nse_name":"Firstsource Solutions Limited","blu":"N","last_p":79.40,"v52_hi":80.65,"v52_lo":30.35 }
+,{ "nse_code":"KPIT","nse_name":"KPIT Technologies Limited","blu":"N","last_p":275.10,"v52_hi":290.40,"v52_lo":104.05 }
+,{ "nse_code":"SASKEN","nse_name":"Sasken Technologies Limited","blu":"N","last_p":1038.65,"v52_hi":1115.00,"v52_lo":403.00 }
+,{ "nse_code":"TECHM","nse_name":"Tech Mahindra Limited","blu":"Y","last_p":714.20,"v52_hi":729.50,"v52_lo":369.30 }
+,{ "nse_code":"HEXAWARE","nse_name":"Hexaware Technologies Limited","blu":"N","last_p":433.35,"v52_hi":459.30,"v52_lo":228.10 }
+,{ "nse_code":"DMART","nse_name":"Avenue Supermarts Limited","blu":"N","last_p":1594.40,"v52_hi":1618.80,"v52_lo":789.80 }
+,{ "nse_code":"JSWSTEEL","nse_name":"JSW Steel Limited","blu":"Y","last_p":340.95,"v52_hi":346.50,"v52_lo":192.50 }
+,{ "nse_code":"UBL","nse_name":"United Breweries Limited","blu":"Y","last_p":1270.80,"v52_hi":1291.00,"v52_lo":772.65 }
+,{ "nse_code":"BRITANNIA","nse_name":"Britannia Industries Limited","blu":"Y","last_p":5910.45,"v52_hi":6017.00,"v52_lo":3523.00 }
+,{ "nse_code":"NESTLEIND","nse_name":"Nestle India Limited","blu":"N","last_p":9916.75,"v52_hi":10060.45,"v52_lo":6530.00 }
+,{ "nse_code":"ASTRAL","nse_name":"Astral Poly Technik Limited","blu":"N","last_p":1001.20,"v52_hi":1058.00,"v52_lo":606.00 }
+,{ "nse_code":"BHARATFIN","nse_name":"Bharat Financial Inclusion Limited","blu":"N","last_p":1169.85,"v52_hi":1183.00,"v52_lo":663.30 }
+,{ "nse_code":"HINDUNILVR","nse_name":"Hindustan Unilever Limited","blu":"Y","last_p":1601.40,"v52_hi":1624.40,"v52_lo":1064.00 }
+,{ "nse_code":"APCOTEXIND","nse_name":"Apcotex Industries Limited","blu":"N","last_p":534.65,"v52_hi":612.90,"v52_lo":369.00 }
+,{ "nse_code":"INFY","nse_name":"Infosys Limited","blu":"Y","last_p":1262.40,"v52_hi":1270.00,"v52_lo":860.00 }
  ]
