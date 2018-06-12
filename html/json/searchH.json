@@ -184,7 +184,6 @@
 ,{"nse_code":"BLKASHYAP","nse_name":"B. L. Kashyap and Sons Limited"}
 ,{"nse_code":"BLS","nse_name":"BLS International Services Limited"}
 ,{"nse_code":"BLUEBLENDS","nse_name":"Blue Blends (I) Limited"}
-,{"nse_code":"BLUECOAST","nse_name":"Blue Coast Hotels Limited"}
 ,{"nse_code":"BLUEDART","nse_name":"Blue Dart Express Limited"}
 ,{"nse_code":"BLUESTARCO","nse_name":"Blue Star Limited"}
 ,{"nse_code":"BODALCHEM","nse_name":"Bodal Chemicals Limited"}
@@ -535,6 +534,7 @@
 ,{"nse_code":"IGARASHI","nse_name":"Igarashi Motors India Limited"}
 ,{"nse_code":"IGPL","nse_name":"IG Petrochemicals Limited"}
 ,{"nse_code":"IIFL","nse_name":"IIFL Holdings Limited"}
+,{"nse_code":"IITL","nse_name":"Industrial Investment Trust Limited"}
 ,{"nse_code":"IL&FSENGG","nse_name":"IL&FS Engineering and Construction Company Limited"}
 ,{"nse_code":"IL&FSTRANS","nse_name":"IL&FS Transportation Networks Limited"}
 ,{"nse_code":"IMFA","nse_name":"Indian Metals & Ferro Alloys Limited"}
@@ -853,7 +853,6 @@
 ,{"nse_code":"NMDC","nse_name":"NMDC Limited"}
 ,{"nse_code":"NOCIL","nse_name":"NOCIL Limited"}
 ,{"nse_code":"NOIDATOLL","nse_name":"Noida Toll Bridge Company Limited"}
-,{"nse_code":"NORBTEAEXP","nse_name":"Norben Tea & Exports Limited"}
 ,{"nse_code":"NRAIL","nse_name":"N R Agarwal Industries Limited"}
 ,{"nse_code":"NRBBEARING","nse_name":"NRB Bearing Limited"}
 ,{"nse_code":"NSIL","nse_name":"Nalwa Sons Investments Limited"}
@@ -946,6 +945,7 @@
 ,{"nse_code":"PRAKASH","nse_name":"Prakash Industries Limited"}
 ,{"nse_code":"PRAKASHCON","nse_name":"Prakash Constrowell Limited"}
 ,{"nse_code":"PRECAM","nse_name":"Precision Camshafts Limited"}
+,{"nse_code":"PRECOT","nse_name":"Precot Meridian Limited"}
 ,{"nse_code":"PRECWIRE","nse_name":"Precision Wires India Limited"}
 ,{"nse_code":"PREMEXPLN","nse_name":"Premier Explosives Limited"}
 ,{"nse_code":"PREMIER","nse_name":"Premier Limited"}
