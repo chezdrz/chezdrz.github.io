@@ -255,7 +255,6 @@
 ,{"nse_code":"COSMOFILMS","nse_name":"Cosmo Films Limited"}
 ,{"nse_code":"COUNCODOS","nse_name":"Country Condo's Limited"}
 ,{"nse_code":"COX&KINGS","nse_name":"Cox & Kings Limited"}
-,{"nse_code":"CREATIVEYE","nse_name":"Creative Eye Limited"}
 ,{"nse_code":"CREST","nse_name":"Crest Ventures Limited"}
 ,{"nse_code":"CRISIL","nse_name":"CRISIL Limited"}
 ,{"nse_code":"CROMPTON","nse_name":"Crompton Greaves Consumer Electricals Limited"}
@@ -263,7 +262,6 @@
 ,{"nse_code":"CUB","nse_name":"City Union Bank Limited"}
 ,{"nse_code":"CUMMINSIND","nse_name":"Cummins India Limited"}
 ,{"nse_code":"CUPID","nse_name":"Cupid Limited"}
-,{"nse_code":"CYBERMEDIA","nse_name":"Cyber Media (India) Limited"}
 ,{"nse_code":"CYBERTECH","nse_name":"Cybertech Systems And Software Limited"}
 ,{"nse_code":"CYIENT","nse_name":"Cyient Limited"}
 ,{"nse_code":"DAAWAT","nse_name":"LT Foods Limited"}
@@ -275,7 +273,6 @@
 ,{"nse_code":"DBCORP","nse_name":"D.B.Corp Limited"}
 ,{"nse_code":"DBL","nse_name":"Dilip Buildcon Limited"}
 ,{"nse_code":"DBREALTY","nse_name":"D B Realty Limited"}
-,{"nse_code":"DBSTOCKBRO","nse_name":"DB (International) Stock Brokers Limited"}
 ,{"nse_code":"DCAL","nse_name":"Dishman Carbogen Amcis Limited"}
 ,{"nse_code":"DCBBANK","nse_name":"DCB Bank Limited"}
 ,{"nse_code":"DCM","nse_name":"DCM  Limited"}
@@ -652,7 +649,6 @@
 ,{"nse_code":"KELLTONTEC","nse_name":"Kellton Tech Solutions Limited"}
 ,{"nse_code":"KESARENT","nse_name":"Kesar Enterprises Limited"}
 ,{"nse_code":"KESORAMIND","nse_name":"Kesoram Industries Limited"}
-,{"nse_code":"KEYCORPSER","nse_name":"Keynote Corporate Services Limited"}
 ,{"nse_code":"KHADIM","nse_name":"Khadim India Limited"}
 ,{"nse_code":"KHAITANLTD","nse_name":"Khaitan (India) Limited"}
 ,{"nse_code":"KHANDSE","nse_name":"Khandwala Securities Limited"}
@@ -696,7 +692,6 @@
 ,{"nse_code":"LAURUSLABS","nse_name":"Laurus Labs Limited"}
 ,{"nse_code":"LAXMIMACH","nse_name":"Lakshmi Machine Works Limited"}
 ,{"nse_code":"LEEL","nse_name":"LEEL Electricals Limited"}
-,{"nse_code":"LGBBROSLTD","nse_name":"LG Balakrishnan & Bros Limited"}
 ,{"nse_code":"LIBERTSHOE","nse_name":"Liberty Shoes Limited"}
 ,{"nse_code":"LICHSGFIN","nse_name":"LIC Housing Finance Limited"}
 ,{"nse_code":"LINCOLN","nse_name":"Lincoln Pharmaceuticals Limited"}
@@ -845,7 +840,6 @@
 ,{"nse_code":"NIBL","nse_name":"NRB Industrial Bearings Limited"}
 ,{"nse_code":"NIITLTD","nse_name":"NIIT Limited"}
 ,{"nse_code":"NIITTECH","nse_name":"NIIT Technologies Limited"}
-,{"nse_code":"NILAINFRA","nse_name":"Nila Infrastructures Limited"}
 ,{"nse_code":"NILKAMAL","nse_name":"Nilkamal Limited"}
 ,{"nse_code":"NIPPOBATRY","nse_name":"Indo-National Limited"}
 ,{"nse_code":"NITCO","nse_name":"Nitco Limited"}
@@ -856,6 +850,7 @@
 ,{"nse_code":"NMDC","nse_name":"NMDC Limited"}
 ,{"nse_code":"NOCIL","nse_name":"NOCIL Limited"}
 ,{"nse_code":"NOIDATOLL","nse_name":"Noida Toll Bridge Company Limited"}
+,{"nse_code":"NORBTEAEXP","nse_name":"Norben Tea & Exports Limited"}
 ,{"nse_code":"NRAIL","nse_name":"N R Agarwal Industries Limited"}
 ,{"nse_code":"NRBBEARING","nse_name":"NRB Bearing Limited"}
 ,{"nse_code":"NSIL","nse_name":"Nalwa Sons Investments Limited"}
