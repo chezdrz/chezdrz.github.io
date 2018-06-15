@@ -1,18 +1,19 @@
 [ 
-{ "nse_code":"FSL","nse_name":"Firstsource Solutions Limited","blu":"N","last_p":82.95,"v52_hi":83.90,"v52_lo":30.35 }
-,{ "nse_code":"LTI","nse_name":"Larsen & Toubro Infotech Limited","blu":"N","last_p":1671.85,"v52_hi":1759.00,"v52_lo":724.55 }
-,{ "nse_code":"KPIT","nse_name":"KPIT Technologies Limited","blu":"N","last_p":280.40,"v52_hi":290.40,"v52_lo":104.05 }
-,{ "nse_code":"SASKEN","nse_name":"Sasken Technologies Limited","blu":"N","last_p":1088.50,"v52_hi":1149.00,"v52_lo":403.00 }
-,{ "nse_code":"TECHM","nse_name":"Tech Mahindra Limited","blu":"Y","last_p":698.80,"v52_hi":729.50,"v52_lo":369.30 }
-,{ "nse_code":"HEXAWARE","nse_name":"Hexaware Technologies Limited","blu":"N","last_p":448.55,"v52_hi":459.30,"v52_lo":228.10 }
-,{ "nse_code":"DMART","nse_name":"Avenue Supermarts Limited","blu":"N","last_p":1568.50,"v52_hi":1623.00,"v52_lo":789.80 }
-,{ "nse_code":"JSWSTEEL","nse_name":"JSW Steel Limited","blu":"Y","last_p":339.05,"v52_hi":346.50,"v52_lo":192.50 }
-,{ "nse_code":"UBL","nse_name":"United Breweries Limited","blu":"Y","last_p":1290.35,"v52_hi":1299.00,"v52_lo":773.95 }
-,{ "nse_code":"BRITANNIA","nse_name":"Britannia Industries Limited","blu":"Y","last_p":6001.75,"v52_hi":6080.00,"v52_lo":3523.00 }
-,{ "nse_code":"NESTLEIND","nse_name":"Nestle India Limited","blu":"N","last_p":9756.75,"v52_hi":10060.45,"v52_lo":6530.00 }
-,{ "nse_code":"BHARATFIN","nse_name":"Bharat Financial Inclusion Limited","blu":"N","last_p":1184.55,"v52_hi":1196.00,"v52_lo":663.30 }
-,{ "nse_code":"ASTRAL","nse_name":"Astral Poly Technik Limited","blu":"N","last_p":1006.50,"v52_hi":1058.00,"v52_lo":606.00 }
-,{ "nse_code":"HINDUNILVR","nse_name":"Hindustan Unilever Limited","blu":"Y","last_p":1609.60,"v52_hi":1645.00,"v52_lo":1064.00 }
-,{ "nse_code":"APCOTEXIND","nse_name":"Apcotex Industries Limited","blu":"N","last_p":539.40,"v52_hi":612.90,"v52_lo":369.00 }
-,{ "nse_code":"INFY","nse_name":"Infosys Limited","blu":"Y","last_p":1239.70,"v52_hi":1284.00,"v52_lo":860.00 }
+{ "nse_code":"FSL","nse_name":"Firstsource Solutions Limited","blu":"N","last_p":82.30,"v52_hi":83.90,"v52_lo":30.35 }
+,{ "nse_code":"LTI","nse_name":"Larsen & Toubro Infotech Limited","blu":"N","last_p":1705.65,"v52_hi":1759.00,"v52_lo":724.55 }
+,{ "nse_code":"KPIT","nse_name":"KPIT Technologies Limited","blu":"N","last_p":282.40,"v52_hi":290.40,"v52_lo":104.05 }
+,{ "nse_code":"JUBLFOOD","nse_name":"Jubilant Foodworks Limited","blu":"N","last_p":2765.30,"v52_hi":2784.00,"v52_lo":901.50 }
+,{ "nse_code":"SASKEN","nse_name":"Sasken Technologies Limited","blu":"N","last_p":1115.10,"v52_hi":1149.00,"v52_lo":404.00 }
+,{ "nse_code":"TECHM","nse_name":"Tech Mahindra Limited","blu":"Y","last_p":707.25,"v52_hi":729.50,"v52_lo":369.30 }
+,{ "nse_code":"HEXAWARE","nse_name":"Hexaware Technologies Limited","blu":"N","last_p":444.45,"v52_hi":459.30,"v52_lo":236.00 }
+,{ "nse_code":"DMART","nse_name":"Avenue Supermarts Limited","blu":"N","last_p":1535.35,"v52_hi":1623.00,"v52_lo":789.80 }
+,{ "nse_code":"BRITANNIA","nse_name":"Britannia Industries Limited","blu":"Y","last_p":6136.60,"v52_hi":6179.45,"v52_lo":3523.00 }
+,{ "nse_code":"JSWSTEEL","nse_name":"JSW Steel Limited","blu":"Y","last_p":332.55,"v52_hi":346.50,"v52_lo":192.50 }
+,{ "nse_code":"UBL","nse_name":"United Breweries Limited","blu":"Y","last_p":1270.80,"v52_hi":1309.70,"v52_lo":773.95 }
+,{ "nse_code":"ASTRAL","nse_name":"Astral Poly Technik Limited","blu":"N","last_p":1002.75,"v52_hi":1058.00,"v52_lo":606.00 }
+,{ "nse_code":"NESTLEIND","nse_name":"Nestle India Limited","blu":"N","last_p":9742.50,"v52_hi":10060.45,"v52_lo":6530.00 }
+,{ "nse_code":"BHARATFIN","nse_name":"Bharat Financial Inclusion Limited","blu":"N","last_p":1189.35,"v52_hi":1196.00,"v52_lo":691.00 }
+,{ "nse_code":"HINDUNILVR","nse_name":"Hindustan Unilever Limited","blu":"Y","last_p":1621.30,"v52_hi":1645.00,"v52_lo":1064.00 }
+,{ "nse_code":"INFY","nse_name":"Infosys Limited","blu":"Y","last_p":1281.25,"v52_hi":1291.50,"v52_lo":860.00 }
+,{ "nse_code":"APCOTEXIND","nse_name":"Apcotex Industries Limited","blu":"N","last_p":539.00,"v52_hi":612.90,"v52_lo":369.00 }
  ]
