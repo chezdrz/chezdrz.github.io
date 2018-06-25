@@ -80,6 +80,7 @@
 ,{"nse_code":"APTECHT","nse_name":"Aptech Limited"}
 ,{"nse_code":"ARCHIDPLY","nse_name":"Archidply Industries Limited"}
 ,{"nse_code":"ARCOTECH","nse_name":"Arcotech Limited"}
+,{"nse_code":"ARENTERP","nse_name":"Rajdarshan Industries Limited"}
 ,{"nse_code":"ARIES","nse_name":"Aries Agro Limited"}
 ,{"nse_code":"ARIHANTSUP","nse_name":"Arihant Superstructures Limited"}
 ,{"nse_code":"AROGRANITE","nse_name":"Aro Granite Industries Limited"}
@@ -346,7 +347,6 @@
 ,{"nse_code":"ESCORTS","nse_name":"Escorts Limited"}
 ,{"nse_code":"ESSARSHPNG","nse_name":"Essar Shipping Limited"}
 ,{"nse_code":"ESTER","nse_name":"Ester Industries Limited"}
-,{"nse_code":"EUROCERA","nse_name":"Euro Ceramics Limited"}
 ,{"nse_code":"EUROTEXIND","nse_name":"Eurotex Industries and Exports Limited"}
 ,{"nse_code":"EVEREADY","nse_name":"Eveready Industries India Limited"}
 ,{"nse_code":"EVERESTIND","nse_name":"Everest Industries Limited"}
@@ -498,6 +498,7 @@
 ,{"nse_code":"HINDUNILVR","nse_name":"Hindustan Unilever Limited"}
 ,{"nse_code":"HINDZINC","nse_name":"Hindustan Zinc Limited"}
 ,{"nse_code":"HIRECT","nse_name":"Hind Rectifiers Limited"}
+,{"nse_code":"HISARMETAL","nse_name":"Hisar Metal Industries Limited"}
 ,{"nse_code":"HITECHCORP","nse_name":"Hitech Corporation Limited"}
 ,{"nse_code":"HITECHGEAR","nse_name":"The Hi-Tech Gears Limited"}
 ,{"nse_code":"HMVL","nse_name":"Hindustan Media Ventures Limited"}
@@ -729,7 +730,6 @@
 ,{"nse_code":"MANAKSTEEL","nse_name":"Manaksia Steels Limited"}
 ,{"nse_code":"MANALIPETC","nse_name":"Manali Petrochemicals Limited"}
 ,{"nse_code":"MANAPPURAM","nse_name":"Manappuram Finance Limited"}
-,{"nse_code":"MANDHANA","nse_name":"Mandhana Industries Limited"}
 ,{"nse_code":"MANGALAM","nse_name":"Mangalam Drugs And Organics Limited"}
 ,{"nse_code":"MANGCHEFER","nse_name":"Mangalore Chemicals & Fertilizers Limited"}
 ,{"nse_code":"MANGLMCEM","nse_name":"Mangalam Cement Limited"}
@@ -961,6 +961,7 @@
 ,{"nse_code":"PVR","nse_name":"PVR Limited"}
 ,{"nse_code":"QUESS","nse_name":"Quess Corp Limited"}
 ,{"nse_code":"QUICKHEAL","nse_name":"Quick Heal Technologies Limited"}
+,{"nse_code":"RADAAN","nse_name":"Radaan Mediaworks India Limited"}
 ,{"nse_code":"RADICO","nse_name":"Radico Khaitan Limited"}
 ,{"nse_code":"RADIOCITY","nse_name":"Music Broadcast Limited"}
 ,{"nse_code":"RAIN","nse_name":"Rain Industries Limited"}
@@ -1143,6 +1144,7 @@
 ,{"nse_code":"STEELXIND","nse_name":"STEEL EXCHANGE INDIA LIMITED"}
 ,{"nse_code":"STEL","nse_name":"Stel Holdings Limited"}
 ,{"nse_code":"STERTOOLS","nse_name":"Sterling Tools Limited"}
+,{"nse_code":"STINDIA","nse_name":"STI India Limited"}
 ,{"nse_code":"STRTECH","nse_name":"Sterlite Technologies Limited"}
 ,{"nse_code":"SUBEX","nse_name":"Subex Limited"}
 ,{"nse_code":"SUBROS","nse_name":"Subros Limited"}
@@ -1264,7 +1266,6 @@
 ,{"nse_code":"UNICHEMLAB","nse_name":"Unichem Laboratories Limited"}
 ,{"nse_code":"UNIENTER","nse_name":"Uniphos Enterprises Limited"}
 ,{"nse_code":"UNIONBANK","nse_name":"Union Bank of India"}
-,{"nse_code":"UNIPLY","nse_name":"Uniply Industries Limited"}
 ,{"nse_code":"UNITECH","nse_name":"Unitech Limited"}
 ,{"nse_code":"UNITEDBNK","nse_name":"United Bank of India"}
 ,{"nse_code":"UNITEDTEA","nse_name":"The United Nilgiri Tea Estates Company Limited"}
@@ -1334,7 +1335,6 @@
 ,{"nse_code":"WIPRO","nse_name":"Wipro Limited"}
 ,{"nse_code":"WOCKPHARMA","nse_name":"Wockhardt Limited"}
 ,{"nse_code":"WONDERLA","nse_name":"Wonderla Holidays Limited"}
-,{"nse_code":"WSI","nse_name":"W S Industries (I) Limited"}
 ,{"nse_code":"WSTCSTPAPR","nse_name":"West Coast Paper Mills Limited"}
 ,{"nse_code":"XCHANGING","nse_name":"Xchanging Solutions Limited"}
 ,{"nse_code":"XPROINDIA","nse_name":"Xpro India Limited"}
