@@ -80,11 +80,9 @@
 ,{"nse_code":"APTECHT","nse_name":"Aptech Limited"}
 ,{"nse_code":"ARCHIDPLY","nse_name":"Archidply Industries Limited"}
 ,{"nse_code":"ARCOTECH","nse_name":"Arcotech Limited"}
-,{"nse_code":"ARENTERP","nse_name":"Rajdarshan Industries Limited"}
 ,{"nse_code":"ARIES","nse_name":"Aries Agro Limited"}
 ,{"nse_code":"ARIHANTSUP","nse_name":"Arihant Superstructures Limited"}
 ,{"nse_code":"AROGRANITE","nse_name":"Aro Granite Industries Limited"}
-,{"nse_code":"ARROWGREEN","nse_name":"Arrow Greentech Limited"}
 ,{"nse_code":"ARROWTEX","nse_name":"Arrow Textiles Limited"}
 ,{"nse_code":"ARSHIYA","nse_name":"Arshiya Limited"}
 ,{"nse_code":"ARVIND","nse_name":"Arvind Limited"}
@@ -184,6 +182,7 @@
 ,{"nse_code":"BLKASHYAP","nse_name":"B. L. Kashyap and Sons Limited"}
 ,{"nse_code":"BLS","nse_name":"BLS International Services Limited"}
 ,{"nse_code":"BLUEBLENDS","nse_name":"Blue Blends (I) Limited"}
+,{"nse_code":"BLUECOAST","nse_name":"Blue Coast Hotels Limited"}
 ,{"nse_code":"BLUEDART","nse_name":"Blue Dart Express Limited"}
 ,{"nse_code":"BLUESTARCO","nse_name":"Blue Star Limited"}
 ,{"nse_code":"BODALCHEM","nse_name":"Bodal Chemicals Limited"}
@@ -274,7 +273,6 @@
 ,{"nse_code":"DBCORP","nse_name":"D.B.Corp Limited"}
 ,{"nse_code":"DBL","nse_name":"Dilip Buildcon Limited"}
 ,{"nse_code":"DBREALTY","nse_name":"D B Realty Limited"}
-,{"nse_code":"DBSTOCKBRO","nse_name":"DB (International) Stock Brokers Limited"}
 ,{"nse_code":"DCAL","nse_name":"Dishman Carbogen Amcis Limited"}
 ,{"nse_code":"DCBBANK","nse_name":"DCB Bank Limited"}
 ,{"nse_code":"DCM","nse_name":"DCM  Limited"}
@@ -362,7 +360,6 @@
 ,{"nse_code":"FEL","nse_name":"Future Enterprises Limited"}
 ,{"nse_code":"FELDVR","nse_name":"Future Enterprises Limited"}
 ,{"nse_code":"FIEMIND","nse_name":"Fiem Industries Limited"}
-,{"nse_code":"FILATEX","nse_name":"Filatex India Limited"}
 ,{"nse_code":"FINCABLES","nse_name":"Finolex Cables Limited"}
 ,{"nse_code":"FINPIPE","nse_name":"Finolex Industries Limited"}
 ,{"nse_code":"FLEXITUFF","nse_name":"Flexituff International Limited"}
@@ -645,7 +642,6 @@
 ,{"nse_code":"KELLTONTEC","nse_name":"Kellton Tech Solutions Limited"}
 ,{"nse_code":"KESARENT","nse_name":"Kesar Enterprises Limited"}
 ,{"nse_code":"KESORAMIND","nse_name":"Kesoram Industries Limited"}
-,{"nse_code":"KEYCORPSER","nse_name":"Keynote Corporate Services Limited"}
 ,{"nse_code":"KHADIM","nse_name":"Khadim India Limited"}
 ,{"nse_code":"KHAITANLTD","nse_name":"Khaitan (India) Limited"}
 ,{"nse_code":"KHANDSE","nse_name":"Khandwala Securities Limited"}
@@ -832,7 +828,6 @@
 ,{"nse_code":"NFL","nse_name":"National Fertilizers Limited"}
 ,{"nse_code":"NH","nse_name":"Narayana Hrudayalaya Ltd."}
 ,{"nse_code":"NHPC","nse_name":"NHPC Limited"}
-,{"nse_code":"NIACL","nse_name":"The New India Assurance Company Limited"}
 ,{"nse_code":"NIBL","nse_name":"NRB Industrial Bearings Limited"}
 ,{"nse_code":"NIITLTD","nse_name":"NIIT Limited"}
 ,{"nse_code":"NIITTECH","nse_name":"NIIT Technologies Limited"}
