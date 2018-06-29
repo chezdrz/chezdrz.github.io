@@ -254,6 +254,7 @@
 ,{"nse_code":"COSMOFILMS","nse_name":"Cosmo Films Limited"}
 ,{"nse_code":"COUNCODOS","nse_name":"Country Condo's Limited"}
 ,{"nse_code":"COX&KINGS","nse_name":"Cox & Kings Limited"}
+,{"nse_code":"CREATIVEYE","nse_name":"Creative Eye Limited"}
 ,{"nse_code":"CREST","nse_name":"Crest Ventures Limited"}
 ,{"nse_code":"CRISIL","nse_name":"CRISIL Limited"}
 ,{"nse_code":"CROMPTON","nse_name":"Crompton Greaves Consumer Electricals Limited"}
@@ -273,7 +274,6 @@
 ,{"nse_code":"DBCORP","nse_name":"D.B.Corp Limited"}
 ,{"nse_code":"DBL","nse_name":"Dilip Buildcon Limited"}
 ,{"nse_code":"DBREALTY","nse_name":"D B Realty Limited"}
-,{"nse_code":"DBSTOCKBRO","nse_name":"DB (International) Stock Brokers Limited"}
 ,{"nse_code":"DCAL","nse_name":"Dishman Carbogen Amcis Limited"}
 ,{"nse_code":"DCBBANK","nse_name":"DCB Bank Limited"}
 ,{"nse_code":"DCM","nse_name":"DCM  Limited"}
@@ -331,6 +331,7 @@
 ,{"nse_code":"ELGIEQUIP","nse_name":"Elgi Equipments Limited"}
 ,{"nse_code":"ELGIRUBCO","nse_name":"Elgi Rubber Company Limited"}
 ,{"nse_code":"EMAMIINFRA","nse_name":"Emami Infrastructure Limited"}
+,{"nse_code":"EMAMILTD","nse_name":"Emami Limited"}
 ,{"nse_code":"EMKAY","nse_name":"Emkay Global Financial Services Limited"}
 ,{"nse_code":"EMMBI","nse_name":"Emmbi Industries Limited"}
 ,{"nse_code":"ENDURANCE","nse_name":"Endurance Technologies Limited"}
@@ -356,7 +357,6 @@
 ,{"nse_code":"FCL","nse_name":"Fineotex Chemical Limited"}
 ,{"nse_code":"FCONSUMER","nse_name":"Future Consumer Limited"}
 ,{"nse_code":"FDC","nse_name":"FDC Limited"}
-,{"nse_code":"FEDDERELEC","nse_name":"Fedders Electric and Engineering Limited"}
 ,{"nse_code":"FEDERALBNK","nse_name":"The Federal Bank  Limited"}
 ,{"nse_code":"FEL","nse_name":"Future Enterprises Limited"}
 ,{"nse_code":"FELDVR","nse_name":"Future Enterprises Limited"}
@@ -675,6 +675,7 @@
 ,{"nse_code":"KSL","nse_name":"Kalyani Steels Limited"}
 ,{"nse_code":"KTIL","nse_name":"Kesar Terminals & Infrastructure Limited"}
 ,{"nse_code":"KTKBANK","nse_name":"The Karnataka Bank Limited"}
+,{"nse_code":"KWALITY","nse_name":"kwality limited"}
 ,{"nse_code":"L&TFH","nse_name":"L&T Finance Holdings Limited"}
 ,{"nse_code":"LAKPRE","nse_name":"Lakshmi Precision Screws Limited"}
 ,{"nse_code":"LAKSHMIEFL","nse_name":"Lakshmi Energy and Foods Limited"}
@@ -806,10 +807,12 @@
 ,{"nse_code":"NATCOPHARM","nse_name":"Natco Pharma Limited"}
 ,{"nse_code":"NATHBIOGEN","nse_name":"Nath Bio-Genes (India) Limited"}
 ,{"nse_code":"NATIONALUM","nse_name":"National Aluminium Company Limited"}
+,{"nse_code":"NATNLSTEEL","nse_name":"National Steel And Agro Industries Limited"}
 ,{"nse_code":"NAUKRI","nse_name":"Info Edge (India) Limited"}
 ,{"nse_code":"NAVKARCORP","nse_name":"Navkar Corporation Limited"}
 ,{"nse_code":"NAVNETEDUL","nse_name":"Navneet Education Limited"}
 ,{"nse_code":"NBCC","nse_name":"NBCC (India) Limited"}
+,{"nse_code":"NBIFIN","nse_name":"N. B. I. Industrial Finance Company Limited"}
 ,{"nse_code":"NBVENTURES","nse_name":"Nava Bharat Ventures Limited"}
 ,{"nse_code":"NCC","nse_name":"NCC Limited"}
 ,{"nse_code":"NCLIND","nse_name":"NCL Industries Limited"}
@@ -956,6 +959,8 @@
 ,{"nse_code":"PVR","nse_name":"PVR Limited"}
 ,{"nse_code":"QUESS","nse_name":"Quess Corp Limited"}
 ,{"nse_code":"QUICKHEAL","nse_name":"Quick Heal Technologies Limited"}
+,{"nse_code":"QUINTEGRA","nse_name":"Quintegra Solutions Limited"}
+,{"nse_code":"RADAAN","nse_name":"Radaan Mediaworks India Limited"}
 ,{"nse_code":"RADICO","nse_name":"Radico Khaitan Limited"}
 ,{"nse_code":"RADIOCITY","nse_name":"Music Broadcast Limited"}
 ,{"nse_code":"RAIN","nse_name":"Rain Industries Limited"}
