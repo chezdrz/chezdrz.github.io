@@ -284,7 +284,6 @@
 ,{"nse_code":"DEEPAKNTR","nse_name":"Deepak Nitrite Limited"}
 ,{"nse_code":"DEEPIND","nse_name":"Deep Industries Limited"}
 ,{"nse_code":"DELTACORP","nse_name":"Delta Corp Limited"}
-,{"nse_code":"DELTAMAGNT","nse_name":"Delta Magnets Limited"}
 ,{"nse_code":"DEN","nse_name":"Den Networks Limited"}
 ,{"nse_code":"DENABANK","nse_name":"Dena Bank"}
 ,{"nse_code":"DENORA","nse_name":"De Nora India Limited"}
@@ -429,6 +428,7 @@
 ,{"nse_code":"GOODLUCK","nse_name":"Goodluck India Limited"}
 ,{"nse_code":"GPIL","nse_name":"Godawari Power And Ispat limited"}
 ,{"nse_code":"GPPL","nse_name":"Gujarat Pipavav Port Limited"}
+,{"nse_code":"GPTINFRA","nse_name":"GPT Infraprojects Limited"}
 ,{"nse_code":"GRANULES","nse_name":"Granules India Limited"}
 ,{"nse_code":"GRAPHITE","nse_name":"Graphite India Limited"}
 ,{"nse_code":"GRASIM","nse_name":"Grasim Industries Limited"}
@@ -581,6 +581,7 @@
 ,{"nse_code":"JAGSNPHARM","nse_name":"Jagsonpal Pharmaceuticals Limited"}
 ,{"nse_code":"JAIBALAJI","nse_name":"Jai Balaji Industries Limited"}
 ,{"nse_code":"JAICORPLTD","nse_name":"Jai Corp Limited"}
+,{"nse_code":"JAYAGROGN","nse_name":"Jayant Agro Organics Limited"}
 ,{"nse_code":"JAYBARMARU","nse_name":"Jay Bharat Maruti Limited"}
 ,{"nse_code":"JAYNECOIND","nse_name":"Jayaswal Neco Industries Limited"}
 ,{"nse_code":"JAYSREETEA","nse_name":"Jayshree Tea & Industries Limited"}
@@ -643,6 +644,7 @@
 ,{"nse_code":"KELLTONTEC","nse_name":"Kellton Tech Solutions Limited"}
 ,{"nse_code":"KESARENT","nse_name":"Kesar Enterprises Limited"}
 ,{"nse_code":"KESORAMIND","nse_name":"Kesoram Industries Limited"}
+,{"nse_code":"KEYCORPSER","nse_name":"Keynote Corporate Services Limited"}
 ,{"nse_code":"KHADIM","nse_name":"Khadim India Limited"}
 ,{"nse_code":"KHAITANLTD","nse_name":"Khaitan (India) Limited"}
 ,{"nse_code":"KHANDSE","nse_name":"Khandwala Securities Limited"}
@@ -791,6 +793,7 @@
 ,{"nse_code":"MUKANDENGG","nse_name":"Mukand Engineers Limited"}
 ,{"nse_code":"MUKANDLTD","nse_name":"Mukand Limited"}
 ,{"nse_code":"MUKTAARTS","nse_name":"Mukta Arts Limited"}
+,{"nse_code":"MUNJALAU","nse_name":"Munjal Auto Industries Limited"}
 ,{"nse_code":"MUNJALSHOW","nse_name":"Munjal Showa Limited"}
 ,{"nse_code":"MURUDCERA","nse_name":"Murudeshwar Ceramics Limited"}
 ,{"nse_code":"MUTHOOTCAP","nse_name":"Muthoot Capital Services Limited"}
@@ -809,6 +812,7 @@
 ,{"nse_code":"NATIONALUM","nse_name":"National Aluminium Company Limited"}
 ,{"nse_code":"NATNLSTEEL","nse_name":"National Steel And Agro Industries Limited"}
 ,{"nse_code":"NAUKRI","nse_name":"Info Edge (India) Limited"}
+,{"nse_code":"NAVINFLUOR","nse_name":"Navin Fluorine International Limited"}
 ,{"nse_code":"NAVKARCORP","nse_name":"Navkar Corporation Limited"}
 ,{"nse_code":"NAVNETEDUL","nse_name":"Navneet Education Limited"}
 ,{"nse_code":"NBCC","nse_name":"NBCC (India) Limited"}
@@ -959,7 +963,6 @@
 ,{"nse_code":"PVR","nse_name":"PVR Limited"}
 ,{"nse_code":"QUESS","nse_name":"Quess Corp Limited"}
 ,{"nse_code":"QUICKHEAL","nse_name":"Quick Heal Technologies Limited"}
-,{"nse_code":"QUINTEGRA","nse_name":"Quintegra Solutions Limited"}
 ,{"nse_code":"RADAAN","nse_name":"Radaan Mediaworks India Limited"}
 ,{"nse_code":"RADICO","nse_name":"Radico Khaitan Limited"}
 ,{"nse_code":"RADIOCITY","nse_name":"Music Broadcast Limited"}
@@ -1158,6 +1161,7 @@
 ,{"nse_code":"SUNFLAG","nse_name":"Sunflag Iron And Steel Company Limited"}
 ,{"nse_code":"SUNILHITEC","nse_name":"Sunil Hitech Engineers Limited"}
 ,{"nse_code":"SUNPHARMA","nse_name":"Sun Pharmaceutical Industries Limited"}
+,{"nse_code":"SUNTECK","nse_name":"Sunteck Realty Limited"}
 ,{"nse_code":"SUNTV","nse_name":"Sun TV Network Limited"}
 ,{"nse_code":"SUPERHOUSE","nse_name":"Superhouse Limited"}
 ,{"nse_code":"SUPPETRO","nse_name":"Supreme Petrochem Limited"}
