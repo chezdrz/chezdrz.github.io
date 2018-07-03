@@ -1,24 +1,30 @@
 [ 
-{ "nse_code":"MEGH","nse_name":"Meghmani Organics Limited","blu":"N","last_p":81.50,"v52_hi":129.40,"v52_lo":48.50 }
-,{ "nse_code":"BOMDYEING","nse_name":"Bombay Dyeing & Mfg Company Limited","blu":"N","last_p":216.65,"v52_hi":320.80,"v52_lo":65.55 }
-,{ "nse_code":"BEPL","nse_name":"Bhansali Engineering Polymers Limited","blu":"N","last_p":139.85,"v52_hi":224.50,"v52_lo":65.10 }
-,{ "nse_code":"TIPSINDLTD","nse_name":"TIPS Industries Limited","blu":"N","last_p":74.35,"v52_hi":159.40,"v52_lo":60.35 }
-,{ "nse_code":"HFCL","nse_name":"Himachal Futuristic Communications Limited","blu":"N","last_p":28.10,"v52_hi":36.65,"v52_lo":11.95 }
-,{ "nse_code":"AUTOAXLES","nse_name":"Automotive Axles Limited","blu":"N","last_p":1193.35,"v52_hi":1849.00,"v52_lo":704.00 }
-,{ "nse_code":"INDIAGLYCO","nse_name":"India Glycols Limited","blu":"N","last_p":387.50,"v52_hi":621.00,"v52_lo":152.15 }
-,{ "nse_code":"SAKUMA","nse_name":"Sakuma Exports Limited","blu":"N","last_p":161.55,"v52_hi":282.55,"v52_lo":73.10 }
-,{ "nse_code":"AUSOMENT","nse_name":"Ausom Enterprise Limited","blu":"N","last_p":66.55,"v52_hi":113.55,"v52_lo":23.50 }
-,{ "nse_code":"TVTODAY","nse_name":"TV Today Network Limited","blu":"N","last_p":414.15,"v52_hi":557.95,"v52_lo":210.00 }
-,{ "nse_code":"GLOBUSSPR","nse_name":"Globus Spirits Limited","blu":"N","last_p":120.85,"v52_hi":162.00,"v52_lo":63.70 }
-,{ "nse_code":"APOLSINHOT","nse_name":"Apollo Sindoori Hotels Limited","blu":"N","last_p":1353.15,"v52_hi":1995.95,"v52_lo":607.95 }
-,{ "nse_code":"SDBL","nse_name":"Som Distilleries & Breweries Limited","blu":"N","last_p":238.30,"v52_hi":322.80,"v52_lo":128.00 }
-,{ "nse_code":"BUTTERFLY","nse_name":"Butterfly Gandhimathi Appliances Limited","blu":"N","last_p":332.50,"v52_hi":607.05,"v52_lo":155.00 }
-,{ "nse_code":"5PAISA","nse_name":"5Paisa Capital Limited","blu":"N","last_p":315.10,"v52_hi":509.85,"v52_lo":181.00 }
-,{ "nse_code":"GALLISPAT","nse_name":"Gallantt Ispat Limited","blu":"N","last_p":288.40,"v52_hi":389.00,"v52_lo":202.10 }
-,{ "nse_code":"GMBREW","nse_name":"GM Breweries Limited","blu":"N","last_p":909.00,"v52_hi":1208.00,"v52_lo":394.90 }
-,{ "nse_code":"KHAITANLTD","nse_name":"Khaitan (India) Limited","blu":"N","last_p":42.30,"v52_hi":62.85,"v52_lo":15.75 }
-,{ "nse_code":"GPIL","nse_name":"Godawari Power And Ispat limited","blu":"N","last_p":445.10,"v52_hi":623.95,"v52_lo":92.40 }
-,{ "nse_code":"MOTOGENFIN","nse_name":"The Motor & General Finance Limited","blu":"N","last_p":41.50,"v52_hi":62.30,"v52_lo":24.10 }
-,{ "nse_code":"ASIANHOTNR","nse_name":"Asian Hotels (North) Limited","blu":"N","last_p":245.65,"v52_hi":335.25,"v52_lo":111.00 }
-,{ "nse_code":"INFINITE","nse_name":"Infinite Computer Solutions (India) Limited","blu":"N","last_p":448.45,"v52_hi":519.75,"v52_lo":196.05 }
+{ "nse_code":"PANACEABIO","nse_name":"Panacea Biotec Limited","blu":"N","last_p":231.30,"v52_hi":364.35,"v52_lo":130.10 }
+,{ "nse_code":"MEGH","nse_name":"Meghmani Organics Limited","blu":"N","last_p":81.35,"v52_hi":129.40,"v52_lo":48.50 }
+,{ "nse_code":"NAGREEKCAP","nse_name":"Nagreeka Capital & Infrastructure Limited","blu":"N","last_p":35.35,"v52_hi":79.55,"v52_lo":12.70 }
+,{ "nse_code":"INDIAGLYCO","nse_name":"India Glycols Limited","blu":"N","last_p":382.85,"v52_hi":621.00,"v52_lo":152.15 }
+,{ "nse_code":"HFCL","nse_name":"Himachal Futuristic Communications Limited","blu":"N","last_p":28.30,"v52_hi":36.65,"v52_lo":11.95 }
+,{ "nse_code":"TIPSINDLTD","nse_name":"TIPS Industries Limited","blu":"N","last_p":74.05,"v52_hi":159.40,"v52_lo":60.35 }
+,{ "nse_code":"BOMDYEING","nse_name":"Bombay Dyeing & Mfg Company Limited","blu":"N","last_p":216.40,"v52_hi":320.80,"v52_lo":65.55 }
+,{ "nse_code":"AUTOAXLES","nse_name":"Automotive Axles Limited","blu":"N","last_p":1176.90,"v52_hi":1849.00,"v52_lo":704.00 }
+,{ "nse_code":"BEPL","nse_name":"Bhansali Engineering Polymers Limited","blu":"N","last_p":140.35,"v52_hi":224.50,"v52_lo":65.10 }
+,{ "nse_code":"SAKUMA","nse_name":"Sakuma Exports Limited","blu":"N","last_p":188.35,"v52_hi":282.55,"v52_lo":73.10 }
+,{ "nse_code":"AUSOMENT","nse_name":"Ausom Enterprise Limited","blu":"N","last_p":67.75,"v52_hi":113.55,"v52_lo":23.50 }
+,{ "nse_code":"TVTODAY","nse_name":"TV Today Network Limited","blu":"N","last_p":406.60,"v52_hi":557.95,"v52_lo":210.00 }
+,{ "nse_code":"APOLSINHOT","nse_name":"Apollo Sindoori Hotels Limited","blu":"N","last_p":1391.55,"v52_hi":1995.95,"v52_lo":607.95 }
+,{ "nse_code":"SDBL","nse_name":"Som Distilleries & Breweries Limited","blu":"N","last_p":237.00,"v52_hi":322.80,"v52_lo":128.00 }
+,{ "nse_code":"GLOBUSSPR","nse_name":"Globus Spirits Limited","blu":"N","last_p":120.40,"v52_hi":162.00,"v52_lo":63.70 }
+,{ "nse_code":"BUTTERFLY","nse_name":"Butterfly Gandhimathi Appliances Limited","blu":"N","last_p":323.45,"v52_hi":607.05,"v52_lo":155.00 }
+,{ "nse_code":"GAEL","nse_name":"Gujarat Ambuja Exports Limited","blu":"N","last_p":207.15,"v52_hi":309.70,"v52_lo":100.05 }
+,{ "nse_code":"SONATSOFTW","nse_name":"Sonata Software Limited","blu":"N","last_p":300.35,"v52_hi":386.70,"v52_lo":144.80 }
+,{ "nse_code":"GPIL","nse_name":"Godawari Power And Ispat limited","blu":"N","last_p":445.00,"v52_hi":623.95,"v52_lo":92.40 }
+,{ "nse_code":"ASIANHOTNR","nse_name":"Asian Hotels (North) Limited","blu":"N","last_p":240.05,"v52_hi":335.25,"v52_lo":111.00 }
+,{ "nse_code":"5PAISA","nse_name":"5Paisa Capital Limited","blu":"N","last_p":315.55,"v52_hi":509.85,"v52_lo":181.00 }
+,{ "nse_code":"KHAITANLTD","nse_name":"Khaitan (India) Limited","blu":"N","last_p":41.15,"v52_hi":62.85,"v52_lo":15.75 }
+,{ "nse_code":"GMBREW","nse_name":"GM Breweries Limited","blu":"N","last_p":913.10,"v52_hi":1208.00,"v52_lo":394.90 }
+,{ "nse_code":"DELTAMAGNT","nse_name":"Delta Magnets Limited","blu":"N","last_p":58.50,"v52_hi":73.95,"v52_lo":32.75 }
+,{ "nse_code":"GALLISPAT","nse_name":"Gallantt Ispat Limited","blu":"N","last_p":291.05,"v52_hi":389.00,"v52_lo":202.10 }
+,{ "nse_code":"RADICO","nse_name":"Radico Khaitan Limited","blu":"N","last_p":385.35,"v52_hi":495.80,"v52_lo":119.55 }
+,{ "nse_code":"INFINITE","nse_name":"Infinite Computer Solutions (India) Limited","blu":"N","last_p":450.00,"v52_hi":519.75,"v52_lo":196.05 }
+,{ "nse_code":"MOTOGENFIN","nse_name":"The Motor & General Finance Limited","blu":"N","last_p":42.70,"v52_hi":62.30,"v52_lo":24.10 }
  ]
