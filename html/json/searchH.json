@@ -80,6 +80,7 @@
 ,{"nse_code":"APTECHT","nse_name":"Aptech Limited"}
 ,{"nse_code":"ARCHIDPLY","nse_name":"Archidply Industries Limited"}
 ,{"nse_code":"ARCOTECH","nse_name":"Arcotech Limited"}
+,{"nse_code":"ARENTERP","nse_name":"Rajdarshan Industries Limited"}
 ,{"nse_code":"ARIES","nse_name":"Aries Agro Limited"}
 ,{"nse_code":"ARIHANTSUP","nse_name":"Arihant Superstructures Limited"}
 ,{"nse_code":"AROGRANITE","nse_name":"Aro Granite Industries Limited"}
@@ -182,7 +183,6 @@
 ,{"nse_code":"BLKASHYAP","nse_name":"B. L. Kashyap and Sons Limited"}
 ,{"nse_code":"BLS","nse_name":"BLS International Services Limited"}
 ,{"nse_code":"BLUEBLENDS","nse_name":"Blue Blends (I) Limited"}
-,{"nse_code":"BLUECOAST","nse_name":"Blue Coast Hotels Limited"}
 ,{"nse_code":"BLUEDART","nse_name":"Blue Dart Express Limited"}
 ,{"nse_code":"BLUESTARCO","nse_name":"Blue Star Limited"}
 ,{"nse_code":"BODALCHEM","nse_name":"Bodal Chemicals Limited"}
@@ -524,6 +524,7 @@
 ,{"nse_code":"IGARASHI","nse_name":"Igarashi Motors India Limited"}
 ,{"nse_code":"IGPL","nse_name":"IG Petrochemicals Limited"}
 ,{"nse_code":"IIFL","nse_name":"IIFL Holdings Limited"}
+,{"nse_code":"IITL","nse_name":"Industrial Investment Trust Limited"}
 ,{"nse_code":"IL&FSENGG","nse_name":"IL&FS Engineering and Construction Company Limited"}
 ,{"nse_code":"IL&FSTRANS","nse_name":"IL&FS Transportation Networks Limited"}
 ,{"nse_code":"IMFA","nse_name":"Indian Metals & Ferro Alloys Limited"}
@@ -640,7 +641,6 @@
 ,{"nse_code":"KELLTONTEC","nse_name":"Kellton Tech Solutions Limited"}
 ,{"nse_code":"KESARENT","nse_name":"Kesar Enterprises Limited"}
 ,{"nse_code":"KESORAMIND","nse_name":"Kesoram Industries Limited"}
-,{"nse_code":"KEYCORPSER","nse_name":"Keynote Corporate Services Limited"}
 ,{"nse_code":"KHADIM","nse_name":"Khadim India Limited"}
 ,{"nse_code":"KHAITANLTD","nse_name":"Khaitan (India) Limited"}
 ,{"nse_code":"KHANDSE","nse_name":"Khandwala Securities Limited"}
@@ -764,7 +764,6 @@
 ,{"nse_code":"MINDTREE","nse_name":"MindTree Limited"}
 ,{"nse_code":"MIRCELECTR","nse_name":"MIRC Electronics Limited"}
 ,{"nse_code":"MIRZAINT","nse_name":"Mirza International Limited"}
-,{"nse_code":"MMFL","nse_name":"MM Forgings Limited"}
 ,{"nse_code":"MMTC","nse_name":"MMTC Limited"}
 ,{"nse_code":"MOHITIND","nse_name":"Mohit Industries Limited"}
 ,{"nse_code":"MOHOTAIND","nse_name":"Mohota Industries Limited"}
@@ -955,7 +954,6 @@
 ,{"nse_code":"PVR","nse_name":"PVR Limited"}
 ,{"nse_code":"QUESS","nse_name":"Quess Corp Limited"}
 ,{"nse_code":"QUICKHEAL","nse_name":"Quick Heal Technologies Limited"}
-,{"nse_code":"RADAAN","nse_name":"Radaan Mediaworks India Limited"}
 ,{"nse_code":"RADICO","nse_name":"Radico Khaitan Limited"}
 ,{"nse_code":"RADIOCITY","nse_name":"Music Broadcast Limited"}
 ,{"nse_code":"RAJESHEXPO","nse_name":"Rajesh Exports Limited"}
@@ -1137,6 +1135,7 @@
 ,{"nse_code":"STEELXIND","nse_name":"STEEL EXCHANGE INDIA LIMITED"}
 ,{"nse_code":"STEL","nse_name":"Stel Holdings Limited"}
 ,{"nse_code":"STERTOOLS","nse_name":"Sterling Tools Limited"}
+,{"nse_code":"STINDIA","nse_name":"STI India Limited"}
 ,{"nse_code":"STRTECH","nse_name":"Sterlite Technologies Limited"}
 ,{"nse_code":"SUBEX","nse_name":"Subex Limited"}
 ,{"nse_code":"SUBROS","nse_name":"Subros Limited"}
@@ -1256,12 +1255,12 @@
 ,{"nse_code":"UJJIVAN","nse_name":"Ujjivan Financial Services Limited"}
 ,{"nse_code":"ULTRACEMCO","nse_name":"UltraTech Cement Limited"}
 ,{"nse_code":"UMANGDAIRY","nse_name":"Umang Dairies Limited"}
-,{"nse_code":"UMESLTD","nse_name":"Usha Martin Education & Solutions Limited"}
 ,{"nse_code":"UNICHEMLAB","nse_name":"Unichem Laboratories Limited"}
 ,{"nse_code":"UNIENTER","nse_name":"Uniphos Enterprises Limited"}
 ,{"nse_code":"UNIONBANK","nse_name":"Union Bank of India"}
 ,{"nse_code":"UNITECH","nse_name":"Unitech Limited"}
 ,{"nse_code":"UNITEDBNK","nse_name":"United Bank of India"}
+,{"nse_code":"UNITEDTEA","nse_name":"The United Nilgiri Tea Estates Company Limited"}
 ,{"nse_code":"UNITY","nse_name":"Unity Infraprojects Limited"}
 ,{"nse_code":"UNIVCABLES","nse_name":"Universal Cables Limited"}
 ,{"nse_code":"UPL","nse_name":"UPL Limited"}
