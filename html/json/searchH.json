@@ -4,7 +4,6 @@
 ,{"nse_code":"3MINDIA","nse_name":"3M India Limited"}
 ,{"nse_code":"5PAISA","nse_name":"5Paisa Capital Limited"}
 ,{"nse_code":"63MOONS","nse_name":"63 moons technologies limited"}
-,{"nse_code":"8KMILES","nse_name":"8K Miles Software Services Limited"}
 ,{"nse_code":"A2ZINFRA","nse_name":"A2Z Infra Engineering Limited"}
 ,{"nse_code":"AARTIDRUGS","nse_name":"Aarti Drugs Limited"}
 ,{"nse_code":"AARTIIND","nse_name":"Aarti Industries Limited"}
@@ -265,7 +264,6 @@
 ,{"nse_code":"COSMOFILMS","nse_name":"Cosmo Films Limited"}
 ,{"nse_code":"COUNCODOS","nse_name":"Country Condo's Limited"}
 ,{"nse_code":"COX&KINGS","nse_name":"Cox & Kings Limited"}
-,{"nse_code":"CREATIVEYE","nse_name":"Creative Eye Limited"}
 ,{"nse_code":"CREST","nse_name":"Crest Ventures Limited"}
 ,{"nse_code":"CRISIL","nse_name":"CRISIL Limited"}
 ,{"nse_code":"CROMPTON","nse_name":"Crompton Greaves Consumer Electricals Limited"}
@@ -285,7 +283,6 @@
 ,{"nse_code":"DBCORP","nse_name":"D.B.Corp Limited"}
 ,{"nse_code":"DBL","nse_name":"Dilip Buildcon Limited"}
 ,{"nse_code":"DBREALTY","nse_name":"D B Realty Limited"}
-,{"nse_code":"DBSTOCKBRO","nse_name":"DB (International) Stock Brokers Limited"}
 ,{"nse_code":"DCAL","nse_name":"Dishman Carbogen Amcis Limited"}
 ,{"nse_code":"DCBBANK","nse_name":"DCB Bank Limited"}
 ,{"nse_code":"DCM","nse_name":"DCM  Limited"}
@@ -383,7 +380,6 @@
 ,{"nse_code":"FMGOETZE","nse_name":"Federal-Mogul Goetze (India) Limited."}
 ,{"nse_code":"FMNL","nse_name":"Future Market Networks Limited"}
 ,{"nse_code":"FORTIS","nse_name":"Fortis Healthcare Limited"}
-,{"nse_code":"FORTUNEFIN","nse_name":"Fortune Financial Services (India) Limited"}
 ,{"nse_code":"FOSECOIND","nse_name":"Foseco India Limited"}
 ,{"nse_code":"FRETAIL","nse_name":"Future Retail Limited"}
 ,{"nse_code":"FSC","nse_name":"Future Supply Chain Solutions Limited"}
@@ -665,7 +661,6 @@
 ,{"nse_code":"KELLTONTEC","nse_name":"Kellton Tech Solutions Limited"}
 ,{"nse_code":"KESARENT","nse_name":"Kesar Enterprises Limited"}
 ,{"nse_code":"KESORAMIND","nse_name":"Kesoram Industries Limited"}
-,{"nse_code":"KEYCORPSER","nse_name":"Keynote Corporate Services Limited"}
 ,{"nse_code":"KHADIM","nse_name":"Khadim India Limited"}
 ,{"nse_code":"KHAITANLTD","nse_name":"Khaitan (India) Limited"}
 ,{"nse_code":"KHANDSE","nse_name":"Khandwala Securities Limited"}
@@ -868,6 +863,7 @@
 ,{"nse_code":"NIPPOBATRY","nse_name":"Indo-National Limited"}
 ,{"nse_code":"NITCO","nse_name":"Nitco Limited"}
 ,{"nse_code":"NITESHEST","nse_name":"Nitesh Estates Limited"}
+,{"nse_code":"NITINFIRE","nse_name":"Nitin Fire Protection Industries Limited"}
 ,{"nse_code":"NITINSPIN","nse_name":"Nitin Spinners Limited"}
 ,{"nse_code":"NKIND","nse_name":"NK Industries Limited"}
 ,{"nse_code":"NLCINDIA","nse_name":"NLC India Limited"}
@@ -954,7 +950,6 @@
 ,{"nse_code":"POCHIRAJU","nse_name":"Pochiraju Industries Limited"}
 ,{"nse_code":"PODDARHOUS","nse_name":"Poddar Housing and Development Limited"}
 ,{"nse_code":"PODDARMENT","nse_name":"Poddar Pigments Limited"}
-,{"nse_code":"POLARIS","nse_name":"POLARIS CONSULTING & SERVICES LIMITED"}
 ,{"nse_code":"POLYMED","nse_name":"Poly Medicure Limited"}
 ,{"nse_code":"POLYPLEX","nse_name":"Polyplex Corporation Limited"}
 ,{"nse_code":"PONNIERODE","nse_name":"Ponni Sugars (Erode) Limited"}
@@ -991,7 +986,7 @@
 ,{"nse_code":"PVR","nse_name":"PVR Limited"}
 ,{"nse_code":"QUESS","nse_name":"Quess Corp Limited"}
 ,{"nse_code":"QUICKHEAL","nse_name":"Quick Heal Technologies Limited"}
-,{"nse_code":"RADAAN","nse_name":"Radaan Mediaworks India Limited"}
+,{"nse_code":"QUINTEGRA","nse_name":"Quintegra Solutions Limited"}
 ,{"nse_code":"RADICO","nse_name":"Radico Khaitan Limited"}
 ,{"nse_code":"RADIOCITY","nse_name":"Music Broadcast Limited"}
 ,{"nse_code":"RAJESHEXPO","nse_name":"Rajesh Exports Limited"}
