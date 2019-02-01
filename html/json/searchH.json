@@ -240,6 +240,7 @@
 ,{"nse_code":"COSMOFILMS","nse_name":"Cosmo Films Limited"}
 ,{"nse_code":"COUNCODOS","nse_name":"Country Condo's Limited"}
 ,{"nse_code":"COX&KINGS","nse_name":"Cox & Kings Limited"}
+,{"nse_code":"CREATIVEYE","nse_name":"Creative Eye Limited"}
 ,{"nse_code":"CREST","nse_name":"Crest Ventures Limited"}
 ,{"nse_code":"CRISIL","nse_name":"CRISIL Limited"}
 ,{"nse_code":"CROMPTON","nse_name":"Crompton Greaves Consumer Electricals Limited"}
@@ -255,7 +256,6 @@
 ,{"nse_code":"DALMIASUG","nse_name":"Dalmia Bharat Sugar and Industries Limited"}
 ,{"nse_code":"DATAMATICS","nse_name":"Datamatics Global Services Limited"}
 ,{"nse_code":"DBCORP","nse_name":"D.B.Corp Limited"}
-,{"nse_code":"DBSTOCKBRO","nse_name":"DB (International) Stock Brokers Limited"}
 ,{"nse_code":"DCAL","nse_name":"Dishman Carbogen Amcis Limited"}
 ,{"nse_code":"DCBBANK","nse_name":"DCB Bank Limited"}
 ,{"nse_code":"DCM","nse_name":"DCM  Limited"}
@@ -593,7 +593,6 @@
 ,{"nse_code":"KANSAINER","nse_name":"Kansai Nerolac Paints Limited"}
 ,{"nse_code":"KARMAENG","nse_name":"Karma Energy Limited"}
 ,{"nse_code":"KARURVYSYA","nse_name":"Karur Vysya Bank Limited"}
-,{"nse_code":"KAUSHALYA","nse_name":"Kaushalya Infrastructure Development Corporation Limited"}
 ,{"nse_code":"KAVVERITEL","nse_name":"Kavveri Telecom Products Limited"}
 ,{"nse_code":"KAYA","nse_name":"Kaya Limited"}
 ,{"nse_code":"KCP","nse_name":"KCP Limited"}
@@ -1090,6 +1089,7 @@
 ,{"nse_code":"SUPPETRO","nse_name":"Supreme Petrochem Limited"}
 ,{"nse_code":"SUPRAJIT","nse_name":"Suprajit Engineering Limited"}
 ,{"nse_code":"SUPREMEIND","nse_name":"Supreme Industries Limited"}
+,{"nse_code":"SUPREMEINF","nse_name":"Supreme Infrastructure India Limited"}
 ,{"nse_code":"SURANASOL","nse_name":"Surana Solar Limited"}
 ,{"nse_code":"SURANAT&P","nse_name":"Surana Telecom and Power Limited"}
 ,{"nse_code":"SURYALAXMI","nse_name":"Suryalakshmi Cotton Mills Limited"}
@@ -1108,7 +1108,6 @@
 ,{"nse_code":"TAKE","nse_name":"Take Solutions Limited"}
 ,{"nse_code":"TALBROAUTO","nse_name":"Talbros Automotive Components Limited"}
 ,{"nse_code":"TANLA","nse_name":"Tanla Solutions Limited"}
-,{"nse_code":"TARAPUR","nse_name":"Tarapur Transformers Limited"}
 ,{"nse_code":"TARMAT","nse_name":"Tarmat Limited"}
 ,{"nse_code":"TASTYBITE","nse_name":"Tasty Bite Eatables Limited"}
 ,{"nse_code":"TATACHEM","nse_name":"Tata Chemicals Limited"}
