@@ -1,6 +1,6 @@
 [ 
-{ "nse_code":"IBVENTURES","nse_name":"Indiabulls Ventures Limited","blu":"N","last_p":320.80,"v52_hi":544.00,"v52_lo":210.00 }
-,{ "nse_code":"SORILINFRA","nse_name":"SORIL Infra Resources Limited","blu":"N","last_p":247.95,"v52_hi":373.95,"v52_lo":185.85 }
-,{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":41.25,"v52_hi":153.95,"v52_lo":41.05 }
-,{ "nse_code":"EXCELINDUS","nse_name":"Excel Industries Limited","blu":"N","last_p":1137.25,"v52_hi":1499.00,"v52_lo":652.30 }
+{ "nse_code":"IBVENTURES","nse_name":"Indiabulls Ventures Limited","blu":"N","last_p":315.30,"v52_hi":544.00,"v52_lo":227.40 }
+,{ "nse_code":"SORILINFRA","nse_name":"SORIL Infra Resources Limited","blu":"N","last_p":246.40,"v52_hi":373.95,"v52_lo":192.50 }
+,{ "nse_code":"EXCELINDUS","nse_name":"Excel Industries Limited","blu":"N","last_p":1124.90,"v52_hi":1499.00,"v52_lo":703.90 }
+,{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":41.00,"v52_hi":153.95,"v52_lo":40.10 }
  ]
