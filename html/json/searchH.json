@@ -240,7 +240,6 @@
 ,{"nse_code":"COSMOFILMS","nse_name":"Cosmo Films Limited"}
 ,{"nse_code":"COUNCODOS","nse_name":"Country Condo's Limited"}
 ,{"nse_code":"COX&KINGS","nse_name":"Cox & Kings Limited"}
-,{"nse_code":"CREATIVEYE","nse_name":"Creative Eye Limited"}
 ,{"nse_code":"CREST","nse_name":"Crest Ventures Limited"}
 ,{"nse_code":"CRISIL","nse_name":"CRISIL Limited"}
 ,{"nse_code":"CROMPTON","nse_name":"Crompton Greaves Consumer Electricals Limited"}
@@ -601,6 +600,7 @@
 ,{"nse_code":"KEC","nse_name":"KEC International Limited"}
 ,{"nse_code":"KECL","nse_name":"Kirloskar Electric Company Limited"}
 ,{"nse_code":"KEI","nse_name":"KEI Industries Limited"}
+,{"nse_code":"KESARENT","nse_name":"Kesar Enterprises Limited"}
 ,{"nse_code":"KESORAMIND","nse_name":"Kesoram Industries Limited"}
 ,{"nse_code":"KHADIM","nse_name":"Khadim India Limited"}
 ,{"nse_code":"KICL","nse_name":"Kalyani Investment Company Limited"}
@@ -964,7 +964,6 @@
 ,{"nse_code":"SAKSOFT","nse_name":"Saksoft Limited"}
 ,{"nse_code":"SALASAR","nse_name":"Salasar Techno Engineering Limited"}
 ,{"nse_code":"SALONA","nse_name":"Salona Cotspin Limited"}
-,{"nse_code":"SALORAINTL","nse_name":"Salora International Limited"}
 ,{"nse_code":"SALSTEEL","nse_name":"S.A.L. Steel Limited"}
 ,{"nse_code":"SALZERELEC","nse_name":"Salzer Electronics Limited"}
 ,{"nse_code":"SAMBHAAV","nse_name":"Sambhaav Media Limited"}
@@ -1066,7 +1065,6 @@
 ,{"nse_code":"STEELXIND","nse_name":"STEEL EXCHANGE INDIA LIMITED"}
 ,{"nse_code":"STEL","nse_name":"Stel Holdings Limited"}
 ,{"nse_code":"STERTOOLS","nse_name":"Sterling Tools Limited"}
-,{"nse_code":"STINDIA","nse_name":"STI India Limited"}
 ,{"nse_code":"STRTECH","nse_name":"Sterlite Technologies Limited"}
 ,{"nse_code":"SUBEX","nse_name":"Subex Limited"}
 ,{"nse_code":"SUBROS","nse_name":"Subros Limited"}
@@ -1189,7 +1187,6 @@
 ,{"nse_code":"UJJIVAN","nse_name":"Ujjivan Financial Services Limited"}
 ,{"nse_code":"ULTRACEMCO","nse_name":"UltraTech Cement Limited"}
 ,{"nse_code":"UMANGDAIRY","nse_name":"Umang Dairies Limited"}
-,{"nse_code":"UMESLTD","nse_name":"Usha Martin Education & Solutions Limited"}
 ,{"nse_code":"UNICHEMLAB","nse_name":"Unichem Laboratories Limited"}
 ,{"nse_code":"UNIENTER","nse_name":"Uniphos Enterprises Limited"}
 ,{"nse_code":"UNIONBANK","nse_name":"Union Bank of India"}
