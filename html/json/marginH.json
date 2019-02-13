@@ -1,8 +1,9 @@
 [ 
-{ "nse_code":"REMSONSIND","nse_name":"Remsons Industries Limited","blu":"N","last_p":86.80,"v52_hi":136.00,"v52_lo":67.15 }
-,{ "nse_code":"EXCELINDUS","nse_name":"Excel Industries Limited","blu":"N","last_p":1046.00,"v52_hi":1499.00,"v52_lo":800.10 }
-,{ "nse_code":"IBVENTURES","nse_name":"Indiabulls Ventures Limited","blu":"N","last_p":277.00,"v52_hi":544.00,"v52_lo":236.50 }
-,{ "nse_code":"SORILINFRA","nse_name":"SORIL Infra Resources Limited","blu":"N","last_p":235.70,"v52_hi":373.95,"v52_lo":192.50 }
-,{ "nse_code":"JAIBALAJI","nse_name":"Jai Balaji Industries Limited","blu":"N","last_p":12.70,"v52_hi":18.50,"v52_lo":7.10 }
-,{ "nse_code":"BEDMUTHA","nse_name":"Bedmutha Industries Limited","blu":"N","last_p":19.00,"v52_hi":32.50,"v52_lo":14.40 }
+{ "nse_code":"EXCELINDUS","nse_name":"Excel Industries Limited","blu":"N","last_p":1013.35,"v52_hi":1499.00,"v52_lo":800.10 }
+,{ "nse_code":"REMSONSIND","nse_name":"Remsons Industries Limited","blu":"N","last_p":88.50,"v52_hi":136.00,"v52_lo":67.15 }
+,{ "nse_code":"BEDMUTHA","nse_name":"Bedmutha Industries Limited","blu":"N","last_p":17.55,"v52_hi":32.50,"v52_lo":14.40 }
+,{ "nse_code":"IBVENTURES","nse_name":"Indiabulls Ventures Limited","blu":"N","last_p":277.70,"v52_hi":544.00,"v52_lo":236.50 }
+,{ "nse_code":"VIPIND","nse_name":"VIP Industries Limited","blu":"N","last_p":424.95,"v52_hi":525.00,"v52_lo":287.10 }
+,{ "nse_code":"JAIBALAJI","nse_name":"Jai Balaji Industries Limited","blu":"N","last_p":12.90,"v52_hi":18.50,"v52_lo":7.10 }
+,{ "nse_code":"SORILINFRA","nse_name":"SORIL Infra Resources Limited","blu":"N","last_p":235.90,"v52_hi":373.95,"v52_lo":192.50 }
  ]

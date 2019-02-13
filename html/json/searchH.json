@@ -378,6 +378,7 @@
 ,{"nse_code":"GILLETTE","nse_name":"Gillette India Limited"}
 ,{"nse_code":"GINNIFILA","nse_name":"Ginni Filaments Limited"}
 ,{"nse_code":"GIPCL","nse_name":"Gujarat Industries Power Company Limited"}
+,{"nse_code":"GISOLUTION","nse_name":"GI Engineering Solutions Limited"}
 ,{"nse_code":"GKWLIMITED","nse_name":"GKW Limited"}
 ,{"nse_code":"GLENMARK","nse_name":"Glenmark Pharmaceuticals Limited"}
 ,{"nse_code":"GLOBALVECT","nse_name":"Global Vectra Helicorp Limited"}
@@ -820,7 +821,6 @@
 ,{"nse_code":"ORIENTBELL","nse_name":"Orient Bell Limited"}
 ,{"nse_code":"ORIENTCEM","nse_name":"Orient Cement Limited"}
 ,{"nse_code":"ORIENTHOT","nse_name":"Oriental Hotels Limited"}
-,{"nse_code":"ORIENTLTD","nse_name":"Orient Press Limited"}
 ,{"nse_code":"ORIENTPPR","nse_name":"Orient Paper & Industries Limited"}
 ,{"nse_code":"ORIENTREF","nse_name":"Orient Refractories Limited"}
 ,{"nse_code":"ORISSAMINE","nse_name":"The Orissa Minerals Development Company Limited"}
@@ -838,6 +838,7 @@
 ,{"nse_code":"PATELENG","nse_name":"Patel Engineering Limited"}
 ,{"nse_code":"PATINTLOG","nse_name":"Patel Integrated Logistics Limited"}
 ,{"nse_code":"PATSPINLTD","nse_name":"Patspin India Limited"}
+,{"nse_code":"PBAINFRA","nse_name":"PBA Infrastructure Limited"}
 ,{"nse_code":"PDMJEPAPER","nse_name":"Pudumjee Paper Products Limited"}
 ,{"nse_code":"PDSMFL","nse_name":"PDS Multinational Fashions Limited"}
 ,{"nse_code":"PEARLPOLY","nse_name":"Pearl Polymers Limited"}
@@ -1065,6 +1066,7 @@
 ,{"nse_code":"STEELXIND","nse_name":"STEEL EXCHANGE INDIA LIMITED"}
 ,{"nse_code":"STEL","nse_name":"Stel Holdings Limited"}
 ,{"nse_code":"STERTOOLS","nse_name":"Sterling Tools Limited"}
+,{"nse_code":"STINDIA","nse_name":"STI India Limited"}
 ,{"nse_code":"STRTECH","nse_name":"Sterlite Technologies Limited"}
 ,{"nse_code":"SUBEX","nse_name":"Subex Limited"}
 ,{"nse_code":"SUBROS","nse_name":"Subros Limited"}
@@ -1102,7 +1104,6 @@
 ,{"nse_code":"TAKE","nse_name":"Take Solutions Limited"}
 ,{"nse_code":"TALBROAUTO","nse_name":"Talbros Automotive Components Limited"}
 ,{"nse_code":"TANLA","nse_name":"Tanla Solutions Limited"}
-,{"nse_code":"TARAPUR","nse_name":"Tarapur Transformers Limited"}
 ,{"nse_code":"TARMAT","nse_name":"Tarmat Limited"}
 ,{"nse_code":"TASTYBITE","nse_name":"Tasty Bite Eatables Limited"}
 ,{"nse_code":"TATACHEM","nse_name":"Tata Chemicals Limited"}
