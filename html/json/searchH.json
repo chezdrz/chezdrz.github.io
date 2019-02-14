@@ -378,7 +378,6 @@
 ,{"nse_code":"GILLETTE","nse_name":"Gillette India Limited"}
 ,{"nse_code":"GINNIFILA","nse_name":"Ginni Filaments Limited"}
 ,{"nse_code":"GIPCL","nse_name":"Gujarat Industries Power Company Limited"}
-,{"nse_code":"GISOLUTION","nse_name":"GI Engineering Solutions Limited"}
 ,{"nse_code":"GKWLIMITED","nse_name":"GKW Limited"}
 ,{"nse_code":"GLENMARK","nse_name":"Glenmark Pharmaceuticals Limited"}
 ,{"nse_code":"GLOBALVECT","nse_name":"Global Vectra Helicorp Limited"}
@@ -627,7 +626,6 @@
 ,{"nse_code":"KRBL","nse_name":"KRBL Limited"}
 ,{"nse_code":"KRIDHANINF","nse_name":"Kridhan Infra Limited"}
 ,{"nse_code":"KSCL","nse_name":"Kaveri Seed Company Limited"}
-,{"nse_code":"KSERASERA","nse_name":"KSS Limited"}
 ,{"nse_code":"KSL","nse_name":"Kalyani Steels Limited"}
 ,{"nse_code":"KTIL","nse_name":"Kesar Terminals & Infrastructure Limited"}
 ,{"nse_code":"KTKBANK","nse_name":"The Karnataka Bank Limited"}
@@ -681,7 +679,6 @@
 ,{"nse_code":"MANAKSTEEL","nse_name":"Manaksia Steels Limited"}
 ,{"nse_code":"MANALIPETC","nse_name":"Manali Petrochemicals Limited"}
 ,{"nse_code":"MANAPPURAM","nse_name":"Manappuram Finance Limited"}
-,{"nse_code":"MANDHANA","nse_name":"Mandhana Industries Limited"}
 ,{"nse_code":"MANGALAM","nse_name":"Mangalam Drugs And Organics Limited"}
 ,{"nse_code":"MANGCHEFER","nse_name":"Mangalore Chemicals & Fertilizers Limited"}
 ,{"nse_code":"MANGLMCEM","nse_name":"Mangalam Cement Limited"}
@@ -821,6 +818,7 @@
 ,{"nse_code":"ORIENTBELL","nse_name":"Orient Bell Limited"}
 ,{"nse_code":"ORIENTCEM","nse_name":"Orient Cement Limited"}
 ,{"nse_code":"ORIENTHOT","nse_name":"Oriental Hotels Limited"}
+,{"nse_code":"ORIENTLTD","nse_name":"Orient Press Limited"}
 ,{"nse_code":"ORIENTPPR","nse_name":"Orient Paper & Industries Limited"}
 ,{"nse_code":"ORIENTREF","nse_name":"Orient Refractories Limited"}
 ,{"nse_code":"ORISSAMINE","nse_name":"The Orissa Minerals Development Company Limited"}
@@ -838,7 +836,6 @@
 ,{"nse_code":"PATELENG","nse_name":"Patel Engineering Limited"}
 ,{"nse_code":"PATINTLOG","nse_name":"Patel Integrated Logistics Limited"}
 ,{"nse_code":"PATSPINLTD","nse_name":"Patspin India Limited"}
-,{"nse_code":"PBAINFRA","nse_name":"PBA Infrastructure Limited"}
 ,{"nse_code":"PDMJEPAPER","nse_name":"Pudumjee Paper Products Limited"}
 ,{"nse_code":"PDSMFL","nse_name":"PDS Multinational Fashions Limited"}
 ,{"nse_code":"PEARLPOLY","nse_name":"Pearl Polymers Limited"}
@@ -992,12 +989,10 @@
 ,{"nse_code":"SDBL","nse_name":"Som Distilleries & Breweries Limited"}
 ,{"nse_code":"SEAMECLTD","nse_name":"Seamec Limited"}
 ,{"nse_code":"SELAN","nse_name":"Selan Exploration Technology Limited"}
-,{"nse_code":"SEPOWER","nse_name":"S.E. Power Limited"}
 ,{"nse_code":"SEQUENT","nse_name":"Sequent Scientific Limited"}
 ,{"nse_code":"SESHAPAPER","nse_name":"Seshasayee Paper and Boards Limited"}
 ,{"nse_code":"SETCO","nse_name":"Setco Automotive Limited"}
 ,{"nse_code":"SFL","nse_name":"Sheela Foam Limited"}
-,{"nse_code":"SGL","nse_name":"STL Global Limited"}
 ,{"nse_code":"SHAHALLOYS","nse_name":"Shah Alloys Limited"}
 ,{"nse_code":"SHAKTIPUMP","nse_name":"Shakti Pumps (India) Limited"}
 ,{"nse_code":"SHALBY","nse_name":"Shalby Limited"}
@@ -1104,6 +1099,7 @@
 ,{"nse_code":"TAKE","nse_name":"Take Solutions Limited"}
 ,{"nse_code":"TALBROAUTO","nse_name":"Talbros Automotive Components Limited"}
 ,{"nse_code":"TANLA","nse_name":"Tanla Solutions Limited"}
+,{"nse_code":"TARAPUR","nse_name":"Tarapur Transformers Limited"}
 ,{"nse_code":"TARMAT","nse_name":"Tarmat Limited"}
 ,{"nse_code":"TASTYBITE","nse_name":"Tasty Bite Eatables Limited"}
 ,{"nse_code":"TATACHEM","nse_name":"Tata Chemicals Limited"}
@@ -1221,7 +1217,6 @@
 ,{"nse_code":"VINDHYATEL","nse_name":"Vindhya Telelinks Limited"}
 ,{"nse_code":"VINYLINDIA","nse_name":"Vinyl Chemicals (India) Limited"}
 ,{"nse_code":"VIPIND","nse_name":"VIP Industries Limited"}
-,{"nse_code":"VIPULLTD","nse_name":"Vipul Limited"}
 ,{"nse_code":"VISAKAIND","nse_name":"Visaka Industries Limited"}
 ,{"nse_code":"VISASTEEL","nse_name":"Visa Steel Limited"}
 ,{"nse_code":"VISHNU","nse_name":"Vishnu Chemicals Limited"}
@@ -1243,7 +1238,6 @@
 ,{"nse_code":"WEIZMANIND","nse_name":"Weizmann Limited"}
 ,{"nse_code":"WELCORP","nse_name":"Welspun Corp Limited"}
 ,{"nse_code":"WELENT","nse_name":"Welspun Enterprises Limited"}
-,{"nse_code":"WELINV","nse_name":"Welspun Investments and Commercials Limited"}
 ,{"nse_code":"WELSPUNIND","nse_name":"Welspun India Limited"}
 ,{"nse_code":"WENDT","nse_name":"Wendt (India) Limited"}
 ,{"nse_code":"WHIRLPOOL","nse_name":"Whirlpool of India Limited"}
