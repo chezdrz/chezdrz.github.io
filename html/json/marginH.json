@@ -1,11 +1,10 @@
 [ 
-{ "nse_code":"REMSONSIND","nse_name":"Remsons Industries Limited","blu":"N","last_p":83.35,"v52_hi":136.00,"v52_lo":67.15 }
-,{ "nse_code":"EXCELINDUS","nse_name":"Excel Industries Limited","blu":"N","last_p":945.20,"v52_hi":1499.00,"v52_lo":800.10 }
-,{ "nse_code":"IBVENTURES","nse_name":"Indiabulls Ventures Limited","blu":"N","last_p":261.70,"v52_hi":544.00,"v52_lo":236.50 }
-,{ "nse_code":"BEDMUTHA","nse_name":"Bedmutha Industries Limited","blu":"N","last_p":15.90,"v52_hi":32.50,"v52_lo":14.40 }
-,{ "nse_code":"JAIBALAJI","nse_name":"Jai Balaji Industries Limited","blu":"N","last_p":12.30,"v52_hi":18.50,"v52_lo":7.10 }
-,{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":41.55,"v52_hi":153.95,"v52_lo":37.25 }
-,{ "nse_code":"SORILINFRA","nse_name":"SORIL Infra Resources Limited","blu":"N","last_p":214.45,"v52_hi":373.95,"v52_lo":192.50 }
-,{ "nse_code":"BANG","nse_name":"Bang Overseas Limited","blu":"N","last_p":43.25,"v52_hi":59.90,"v52_lo":22.20 }
-,{ "nse_code":"VIPIND","nse_name":"VIP Industries Limited","blu":"N","last_p":409.85,"v52_hi":525.00,"v52_lo":287.10 }
+{ "nse_code":"REMSONSIND","nse_name":"Remsons Industries Limited","blu":"N","last_p":81.55,"v52_hi":136.00,"v52_lo":67.15 }
+,{ "nse_code":"EXCELINDUS","nse_name":"Excel Industries Limited","blu":"N","last_p":991.25,"v52_hi":1499.00,"v52_lo":800.10 }
+,{ "nse_code":"IBVENTURES","nse_name":"Indiabulls Ventures Limited","blu":"N","last_p":268.80,"v52_hi":544.00,"v52_lo":236.50 }
+,{ "nse_code":"BEDMUTHA","nse_name":"Bedmutha Industries Limited","blu":"N","last_p":14.55,"v52_hi":32.50,"v52_lo":14.35 }
+,{ "nse_code":"BANG","nse_name":"Bang Overseas Limited","blu":"N","last_p":42.35,"v52_hi":59.90,"v52_lo":22.20 }
+,{ "nse_code":"SORILINFRA","nse_name":"SORIL Infra Resources Limited","blu":"N","last_p":219.35,"v52_hi":373.95,"v52_lo":192.50 }
+,{ "nse_code":"JAIBALAJI","nse_name":"Jai Balaji Industries Limited","blu":"N","last_p":12.45,"v52_hi":18.50,"v52_lo":7.10 }
+,{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":42.00,"v52_hi":153.95,"v52_lo":37.25 }
  ]
