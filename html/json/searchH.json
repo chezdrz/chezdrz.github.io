@@ -240,6 +240,7 @@
 ,{"nse_code":"COSMOFILMS","nse_name":"Cosmo Films Limited"}
 ,{"nse_code":"COUNCODOS","nse_name":"Country Condo's Limited"}
 ,{"nse_code":"COX&KINGS","nse_name":"Cox & Kings Limited"}
+,{"nse_code":"CREATIVEYE","nse_name":"Creative Eye Limited"}
 ,{"nse_code":"CREST","nse_name":"Crest Ventures Limited"}
 ,{"nse_code":"CRISIL","nse_name":"CRISIL Limited"}
 ,{"nse_code":"CROMPTON","nse_name":"Crompton Greaves Consumer Electricals Limited"}
@@ -593,6 +594,7 @@
 ,{"nse_code":"KANSAINER","nse_name":"Kansai Nerolac Paints Limited"}
 ,{"nse_code":"KARMAENG","nse_name":"Karma Energy Limited"}
 ,{"nse_code":"KARURVYSYA","nse_name":"Karur Vysya Bank Limited"}
+,{"nse_code":"KAUSHALYA","nse_name":"Kaushalya Infrastructure Development Corporation Limited"}
 ,{"nse_code":"KAVVERITEL","nse_name":"Kavveri Telecom Products Limited"}
 ,{"nse_code":"KAYA","nse_name":"Kaya Limited"}
 ,{"nse_code":"KCP","nse_name":"KCP Limited"}
@@ -943,7 +945,6 @@
 ,{"nse_code":"RNAM","nse_name":"Reliance Nippon Life Asset Management Limited"}
 ,{"nse_code":"RNAVAL","nse_name":"Reliance Naval and Engineering Limited"}
 ,{"nse_code":"ROHLTD","nse_name":"Royal Orchid Hotels Limited"}
-,{"nse_code":"ROLLT","nse_name":"Rollatainers Limited"}
 ,{"nse_code":"ROSSELLIND","nse_name":"Rossell India Limited"}
 ,{"nse_code":"RPGLIFE","nse_name":"RPG Life Sciences Limited"}
 ,{"nse_code":"RPPINFRA","nse_name":"R.P.P. Infra Projects Limited"}
@@ -965,6 +966,7 @@
 ,{"nse_code":"SAKSOFT","nse_name":"Saksoft Limited"}
 ,{"nse_code":"SALASAR","nse_name":"Salasar Techno Engineering Limited"}
 ,{"nse_code":"SALONA","nse_name":"Salona Cotspin Limited"}
+,{"nse_code":"SALORAINTL","nse_name":"Salora International Limited"}
 ,{"nse_code":"SALSTEEL","nse_name":"S.A.L. Steel Limited"}
 ,{"nse_code":"SALZERELEC","nse_name":"Salzer Electronics Limited"}
 ,{"nse_code":"SAMBHAAV","nse_name":"Sambhaav Media Limited"}
@@ -992,7 +994,6 @@
 ,{"nse_code":"SDBL","nse_name":"Som Distilleries & Breweries Limited"}
 ,{"nse_code":"SEAMECLTD","nse_name":"Seamec Limited"}
 ,{"nse_code":"SELAN","nse_name":"Selan Exploration Technology Limited"}
-,{"nse_code":"SEPOWER","nse_name":"S.E. Power Limited"}
 ,{"nse_code":"SEQUENT","nse_name":"Sequent Scientific Limited"}
 ,{"nse_code":"SESHAPAPER","nse_name":"Seshasayee Paper and Boards Limited"}
 ,{"nse_code":"SETCO","nse_name":"Setco Automotive Limited"}
@@ -1188,6 +1189,7 @@
 ,{"nse_code":"UJJIVAN","nse_name":"Ujjivan Financial Services Limited"}
 ,{"nse_code":"ULTRACEMCO","nse_name":"UltraTech Cement Limited"}
 ,{"nse_code":"UMANGDAIRY","nse_name":"Umang Dairies Limited"}
+,{"nse_code":"UMESLTD","nse_name":"Usha Martin Education & Solutions Limited"}
 ,{"nse_code":"UNICHEMLAB","nse_name":"Unichem Laboratories Limited"}
 ,{"nse_code":"UNIENTER","nse_name":"Uniphos Enterprises Limited"}
 ,{"nse_code":"UNIONBANK","nse_name":"Union Bank of India"}
@@ -1242,7 +1244,6 @@
 ,{"nse_code":"WEIZMANIND","nse_name":"Weizmann Limited"}
 ,{"nse_code":"WELCORP","nse_name":"Welspun Corp Limited"}
 ,{"nse_code":"WELENT","nse_name":"Welspun Enterprises Limited"}
-,{"nse_code":"WELINV","nse_name":"Welspun Investments and Commercials Limited"}
 ,{"nse_code":"WELSPUNIND","nse_name":"Welspun India Limited"}
 ,{"nse_code":"WENDT","nse_name":"Wendt (India) Limited"}
 ,{"nse_code":"WHIRLPOOL","nse_name":"Whirlpool of India Limited"}
@@ -1259,6 +1260,7 @@
 ,{"nse_code":"ZEELEARN","nse_name":"Zee Learn Limited"}
 ,{"nse_code":"ZENTEC","nse_name":"Zen Technologies Limited"}
 ,{"nse_code":"ZODIACLOTH","nse_name":"Zodiac Clothing Company Limited"}
+,{"nse_code":"ZODJRDMKJ","nse_name":"Zodiac JRD- MKJ Limited"}
 ,{"nse_code":"ZUARI","nse_name":"Zuari Agro Chemicals Limited"}
 ,{"nse_code":"ZUARIGLOB","nse_name":"Zuari Global Limited"}
 ,{"nse_code":"ZYDUSWELL","nse_name":"Zydus Wellness Limited"}
