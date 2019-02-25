@@ -499,7 +499,6 @@
 ,{"nse_code":"IGL","nse_name":"Indraprastha Gas Limited"}
 ,{"nse_code":"IGPL","nse_name":"IG Petrochemicals Limited"}
 ,{"nse_code":"IIFL","nse_name":"IIFL Holdings Limited"}
-,{"nse_code":"IITL","nse_name":"Industrial Investment Trust Limited"}
 ,{"nse_code":"IMFA","nse_name":"Indian Metals & Ferro Alloys Limited"}
 ,{"nse_code":"IMPAL","nse_name":"India Motor Parts and Accessories Limited"}
 ,{"nse_code":"INDBANK","nse_name":"Indbank Merchant Banking Services Limited"}
@@ -605,7 +604,6 @@
 ,{"nse_code":"KEI","nse_name":"KEI Industries Limited"}
 ,{"nse_code":"KESARENT","nse_name":"Kesar Enterprises Limited"}
 ,{"nse_code":"KESORAMIND","nse_name":"Kesoram Industries Limited"}
-,{"nse_code":"KEYCORPSER","nse_name":"Keynote Corporate Services Limited"}
 ,{"nse_code":"KHADIM","nse_name":"Khadim India Limited"}
 ,{"nse_code":"KICL","nse_name":"Kalyani Investment Company Limited"}
 ,{"nse_code":"KILITCH","nse_name":"Kilitch Drugs (India) Limited"}
@@ -966,7 +964,6 @@
 ,{"nse_code":"SAKSOFT","nse_name":"Saksoft Limited"}
 ,{"nse_code":"SALASAR","nse_name":"Salasar Techno Engineering Limited"}
 ,{"nse_code":"SALONA","nse_name":"Salona Cotspin Limited"}
-,{"nse_code":"SALORAINTL","nse_name":"Salora International Limited"}
 ,{"nse_code":"SALSTEEL","nse_name":"S.A.L. Steel Limited"}
 ,{"nse_code":"SALZERELEC","nse_name":"Salzer Electronics Limited"}
 ,{"nse_code":"SAMBHAAV","nse_name":"Sambhaav Media Limited"}
@@ -994,6 +991,7 @@
 ,{"nse_code":"SDBL","nse_name":"Som Distilleries & Breweries Limited"}
 ,{"nse_code":"SEAMECLTD","nse_name":"Seamec Limited"}
 ,{"nse_code":"SELAN","nse_name":"Selan Exploration Technology Limited"}
+,{"nse_code":"SEPOWER","nse_name":"S.E. Power Limited"}
 ,{"nse_code":"SEQUENT","nse_name":"Sequent Scientific Limited"}
 ,{"nse_code":"SESHAPAPER","nse_name":"Seshasayee Paper and Boards Limited"}
 ,{"nse_code":"SETCO","nse_name":"Setco Automotive Limited"}
@@ -1189,7 +1187,6 @@
 ,{"nse_code":"UJJIVAN","nse_name":"Ujjivan Financial Services Limited"}
 ,{"nse_code":"ULTRACEMCO","nse_name":"UltraTech Cement Limited"}
 ,{"nse_code":"UMANGDAIRY","nse_name":"Umang Dairies Limited"}
-,{"nse_code":"UMESLTD","nse_name":"Usha Martin Education & Solutions Limited"}
 ,{"nse_code":"UNICHEMLAB","nse_name":"Unichem Laboratories Limited"}
 ,{"nse_code":"UNIENTER","nse_name":"Uniphos Enterprises Limited"}
 ,{"nse_code":"UNIONBANK","nse_name":"Union Bank of India"}
@@ -1244,6 +1241,7 @@
 ,{"nse_code":"WEIZMANIND","nse_name":"Weizmann Limited"}
 ,{"nse_code":"WELCORP","nse_name":"Welspun Corp Limited"}
 ,{"nse_code":"WELENT","nse_name":"Welspun Enterprises Limited"}
+,{"nse_code":"WELINV","nse_name":"Welspun Investments and Commercials Limited"}
 ,{"nse_code":"WELSPUNIND","nse_name":"Welspun India Limited"}
 ,{"nse_code":"WENDT","nse_name":"Wendt (India) Limited"}
 ,{"nse_code":"WHIRLPOOL","nse_name":"Whirlpool of India Limited"}
