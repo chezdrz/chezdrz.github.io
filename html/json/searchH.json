@@ -189,7 +189,6 @@
 ,{"nse_code":"CADILAHC","nse_name":"Cadila Healthcare Limited"}
 ,{"nse_code":"CAMLINFINE","nse_name":"Camlin Fine Sciences Limited"}
 ,{"nse_code":"CANBK","nse_name":"Canara Bank"}
-,{"nse_code":"CANDC","nse_name":"C & C Constructions Limited"}
 ,{"nse_code":"CANFINHOME","nse_name":"Can Fin Homes Limited"}
 ,{"nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited"}
 ,{"nse_code":"CAPACITE","nse_name":"Capacit'e Infraprojects Limited"}
@@ -198,7 +197,6 @@
 ,{"nse_code":"CAREERP","nse_name":"Career Point Limited"}
 ,{"nse_code":"CARERATING","nse_name":"CARE Ratings Limited"}
 ,{"nse_code":"CASTROLIND","nse_name":"Castrol India Limited"}
-,{"nse_code":"CCCL","nse_name":"Consolidated Construction Consortium Limited"}
 ,{"nse_code":"CCHHL","nse_name":"Country Club Hospitality & Holidays Limited"}
 ,{"nse_code":"CCL","nse_name":"CCL Products (India) Limited"}
 ,{"nse_code":"CDSL","nse_name":"Central Depository Services (India) Limited"}
@@ -499,6 +497,7 @@
 ,{"nse_code":"IGL","nse_name":"Indraprastha Gas Limited"}
 ,{"nse_code":"IGPL","nse_name":"IG Petrochemicals Limited"}
 ,{"nse_code":"IIFL","nse_name":"IIFL Holdings Limited"}
+,{"nse_code":"IITL","nse_name":"Industrial Investment Trust Limited"}
 ,{"nse_code":"IMFA","nse_name":"Indian Metals & Ferro Alloys Limited"}
 ,{"nse_code":"IMPAL","nse_name":"India Motor Parts and Accessories Limited"}
 ,{"nse_code":"INDBANK","nse_name":"Indbank Merchant Banking Services Limited"}
@@ -604,6 +603,7 @@
 ,{"nse_code":"KEI","nse_name":"KEI Industries Limited"}
 ,{"nse_code":"KESARENT","nse_name":"Kesar Enterprises Limited"}
 ,{"nse_code":"KESORAMIND","nse_name":"Kesoram Industries Limited"}
+,{"nse_code":"KEYCORPSER","nse_name":"Keynote Corporate Services Limited"}
 ,{"nse_code":"KHADIM","nse_name":"Khadim India Limited"}
 ,{"nse_code":"KICL","nse_name":"Kalyani Investment Company Limited"}
 ,{"nse_code":"KILITCH","nse_name":"Kilitch Drugs (India) Limited"}
@@ -804,7 +804,6 @@
 ,{"nse_code":"OFSS","nse_name":"Oracle Financial Services Software Limited"}
 ,{"nse_code":"OIL","nse_name":"Oil India Limited"}
 ,{"nse_code":"OILCOUNTUB","nse_name":"Oil Country Tubular Limited"}
-,{"nse_code":"OISL","nse_name":"OCL Iron and Steel Limited"}
 ,{"nse_code":"OMAXAUTO","nse_name":"Omax Autos Limited"}
 ,{"nse_code":"OMAXE","nse_name":"Omaxe Limited"}
 ,{"nse_code":"OMMETALS","nse_name":"OM Metals Infraprojects Limited"}
@@ -838,7 +837,6 @@
 ,{"nse_code":"PATELENG","nse_name":"Patel Engineering Limited"}
 ,{"nse_code":"PATINTLOG","nse_name":"Patel Integrated Logistics Limited"}
 ,{"nse_code":"PATSPINLTD","nse_name":"Patspin India Limited"}
-,{"nse_code":"PBAINFRA","nse_name":"PBA Infrastructure Limited"}
 ,{"nse_code":"PDMJEPAPER","nse_name":"Pudumjee Paper Products Limited"}
 ,{"nse_code":"PDSMFL","nse_name":"PDS Multinational Fashions Limited"}
 ,{"nse_code":"PEARLPOLY","nse_name":"Pearl Polymers Limited"}
@@ -881,7 +879,6 @@
 ,{"nse_code":"PRAKASHCON","nse_name":"Prakash Constrowell Limited"}
 ,{"nse_code":"PRAXIS","nse_name":"Praxis Home Retail Limited"}
 ,{"nse_code":"PRECAM","nse_name":"Precision Camshafts Limited"}
-,{"nse_code":"PRECOT","nse_name":"Precot Meridian Limited"}
 ,{"nse_code":"PRECWIRE","nse_name":"Precision Wires India Limited"}
 ,{"nse_code":"PREMEXPLN","nse_name":"Premier Explosives Limited"}
 ,{"nse_code":"PREMIERPOL","nse_name":"Premier Polyfilm Limited"}
@@ -896,7 +893,6 @@
 ,{"nse_code":"PTL","nse_name":"PTL Enterprises Limited"}
 ,{"nse_code":"PUNJABCHEM","nse_name":"Punjab Chemicals & Crop Protection Limited"}
 ,{"nse_code":"PURVA","nse_name":"Puravankara Limited"}
-,{"nse_code":"PVP","nse_name":"PVP Ventures Limited"}
 ,{"nse_code":"PVR","nse_name":"PVR Limited"}
 ,{"nse_code":"QUESS","nse_name":"Quess Corp Limited"}
 ,{"nse_code":"QUICKHEAL","nse_name":"Quick Heal Technologies Limited"}
@@ -904,7 +900,6 @@
 ,{"nse_code":"RAIN","nse_name":"Rain Industries Limited"}
 ,{"nse_code":"RAJESHEXPO","nse_name":"Rajesh Exports Limited"}
 ,{"nse_code":"RAJSREESUG","nse_name":"Rajshree Sugars & Chemicals Limited"}
-,{"nse_code":"RAJTV","nse_name":"Raj Television Network Limited"}
 ,{"nse_code":"RALLIS","nse_name":"Rallis India Limited"}
 ,{"nse_code":"RAMANEWS","nse_name":"Shree Rama Newsprint Limited"}
 ,{"nse_code":"RAMASTEEL","nse_name":"Rama Steel Tubes Limited"}
@@ -964,6 +959,7 @@
 ,{"nse_code":"SAKSOFT","nse_name":"Saksoft Limited"}
 ,{"nse_code":"SALASAR","nse_name":"Salasar Techno Engineering Limited"}
 ,{"nse_code":"SALONA","nse_name":"Salona Cotspin Limited"}
+,{"nse_code":"SALORAINTL","nse_name":"Salora International Limited"}
 ,{"nse_code":"SALSTEEL","nse_name":"S.A.L. Steel Limited"}
 ,{"nse_code":"SALZERELEC","nse_name":"Salzer Electronics Limited"}
 ,{"nse_code":"SAMBHAAV","nse_name":"Sambhaav Media Limited"}
@@ -980,7 +976,6 @@
 ,{"nse_code":"SARLAPOLY","nse_name":"Sarla Performance Fibers Limited"}
 ,{"nse_code":"SASKEN","nse_name":"Sasken Technologies Limited"}
 ,{"nse_code":"SASTASUNDR","nse_name":"Sastasundar Ventures Limited"}
-,{"nse_code":"SATHAISPAT","nse_name":"Sathavahana Ispat Limited"}
 ,{"nse_code":"SATIN","nse_name":"Satin Creditcare Network Limited"}
 ,{"nse_code":"SBILIFE","nse_name":"SBI Life Insurance Company Limited"}
 ,{"nse_code":"SBIN","nse_name":"State Bank of India"}
@@ -1102,7 +1097,6 @@
 ,{"nse_code":"TAKE","nse_name":"Take Solutions Limited"}
 ,{"nse_code":"TALBROAUTO","nse_name":"Talbros Automotive Components Limited"}
 ,{"nse_code":"TANLA","nse_name":"Tanla Solutions Limited"}
-,{"nse_code":"TARAPUR","nse_name":"Tarapur Transformers Limited"}
 ,{"nse_code":"TARMAT","nse_name":"Tarmat Limited"}
 ,{"nse_code":"TASTYBITE","nse_name":"Tasty Bite Eatables Limited"}
 ,{"nse_code":"TATACHEM","nse_name":"Tata Chemicals Limited"}
@@ -1187,6 +1181,7 @@
 ,{"nse_code":"UJJIVAN","nse_name":"Ujjivan Financial Services Limited"}
 ,{"nse_code":"ULTRACEMCO","nse_name":"UltraTech Cement Limited"}
 ,{"nse_code":"UMANGDAIRY","nse_name":"Umang Dairies Limited"}
+,{"nse_code":"UMESLTD","nse_name":"Usha Martin Education & Solutions Limited"}
 ,{"nse_code":"UNICHEMLAB","nse_name":"Unichem Laboratories Limited"}
 ,{"nse_code":"UNIENTER","nse_name":"Uniphos Enterprises Limited"}
 ,{"nse_code":"UNIONBANK","nse_name":"Union Bank of India"}
