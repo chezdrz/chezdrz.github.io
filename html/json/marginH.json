@@ -1,13 +1,14 @@
 [ 
-{ "nse_code":"REMSONSIND","nse_name":"Remsons Industries Limited","blu":"N","last_p":80.95,"v52_hi":136.00,"v52_lo":67.15 }
-,{ "nse_code":"EXCELINDUS","nse_name":"Excel Industries Limited","blu":"N","last_p":1058.50,"v52_hi":1499.00,"v52_lo":800.10 }
-,{ "nse_code":"IBVENTURES","nse_name":"Indiabulls Ventures Limited","blu":"N","last_p":287.05,"v52_hi":544.00,"v52_lo":236.50 }
-,{ "nse_code":"CENTEXT","nse_name":"Century Extrusions Limited","blu":"N","last_p":6.05,"v52_hi":7.30,"v52_lo":4.55 }
-,{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":40.90,"v52_hi":153.95,"v52_lo":37.25 }
-,{ "nse_code":"ELECTHERM","nse_name":"Electrotherm (India) Limited","blu":"N","last_p":163.55,"v52_hi":199.00,"v52_lo":127.00 }
-,{ "nse_code":"BLBLIMITED","nse_name":"BLB Limited","blu":"N","last_p":4.85,"v52_hi":9.50,"v52_lo":4.35 }
-,{ "nse_code":"SORILINFRA","nse_name":"SORIL Infra Resources Limited","blu":"N","last_p":265.85,"v52_hi":373.95,"v52_lo":192.50 }
-,{ "nse_code":"VIPIND","nse_name":"VIP Industries Limited","blu":"N","last_p":408.40,"v52_hi":525.00,"v52_lo":287.10 }
-,{ "nse_code":"BANG","nse_name":"Bang Overseas Limited","blu":"N","last_p":40.55,"v52_hi":59.90,"v52_lo":22.20 }
-,{ "nse_code":"BEDMUTHA","nse_name":"Bedmutha Industries Limited","blu":"N","last_p":17.00,"v52_hi":32.50,"v52_lo":14.25 }
+{ "nse_code":"VIPIND","nse_name":"VIP Industries Limited","blu":"N","last_p":395.40,"v52_hi":525.00,"v52_lo":287.10 }
+,{ "nse_code":"CENTEXT","nse_name":"Century Extrusions Limited","blu":"N","last_p":6.00,"v52_hi":7.30,"v52_lo":4.55 }
+,{ "nse_code":"REMSONSIND","nse_name":"Remsons Industries Limited","blu":"N","last_p":82.80,"v52_hi":136.00,"v52_lo":67.15 }
+,{ "nse_code":"EXCELINDUS","nse_name":"Excel Industries Limited","blu":"N","last_p":1037.25,"v52_hi":1499.00,"v52_lo":800.10 }
+,{ "nse_code":"IBVENTURES","nse_name":"Indiabulls Ventures Limited","blu":"N","last_p":280.95,"v52_hi":544.00,"v52_lo":236.50 }
+,{ "nse_code":"ELECTHERM","nse_name":"Electrotherm (India) Limited","blu":"N","last_p":158.65,"v52_hi":199.00,"v52_lo":127.00 }
+,{ "nse_code":"BEDMUTHA","nse_name":"Bedmutha Industries Limited","blu":"N","last_p":16.80,"v52_hi":32.50,"v52_lo":14.25 }
+,{ "nse_code":"TERASOFT","nse_name":"Tera Software Limited","blu":"N","last_p":36.60,"v52_hi":60.10,"v52_lo":34.50 }
+,{ "nse_code":"BLBLIMITED","nse_name":"BLB Limited","blu":"N","last_p":5.15,"v52_hi":9.50,"v52_lo":4.35 }
+,{ "nse_code":"BANG","nse_name":"Bang Overseas Limited","blu":"N","last_p":41.75,"v52_hi":59.90,"v52_lo":22.20 }
+,{ "nse_code":"SORILINFRA","nse_name":"SORIL Infra Resources Limited","blu":"N","last_p":278.65,"v52_hi":373.95,"v52_lo":192.50 }
+,{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":41.15,"v52_hi":153.95,"v52_lo":37.25 }
  ]
