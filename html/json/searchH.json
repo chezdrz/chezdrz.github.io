@@ -65,7 +65,6 @@
 ,{"nse_code":"ANDHRSUGAR","nse_name":"The Andhra Sugars Limited"}
 ,{"nse_code":"ANIKINDS","nse_name":"Anik Industries Limited"}
 ,{"nse_code":"ANSALAPI","nse_name":"Ansal Properties & Infrastructure Limited"}
-,{"nse_code":"ANSALHSG","nse_name":"Ansal Housing and Construction Limited"}
 ,{"nse_code":"APARINDS","nse_name":"Apar Industries Limited"}
 ,{"nse_code":"APCL","nse_name":"Anjani Portland Cement Limited"}
 ,{"nse_code":"APCOTEXIND","nse_name":"Apcotex Industries Limited"}
@@ -324,6 +323,7 @@
 ,{"nse_code":"ESSARSHPNG","nse_name":"Essar Shipping Limited"}
 ,{"nse_code":"ESSDEE","nse_name":"Ess Dee Aluminium Limited"}
 ,{"nse_code":"ESTER","nse_name":"Ester Industries Limited"}
+,{"nse_code":"EUROTEXIND","nse_name":"Eurotex Industries and Exports Limited"}
 ,{"nse_code":"EVEREADY","nse_name":"Eveready Industries India Limited"}
 ,{"nse_code":"EVERESTIND","nse_name":"Everest Industries Limited"}
 ,{"nse_code":"EXCELCROP","nse_name":"Excel Crop Care Limited"}
@@ -600,7 +600,6 @@
 ,{"nse_code":"KEI","nse_name":"KEI Industries Limited"}
 ,{"nse_code":"KESARENT","nse_name":"Kesar Enterprises Limited"}
 ,{"nse_code":"KESORAMIND","nse_name":"Kesoram Industries Limited"}
-,{"nse_code":"KEYCORPSER","nse_name":"Keynote Corporate Services Limited"}
 ,{"nse_code":"KHADIM","nse_name":"Khadim India Limited"}
 ,{"nse_code":"KICL","nse_name":"Kalyani Investment Company Limited"}
 ,{"nse_code":"KILITCH","nse_name":"Kilitch Drugs (India) Limited"}
@@ -657,7 +656,6 @@
 ,{"nse_code":"M&MFIN","nse_name":"Mahindra & Mahindra Financial Services Limited"}
 ,{"nse_code":"MAANALU","nse_name":"Maan Aluminium Limited"}
 ,{"nse_code":"MADHAV","nse_name":"Madhav Marbles and Granites Limited"}
-,{"nse_code":"MADHUCON","nse_name":"Madhucon Projects Limited"}
 ,{"nse_code":"MADRASFERT","nse_name":"Madras Fertilizers Limited"}
 ,{"nse_code":"MAGADSUGAR","nse_name":"Magadh Sugar & Energy Limited"}
 ,{"nse_code":"MAGMA","nse_name":"Magma Fincorp Limited"}
@@ -754,7 +752,6 @@
 ,{"nse_code":"NATCOPHARM","nse_name":"Natco Pharma Limited"}
 ,{"nse_code":"NATHBIOGEN","nse_name":"Nath Bio-Genes (India) Limited"}
 ,{"nse_code":"NATIONALUM","nse_name":"National Aluminium Company Limited"}
-,{"nse_code":"NATNLSTEEL","nse_name":"National Steel And Agro Industries Limited"}
 ,{"nse_code":"NAUKRI","nse_name":"Info Edge (India) Limited"}
 ,{"nse_code":"NAVINFLUOR","nse_name":"Navin Fluorine International Limited"}
 ,{"nse_code":"NAVNETEDUL","nse_name":"Navneet Education Limited"}
@@ -989,7 +986,6 @@
 ,{"nse_code":"SESHAPAPER","nse_name":"Seshasayee Paper and Boards Limited"}
 ,{"nse_code":"SETCO","nse_name":"Setco Automotive Limited"}
 ,{"nse_code":"SFL","nse_name":"Sheela Foam Limited"}
-,{"nse_code":"SGL","nse_name":"STL Global Limited"}
 ,{"nse_code":"SHAHALLOYS","nse_name":"Shah Alloys Limited"}
 ,{"nse_code":"SHAKTIPUMP","nse_name":"Shakti Pumps (India) Limited"}
 ,{"nse_code":"SHALBY","nse_name":"Shalby Limited"}
@@ -1040,7 +1036,6 @@
 ,{"nse_code":"SPAL","nse_name":"S. P. Apparels Limited"}
 ,{"nse_code":"SPECIALITY","nse_name":"Speciality Restaurants Limited"}
 ,{"nse_code":"SPIC","nse_name":"Southern Petrochemicals Industries Corporation  Limited"}
-,{"nse_code":"SPICEMOBI","nse_name":"Spice Mobility Limited"}
 ,{"nse_code":"SPLIL","nse_name":"SPL Industries Limited"}
 ,{"nse_code":"SPTL","nse_name":"Sintex Plastics Technology Limited"}
 ,{"nse_code":"SQSBFSI","nse_name":"SQS India BFSI Limited"}
@@ -1180,7 +1175,6 @@
 ,{"nse_code":"UJJIVAN","nse_name":"Ujjivan Financial Services Limited"}
 ,{"nse_code":"ULTRACEMCO","nse_name":"UltraTech Cement Limited"}
 ,{"nse_code":"UMANGDAIRY","nse_name":"Umang Dairies Limited"}
-,{"nse_code":"UMESLTD","nse_name":"Usha Martin Education & Solutions Limited"}
 ,{"nse_code":"UNICHEMLAB","nse_name":"Unichem Laboratories Limited"}
 ,{"nse_code":"UNIENTER","nse_name":"Uniphos Enterprises Limited"}
 ,{"nse_code":"UNIONBANK","nse_name":"Union Bank of India"}
@@ -1235,7 +1229,6 @@
 ,{"nse_code":"WEIZMANIND","nse_name":"Weizmann Limited"}
 ,{"nse_code":"WELCORP","nse_name":"Welspun Corp Limited"}
 ,{"nse_code":"WELENT","nse_name":"Welspun Enterprises Limited"}
-,{"nse_code":"WELINV","nse_name":"Welspun Investments and Commercials Limited"}
 ,{"nse_code":"WELSPUNIND","nse_name":"Welspun India Limited"}
 ,{"nse_code":"WENDT","nse_name":"Wendt (India) Limited"}
 ,{"nse_code":"WHIRLPOOL","nse_name":"Whirlpool of India Limited"}
