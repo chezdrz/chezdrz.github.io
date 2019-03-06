@@ -253,6 +253,7 @@
 ,{"nse_code":"DALMIASUG","nse_name":"Dalmia Bharat Sugar and Industries Limited"}
 ,{"nse_code":"DATAMATICS","nse_name":"Datamatics Global Services Limited"}
 ,{"nse_code":"DBCORP","nse_name":"D.B.Corp Limited"}
+,{"nse_code":"DBSTOCKBRO","nse_name":"DB (International) Stock Brokers Limited"}
 ,{"nse_code":"DCAL","nse_name":"Dishman Carbogen Amcis Limited"}
 ,{"nse_code":"DCBBANK","nse_name":"DCB Bank Limited"}
 ,{"nse_code":"DCM","nse_name":"DCM  Limited"}
@@ -603,7 +604,6 @@
 ,{"nse_code":"KEI","nse_name":"KEI Industries Limited"}
 ,{"nse_code":"KESARENT","nse_name":"Kesar Enterprises Limited"}
 ,{"nse_code":"KESORAMIND","nse_name":"Kesoram Industries Limited"}
-,{"nse_code":"KEYCORPSER","nse_name":"Keynote Corporate Services Limited"}
 ,{"nse_code":"KHADIM","nse_name":"Khadim India Limited"}
 ,{"nse_code":"KICL","nse_name":"Kalyani Investment Company Limited"}
 ,{"nse_code":"KILITCH","nse_name":"Kilitch Drugs (India) Limited"}
@@ -1181,6 +1181,7 @@
 ,{"nse_code":"UJJIVAN","nse_name":"Ujjivan Financial Services Limited"}
 ,{"nse_code":"ULTRACEMCO","nse_name":"UltraTech Cement Limited"}
 ,{"nse_code":"UMANGDAIRY","nse_name":"Umang Dairies Limited"}
+,{"nse_code":"UMESLTD","nse_name":"Usha Martin Education & Solutions Limited"}
 ,{"nse_code":"UNICHEMLAB","nse_name":"Unichem Laboratories Limited"}
 ,{"nse_code":"UNIENTER","nse_name":"Uniphos Enterprises Limited"}
 ,{"nse_code":"UNIONBANK","nse_name":"Union Bank of India"}
