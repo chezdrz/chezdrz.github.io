@@ -230,6 +230,7 @@
 ,{"nse_code":"COSMOFILMS","nse_name":"Cosmo Films Limited"}
 ,{"nse_code":"COUNCODOS","nse_name":"Country Condo's Limited"}
 ,{"nse_code":"COX&KINGS","nse_name":"Cox & Kings Limited"}
+,{"nse_code":"CREATIVEYE","nse_name":"Creative Eye Limited"}
 ,{"nse_code":"CREST","nse_name":"Crest Ventures Limited"}
 ,{"nse_code":"CRISIL","nse_name":"CRISIL Limited"}
 ,{"nse_code":"CROMPTON","nse_name":"Crompton Greaves Consumer Electricals Limited"}
@@ -313,6 +314,7 @@
 ,{"nse_code":"ESSARSHPNG","nse_name":"Essar Shipping Limited"}
 ,{"nse_code":"ESSDEE","nse_name":"Ess Dee Aluminium Limited"}
 ,{"nse_code":"ESTER","nse_name":"Ester Industries Limited"}
+,{"nse_code":"EUROTEXIND","nse_name":"Eurotex Industries and Exports Limited"}
 ,{"nse_code":"EVEREADY","nse_name":"Eveready Industries India Limited"}
 ,{"nse_code":"EVERESTIND","nse_name":"Everest Industries Limited"}
 ,{"nse_code":"EXCELCROP","nse_name":"Excel Crop Care Limited"}
@@ -365,7 +367,6 @@
 ,{"nse_code":"GILLETTE","nse_name":"Gillette India Limited"}
 ,{"nse_code":"GINNIFILA","nse_name":"Ginni Filaments Limited"}
 ,{"nse_code":"GIPCL","nse_name":"Gujarat Industries Power Company Limited"}
-,{"nse_code":"GISOLUTION","nse_name":"GI Engineering Solutions Limited"}
 ,{"nse_code":"GKWLIMITED","nse_name":"GKW Limited"}
 ,{"nse_code":"GLENMARK","nse_name":"Glenmark Pharmaceuticals Limited"}
 ,{"nse_code":"GLOBALVECT","nse_name":"Global Vectra Helicorp Limited"}
@@ -482,7 +483,6 @@
 ,{"nse_code":"IGL","nse_name":"Indraprastha Gas Limited"}
 ,{"nse_code":"IGPL","nse_name":"IG Petrochemicals Limited"}
 ,{"nse_code":"IIFL","nse_name":"IIFL Holdings Limited"}
-,{"nse_code":"IITL","nse_name":"Industrial Investment Trust Limited"}
 ,{"nse_code":"IMFA","nse_name":"Indian Metals & Ferro Alloys Limited"}
 ,{"nse_code":"IMPAL","nse_name":"India Motor Parts and Accessories Limited"}
 ,{"nse_code":"INDBANK","nse_name":"Indbank Merchant Banking Services Limited"}
@@ -1158,6 +1158,7 @@
 ,{"nse_code":"UJJIVAN","nse_name":"Ujjivan Financial Services Limited"}
 ,{"nse_code":"ULTRACEMCO","nse_name":"UltraTech Cement Limited"}
 ,{"nse_code":"UMANGDAIRY","nse_name":"Umang Dairies Limited"}
+,{"nse_code":"UMESLTD","nse_name":"Usha Martin Education & Solutions Limited"}
 ,{"nse_code":"UNICHEMLAB","nse_name":"Unichem Laboratories Limited"}
 ,{"nse_code":"UNIENTER","nse_name":"Uniphos Enterprises Limited"}
 ,{"nse_code":"UNIONBANK","nse_name":"Union Bank of India"}
@@ -1174,7 +1175,6 @@
 ,{"nse_code":"VAIBHAVGBL","nse_name":"Vaibhav Global Limited"}
 ,{"nse_code":"VAKRANGEE","nse_name":"Vakrangee Limited"}
 ,{"nse_code":"VARDHACRLC","nse_name":"Vardhman Acrylics Limited"}
-,{"nse_code":"VARDMNPOLY","nse_name":"Vardhman Polytex Limited"}
 ,{"nse_code":"VASCONEQ","nse_name":"Vascon Engineers Limited"}
 ,{"nse_code":"VASWANI","nse_name":"Vaswani Industries Limited"}
 ,{"nse_code":"VBL","nse_name":"Varun Beverages Limited"}
