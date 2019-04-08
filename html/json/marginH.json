@@ -1,4 +1,5 @@
 [ 
-{ "nse_code":"BIRLACABLE","nse_name":"Birla Cable Limited","blu":"N","last_p":146.45,"v52_hi":182.30,"v52_lo":68.05 }
-,{ "nse_code":"SPLIL","nse_name":"SPL Industries Limited","blu":"N","last_p":48.15,"v52_hi":61.50,"v52_lo":22.05 }
+{ "nse_code":"SMSLIFE","nse_name":"SMS Lifesciences India Limited","blu":"N","last_p":562.50,"v52_hi":668.00,"v52_lo":272.50 }
+,{ "nse_code":"RSYSTEMS","nse_name":"R Systems International Limited","blu":"N","last_p":48.70,"v52_hi":54.90,"v52_lo":25.00 }
+,{ "nse_code":"BIRLACABLE","nse_name":"Birla Cable Limited","blu":"N","last_p":147.50,"v52_hi":182.30,"v52_lo":76.50 }
  ]
