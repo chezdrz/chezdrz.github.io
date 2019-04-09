@@ -236,7 +236,6 @@
 ,{"nse_code":"COSMOFILMS","nse_name":"Cosmo Films Limited"}
 ,{"nse_code":"COUNCODOS","nse_name":"Country Condo's Limited"}
 ,{"nse_code":"COX&KINGS","nse_name":"Cox & Kings Limited"}
-,{"nse_code":"CREATIVEYE","nse_name":"Creative Eye Limited"}
 ,{"nse_code":"CREST","nse_name":"Crest Ventures Limited"}
 ,{"nse_code":"CRISIL","nse_name":"CRISIL Limited"}
 ,{"nse_code":"CROMPTON","nse_name":"Crompton Greaves Consumer Electricals Limited"}
@@ -253,6 +252,7 @@
 ,{"nse_code":"DATAMATICS","nse_name":"Datamatics Global Services Limited"}
 ,{"nse_code":"DBCORP","nse_name":"D.B.Corp Limited"}
 ,{"nse_code":"DBREALTY","nse_name":"D B Realty Limited"}
+,{"nse_code":"DBSTOCKBRO","nse_name":"DB (International) Stock Brokers Limited"}
 ,{"nse_code":"DCAL","nse_name":"Dishman Carbogen Amcis Limited"}
 ,{"nse_code":"DCBBANK","nse_name":"DCB Bank Limited"}
 ,{"nse_code":"DCM","nse_name":"DCM  Limited"}
@@ -321,6 +321,7 @@
 ,{"nse_code":"ESSARSHPNG","nse_name":"Essar Shipping Limited"}
 ,{"nse_code":"ESSDEE","nse_name":"Ess Dee Aluminium Limited"}
 ,{"nse_code":"ESTER","nse_name":"Ester Industries Limited"}
+,{"nse_code":"EUROTEXIND","nse_name":"Eurotex Industries and Exports Limited"}
 ,{"nse_code":"EVEREADY","nse_name":"Eveready Industries India Limited"}
 ,{"nse_code":"EVERESTIND","nse_name":"Everest Industries Limited"}
 ,{"nse_code":"EXCELCROP","nse_name":"Excel Crop Care Limited"}
@@ -472,7 +473,6 @@
 ,{"nse_code":"HPL","nse_name":"HPL Electric & Power Limited"}
 ,{"nse_code":"HSCL","nse_name":"Himadri Speciality Chemical Limited"}
 ,{"nse_code":"HSIL","nse_name":"HSIL Limited"}
-,{"nse_code":"HTMEDIA","nse_name":"HT Media Limited"}
 ,{"nse_code":"HUBTOWN","nse_name":"Hubtown Limited"}
 ,{"nse_code":"HUDCO","nse_name":"Housing & Urban Development Corporation Limited"}
 ,{"nse_code":"IBVENTURES","nse_name":"Indiabulls Ventures Limited"}
@@ -809,6 +809,7 @@
 ,{"nse_code":"OMAXE","nse_name":"Omaxe Limited"}
 ,{"nse_code":"OMKARCHEM","nse_name":"Omkar Speciality Chemicals Limited"}
 ,{"nse_code":"OMMETALS","nse_name":"OM Metals Infraprojects Limited"}
+,{"nse_code":"ONELIFECAP","nse_name":"Onelife Capital Advisors Limited"}
 ,{"nse_code":"ONGC","nse_name":"Oil & Natural Gas Corporation Limited"}
 ,{"nse_code":"ONMOBILE","nse_name":"OnMobile Global Limited"}
 ,{"nse_code":"ONWARDTEC","nse_name":"Onward Technologies Limited"}
@@ -821,6 +822,7 @@
 ,{"nse_code":"ORIENTBELL","nse_name":"Orient Bell Limited"}
 ,{"nse_code":"ORIENTCEM","nse_name":"Orient Cement Limited"}
 ,{"nse_code":"ORIENTHOT","nse_name":"Oriental Hotels Limited"}
+,{"nse_code":"ORIENTLTD","nse_name":"Orient Press Limited"}
 ,{"nse_code":"ORIENTPPR","nse_name":"Orient Paper & Industries Limited"}
 ,{"nse_code":"ORIENTREF","nse_name":"Orient Refractories Limited"}
 ,{"nse_code":"ORISSAMINE","nse_name":"The Orissa Minerals Development Company Limited"}
@@ -1140,7 +1142,6 @@
 ,{"nse_code":"THYROCARE","nse_name":"Thyrocare Technologies Limited"}
 ,{"nse_code":"TI","nse_name":"Tilaknagar Industries Limited"}
 ,{"nse_code":"TIDEWATER","nse_name":"Tide Water Oil Company (India) Limited"}
-,{"nse_code":"TIFIN","nse_name":"TI Financial Holdings Limited"}
 ,{"nse_code":"TIIL","nse_name":"Technocraft Industries (India) Limited"}
 ,{"nse_code":"TIINDIA","nse_name":"Tube Investments of India Limited"}
 ,{"nse_code":"TIJARIA","nse_name":"Tijaria Polypipes Limited"}
