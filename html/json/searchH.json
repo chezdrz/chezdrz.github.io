@@ -244,7 +244,6 @@
 ,{"nse_code":"CUB","nse_name":"City Union Bank Limited"}
 ,{"nse_code":"CUMMINSIND","nse_name":"Cummins India Limited"}
 ,{"nse_code":"CUPID","nse_name":"Cupid Limited"}
-,{"nse_code":"CYBERMEDIA","nse_name":"Cyber Media (India) Limited"}
 ,{"nse_code":"CYBERTECH","nse_name":"Cybertech Systems And Software Limited"}
 ,{"nse_code":"CYIENT","nse_name":"Cyient Limited"}
 ,{"nse_code":"DAAWAT","nse_name":"LT Foods Limited"}
@@ -253,6 +252,7 @@
 ,{"nse_code":"DATAMATICS","nse_name":"Datamatics Global Services Limited"}
 ,{"nse_code":"DBCORP","nse_name":"D.B.Corp Limited"}
 ,{"nse_code":"DBREALTY","nse_name":"D B Realty Limited"}
+,{"nse_code":"DBSTOCKBRO","nse_name":"DB (International) Stock Brokers Limited"}
 ,{"nse_code":"DCAL","nse_name":"Dishman Carbogen Amcis Limited"}
 ,{"nse_code":"DCBBANK","nse_name":"DCB Bank Limited"}
 ,{"nse_code":"DCM","nse_name":"DCM  Limited"}
@@ -598,7 +598,6 @@
 ,{"nse_code":"KELLTONTEC","nse_name":"Kellton Tech Solutions Limited"}
 ,{"nse_code":"KESARENT","nse_name":"Kesar Enterprises Limited"}
 ,{"nse_code":"KESORAMIND","nse_name":"Kesoram Industries Limited"}
-,{"nse_code":"KEYCORPSER","nse_name":"Keynote Corporate Services Limited"}
 ,{"nse_code":"KHADIM","nse_name":"Khadim India Limited"}
 ,{"nse_code":"KHAITANLTD","nse_name":"Khaitan (India) Limited"}
 ,{"nse_code":"KICL","nse_name":"Kalyani Investment Company Limited"}
@@ -653,7 +652,6 @@
 ,{"nse_code":"LUMAXIND","nse_name":"Lumax Industries Limited"}
 ,{"nse_code":"LUPIN","nse_name":"Lupin Limited"}
 ,{"nse_code":"LUXIND","nse_name":"Lux Industries Limited"}
-,{"nse_code":"LYKALABS","nse_name":"Lyka Labs Limited"}
 ,{"nse_code":"LYPSAGEMS","nse_name":"Lypsa Gems & Jewellery Limited"}
 ,{"nse_code":"M&M","nse_name":"Mahindra & Mahindra Limited"}
 ,{"nse_code":"M&MFIN","nse_name":"Mahindra & Mahindra Financial Services Limited"}
@@ -868,7 +866,6 @@
 ,{"nse_code":"PNBHOUSING","nse_name":"PNB Housing Finance Limited"}
 ,{"nse_code":"PNC","nse_name":"Pritish Nandy Communications Limited"}
 ,{"nse_code":"PNCINFRA","nse_name":"PNC Infratech Limited"}
-,{"nse_code":"PODDARHOUS","nse_name":"Poddar Housing and Development Limited"}
 ,{"nse_code":"PODDARMENT","nse_name":"Poddar Pigments Limited"}
 ,{"nse_code":"POKARNA","nse_name":"Pokarna Limited"}
 ,{"nse_code":"POLYMED","nse_name":"Poly Medicure Limited"}
@@ -901,7 +898,6 @@
 ,{"nse_code":"PVR","nse_name":"PVR Limited"}
 ,{"nse_code":"QUESS","nse_name":"Quess Corp Limited"}
 ,{"nse_code":"QUICKHEAL","nse_name":"Quick Heal Technologies Limited"}
-,{"nse_code":"QUINTEGRA","nse_name":"Quintegra Solutions Limited"}
 ,{"nse_code":"RADAAN","nse_name":"Radaan Mediaworks India Limited"}
 ,{"nse_code":"RADICO","nse_name":"Radico Khaitan Limited"}
 ,{"nse_code":"RAIN","nse_name":"Rain Industries Limited"}
@@ -990,6 +986,7 @@
 ,{"nse_code":"SEAMECLTD","nse_name":"Seamec Limited"}
 ,{"nse_code":"SELAN","nse_name":"Selan Exploration Technology Limited"}
 ,{"nse_code":"SELMCL","nse_name":"SEL Manufacturing Company Limited"}
+,{"nse_code":"SEPOWER","nse_name":"S.E. Power Limited"}
 ,{"nse_code":"SEQUENT","nse_name":"Sequent Scientific Limited"}
 ,{"nse_code":"SESHAPAPER","nse_name":"Seshasayee Paper and Boards Limited"}
 ,{"nse_code":"SETCO","nse_name":"Setco Automotive Limited"}
@@ -1099,7 +1096,6 @@
 ,{"nse_code":"TALBROAUTO","nse_name":"Talbros Automotive Components Limited"}
 ,{"nse_code":"TALWALKARS","nse_name":"Talwalkars Better Value Fitness Limited"}
 ,{"nse_code":"TANLA","nse_name":"Tanla Solutions Limited"}
-,{"nse_code":"TARAPUR","nse_name":"Tarapur Transformers Limited"}
 ,{"nse_code":"TARMAT","nse_name":"Tarmat Limited"}
 ,{"nse_code":"TASTYBITE","nse_name":"Tasty Bite Eatables Limited"}
 ,{"nse_code":"TATACHEM","nse_name":"Tata Chemicals Limited"}
