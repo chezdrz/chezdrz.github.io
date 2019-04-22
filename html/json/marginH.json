@@ -1,6 +1,7 @@
 [ 
-{ "nse_code":"SPLIL","nse_name":"SPL Industries Limited","blu":"N","last_p":45.90,"v52_hi":61.50,"v52_lo":22.05 }
-,{ "nse_code":"VINDHYATEL","nse_name":"Vindhya Telelinks Limited","blu":"N","last_p":1344.20,"v52_hi":1668.30,"v52_lo":890.10 }
-,{ "nse_code":"RSYSTEMS","nse_name":"R Systems International Limited","blu":"N","last_p":47.55,"v52_hi":54.90,"v52_lo":25.00 }
-,{ "nse_code":"BIRLACABLE","nse_name":"Birla Cable Limited","blu":"N","last_p":138.85,"v52_hi":182.30,"v52_lo":82.25 }
+{ "nse_code":"BIRLACABLE","nse_name":"Birla Cable Limited","blu":"N","last_p":135.75,"v52_hi":182.30,"v52_lo":82.25 }
+,{ "nse_code":"VINDHYATEL","nse_name":"Vindhya Telelinks Limited","blu":"N","last_p":1347.40,"v52_hi":1668.30,"v52_lo":890.10 }
+,{ "nse_code":"UNIVCABLES","nse_name":"Universal Cables Limited","blu":"N","last_p":213.45,"v52_hi":267.80,"v52_lo":131.45 }
+,{ "nse_code":"RSYSTEMS","nse_name":"R Systems International Limited","blu":"N","last_p":46.50,"v52_hi":54.90,"v52_lo":25.00 }
+,{ "nse_code":"SPLIL","nse_name":"SPL Industries Limited","blu":"N","last_p":46.05,"v52_hi":61.50,"v52_lo":22.05 }
  ]
