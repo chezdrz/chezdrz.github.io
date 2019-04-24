@@ -189,6 +189,7 @@
 ,{"nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited"}
 ,{"nse_code":"CAPACITE","nse_name":"Capacit'e Infraprojects Limited"}
 ,{"nse_code":"CAPLIPOINT","nse_name":"Caplin Point Laboratories Limited"}
+,{"nse_code":"CAPTRUST","nse_name":"Capital Trust Limited"}
 ,{"nse_code":"CARBORUNIV","nse_name":"Carborundum Universal Limited"}
 ,{"nse_code":"CAREERP","nse_name":"Career Point Limited"}
 ,{"nse_code":"CARERATING","nse_name":"CARE Ratings Limited"}
@@ -235,6 +236,7 @@
 ,{"nse_code":"COSMOFILMS","nse_name":"Cosmo Films Limited"}
 ,{"nse_code":"COUNCODOS","nse_name":"Country Condo's Limited"}
 ,{"nse_code":"COX&KINGS","nse_name":"Cox & Kings Limited"}
+,{"nse_code":"CREATIVEYE","nse_name":"Creative Eye Limited"}
 ,{"nse_code":"CREST","nse_name":"Crest Ventures Limited"}
 ,{"nse_code":"CRISIL","nse_name":"CRISIL Limited"}
 ,{"nse_code":"CROMPTON","nse_name":"Crompton Greaves Consumer Electricals Limited"}
@@ -249,6 +251,7 @@
 ,{"nse_code":"DALMIASUG","nse_name":"Dalmia Bharat Sugar and Industries Limited"}
 ,{"nse_code":"DATAMATICS","nse_name":"Datamatics Global Services Limited"}
 ,{"nse_code":"DBCORP","nse_name":"D.B.Corp Limited"}
+,{"nse_code":"DBSTOCKBRO","nse_name":"DB (International) Stock Brokers Limited"}
 ,{"nse_code":"DCAL","nse_name":"Dishman Carbogen Amcis Limited"}
 ,{"nse_code":"DCBBANK","nse_name":"DCB Bank Limited"}
 ,{"nse_code":"DCM","nse_name":"DCM  Limited"}
@@ -370,7 +373,6 @@
 ,{"nse_code":"GILLETTE","nse_name":"Gillette India Limited"}
 ,{"nse_code":"GINNIFILA","nse_name":"Ginni Filaments Limited"}
 ,{"nse_code":"GIPCL","nse_name":"Gujarat Industries Power Company Limited"}
-,{"nse_code":"GISOLUTION","nse_name":"GI Engineering Solutions Limited"}
 ,{"nse_code":"GKWLIMITED","nse_name":"GKW Limited"}
 ,{"nse_code":"GLENMARK","nse_name":"Glenmark Pharmaceuticals Limited"}
 ,{"nse_code":"GLOBALVECT","nse_name":"Global Vectra Helicorp Limited"}
@@ -460,7 +462,6 @@
 ,{"nse_code":"HINDZINC","nse_name":"Hindustan Zinc Limited"}
 ,{"nse_code":"HIRECT","nse_name":"Hind Rectifiers Limited"}
 ,{"nse_code":"HISARMETAL","nse_name":"Hisar Metal Industries Limited"}
-,{"nse_code":"HITECHCORP","nse_name":"Hitech Corporation Limited"}
 ,{"nse_code":"HITECHGEAR","nse_name":"The Hi-Tech Gears Limited"}
 ,{"nse_code":"HMVL","nse_name":"Hindustan Media Ventures Limited"}
 ,{"nse_code":"HONAUT","nse_name":"Honeywell Automation India Limited"}
@@ -819,7 +820,6 @@
 ,{"nse_code":"ORIENTBELL","nse_name":"Orient Bell Limited"}
 ,{"nse_code":"ORIENTCEM","nse_name":"Orient Cement Limited"}
 ,{"nse_code":"ORIENTHOT","nse_name":"Oriental Hotels Limited"}
-,{"nse_code":"ORIENTLTD","nse_name":"Orient Press Limited"}
 ,{"nse_code":"ORIENTPPR","nse_name":"Orient Paper & Industries Limited"}
 ,{"nse_code":"ORIENTREF","nse_name":"Orient Refractories Limited"}
 ,{"nse_code":"ORISSAMINE","nse_name":"The Orissa Minerals Development Company Limited"}
