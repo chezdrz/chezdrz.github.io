@@ -1,11 +1,12 @@
 [ 
-{ "nse_code":"BIRLACABLE","nse_name":"Birla Cable Limited","blu":"N","last_p":137.30,"v52_hi":182.30,"v52_lo":82.25 }
-,{ "nse_code":"RSYSTEMS","nse_name":"R Systems International Limited","blu":"N","last_p":46.90,"v52_hi":54.90,"v52_lo":25.00 }
-,{ "nse_code":"SMSLIFE","nse_name":"SMS Lifesciences India Limited","blu":"N","last_p":549.15,"v52_hi":668.00,"v52_lo":272.50 }
-,{ "nse_code":"VINDHYATEL","nse_name":"Vindhya Telelinks Limited","blu":"N","last_p":1345.05,"v52_hi":1668.30,"v52_lo":890.10 }
-,{ "nse_code":"SPLIL","nse_name":"SPL Industries Limited","blu":"N","last_p":45.10,"v52_hi":61.50,"v52_lo":22.05 }
-,{ "nse_code":"IOLCP","nse_name":"IOL Chemicals and Pharmaceuticals Limited","blu":"N","last_p":187.20,"v52_hi":223.80,"v52_lo":89.00 }
-,{ "nse_code":"UNIVCABLES","nse_name":"Universal Cables Limited","blu":"N","last_p":213.15,"v52_hi":267.80,"v52_lo":131.45 }
-,{ "nse_code":"SHIVAMILLS","nse_name":"Shiva Mills Limited","blu":"N","last_p":50.70,"v52_hi":74.00,"v52_lo":36.50 }
-,{ "nse_code":"IPAPPM","nse_name":"International Paper APPM Limited","blu":"N","last_p":438.55,"v52_hi":504.70,"v52_lo":302.40 }
+{ "nse_code":"RSYSTEMS","nse_name":"R Systems International Limited","blu":"N","last_p":46.15,"v52_hi":54.90,"v52_lo":25.00 }
+,{ "nse_code":"SHIVAMILLS","nse_name":"Shiva Mills Limited","blu":"N","last_p":50.55,"v52_hi":74.00,"v52_lo":36.50 }
+,{ "nse_code":"UNIVCABLES","nse_name":"Universal Cables Limited","blu":"N","last_p":210.30,"v52_hi":267.80,"v52_lo":131.45 }
+,{ "nse_code":"VINDHYATEL","nse_name":"Vindhya Telelinks Limited","blu":"N","last_p":1319.25,"v52_hi":1668.30,"v52_lo":890.10 }
+,{ "nse_code":"SPLIL","nse_name":"SPL Industries Limited","blu":"N","last_p":45.90,"v52_hi":61.50,"v52_lo":22.05 }
+,{ "nse_code":"KILITCH","nse_name":"Kilitch Drugs (India) Limited","blu":"N","last_p":189.70,"v52_hi":219.00,"v52_lo":77.05 }
+,{ "nse_code":"IOLCP","nse_name":"IOL Chemicals and Pharmaceuticals Limited","blu":"N","last_p":183.50,"v52_hi":223.80,"v52_lo":89.00 }
+,{ "nse_code":"BIRLACABLE","nse_name":"Birla Cable Limited","blu":"N","last_p":136.45,"v52_hi":182.30,"v52_lo":82.60 }
+,{ "nse_code":"SMSLIFE","nse_name":"SMS Lifesciences India Limited","blu":"N","last_p":552.15,"v52_hi":668.00,"v52_lo":272.50 }
+,{ "nse_code":"IPAPPM","nse_name":"International Paper APPM Limited","blu":"N","last_p":443.30,"v52_hi":504.70,"v52_lo":302.40 }
  ]
