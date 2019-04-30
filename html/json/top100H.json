@@ -1,102 +1,102 @@
 [ 
-{ "nse_code":"TATASTEEL","nse_name":"Tata Steel Limited","blu":"Y","last_p":545.25,"v52_hi":636.80,"v52_lo":441.35 }
-,{ "nse_code":"AXISBANK","nse_name":"Axis Bank Limited","blu":"Y","last_p":759.90,"v52_hi":787.65,"v52_lo":481.25 }
-,{ "nse_code":"MARUTI","nse_name":"Maruti Suzuki India Limited","blu":"Y","last_p":6842.85,"v52_hi":9929.00,"v52_lo":6317.70 }
-,{ "nse_code":"YESBANK","nse_name":"Yes Bank Limited","blu":"Y","last_p":237.20,"v52_hi":394.35,"v52_lo":168.10 }
+{ "nse_code":"YESBANK","nse_name":"Yes Bank Limited","blu":"Y","last_p":168.00,"v52_hi":394.35,"v52_lo":165.60 }
 ,{ "nse_code":"RELIANCE","nse_name":"Reliance Industries Limited","blu":"Y","last_p":1392.80,"v52_hi":1412.40,"v52_lo":906.60 }
-,{ "nse_code":"HDFCBANK","nse_name":"HDFC Bank Limited","blu":"Y","last_p":2280.95,"v52_hi":2332.00,"v52_lo":1911.25 }
-,{ "nse_code":"ICICIBANK","nse_name":"ICICI Bank Limited","blu":"Y","last_p":407.20,"v52_hi":411.00,"v52_lo":256.50 }
-,{ "nse_code":"TATAMOTORS","nse_name":"Tata Motors Limited","blu":"Y","last_p":215.60,"v52_hi":351.65,"v52_lo":129.00 }
-,{ "nse_code":"INFY","nse_name":"Infosys Limited","blu":"Y","last_p":738.00,"v52_hi":1393.80,"v52_lo":705.35 }
-,{ "nse_code":"SBIN","nse_name":"State Bank of India","blu":"Y","last_p":312.50,"v52_hi":339.65,"v52_lo":232.50 }
-,{ "nse_code":"ULTRACEMCO","nse_name":"UltraTech Cement Limited","blu":"Y","last_p":4609.95,"v52_hi":4686.60,"v52_lo":3332.45 }
-,{ "nse_code":"AUROPHARMA","nse_name":"Aurobindo Pharma Limited","blu":"Y","last_p":831.15,"v52_hi":835.60,"v52_lo":527.00 }
-,{ "nse_code":"PCJEWELLER","nse_name":"PC Jeweller Limited","blu":"N","last_p":123.95,"v52_hi":264.25,"v52_lo":61.55 }
-,{ "nse_code":"HDFC","nse_name":"Housing Development Finance Corporation Limited","blu":"Y","last_p":1977.40,"v52_hi":2073.00,"v52_lo":1780.05 }
-,{ "nse_code":"PEL","nse_name":"Piramal Enterprises Limited","blu":"Y","last_p":2403.80,"v52_hi":2787.70,"v52_lo":2001.00 }
-,{ "nse_code":"JINDALSTEL","nse_name":"Jindal Steel & Power Limited","blu":"N","last_p":175.15,"v52_hi":263.95,"v52_lo":123.25 }
-,{ "nse_code":"KOTAKBANK","nse_name":"Kotak Mahindra Bank Limited","blu":"Y","last_p":1379.25,"v52_hi":1417.00,"v52_lo":1161.05 }
-,{ "nse_code":"STRTECH","nse_name":"Sterlite Technologies Limited","blu":"N","last_p":197.85,"v52_hi":358.00,"v52_lo":180.20 }
-,{ "nse_code":"JSWSTEEL","nse_name":"JSW Steel Limited","blu":"Y","last_p":294.00,"v52_hi":346.50,"v52_lo":256.60 }
-,{ "nse_code":"BPCL","nse_name":"Bharat Petroleum Corporation Limited","blu":"Y","last_p":371.05,"v52_hi":429.15,"v52_lo":312.05 }
-,{ "nse_code":"INDUSINDBK","nse_name":"IndusInd Bank Limited","blu":"Y","last_p":1698.85,"v52_hi":1995.00,"v52_lo":1430.25 }
-,{ "nse_code":"BIOCON","nse_name":"Biocon Limited","blu":"N","last_p":620.60,"v52_hi":696.60,"v52_lo":543.30 }
-,{ "nse_code":"DRREDDY","nse_name":"Dr. Reddy's Laboratories Limited","blu":"Y","last_p":2892.25,"v52_hi":2953.50,"v52_lo":1872.95 }
-,{ "nse_code":"DLF","nse_name":"DLF Limited","blu":"Y","last_p":174.30,"v52_hi":226.15,"v52_lo":152.05 }
-,{ "nse_code":"VEDL","nse_name":"Vedanta Limited","blu":"Y","last_p":169.70,"v52_hi":302.25,"v52_lo":145.80 }
-,{ "nse_code":"M&M","nse_name":"Mahindra & Mahindra Limited","blu":"N","last_p":659.45,"v52_hi":940.00,"v52_lo":615.60 }
-,{ "nse_code":"LT","nse_name":"Larsen & Toubro Limited","blu":"Y","last_p":1358.20,"v52_hi":1426.95,"v52_lo":1201.10 }
-,{ "nse_code":"INFRATEL","nse_name":"Bharti Infratel Limited","blu":"Y","last_p":272.90,"v52_hi":335.00,"v52_lo":265.65 }
-,{ "nse_code":"GRASIM","nse_name":"Grasim Industries Limited","blu":"N","last_p":913.45,"v52_hi":1114.90,"v52_lo":689.10 }
-,{ "nse_code":"MCX","nse_name":"Multi Commodity Exchange of India Limited","blu":"N","last_p":839.20,"v52_hi":873.40,"v52_lo":643.50 }
-,{ "nse_code":"HCLTECH","nse_name":"HCL Technologies Limited","blu":"Y","last_p":1139.75,"v52_hi":1169.85,"v52_lo":880.05 }
-,{ "nse_code":"HINDPETRO","nse_name":"Hindustan Petroleum Corporation Limited","blu":"Y","last_p":282.90,"v52_hi":330.15,"v52_lo":211.20 }
-,{ "nse_code":"INDIGO","nse_name":"InterGlobe Aviation Limited","blu":"Y","last_p":1481.80,"v52_hi":1650.00,"v52_lo":991.85 }
-,{ "nse_code":"HEROMOTOCO","nse_name":"Hero MotoCorp Limited","blu":"Y","last_p":2604.00,"v52_hi":3776.95,"v52_lo":2515.00 }
-,{ "nse_code":"BAJFINANCE","nse_name":"Bajaj Finance Limited","blu":"Y","last_p":3096.85,"v52_hi":3130.00,"v52_lo":1818.00 }
-,{ "nse_code":"ZEEL","nse_name":"Zee Entertainment Enterprises Limited","blu":"Y","last_p":417.70,"v52_hi":609.75,"v52_lo":320.00 }
-,{ "nse_code":"SAIL","nse_name":"Steel Authority of India Limited","blu":"Y","last_p":56.70,"v52_hi":91.10,"v52_lo":44.00 }
-,{ "nse_code":"IOC","nse_name":"Indian Oil Corporation Limited","blu":"Y","last_p":152.85,"v52_hi":177.20,"v52_lo":120.95 }
-,{ "nse_code":"WIPRO","nse_name":"Wipro Limited","blu":"Y","last_p":294.80,"v52_hi":388.95,"v52_lo":253.40 }
-,{ "nse_code":"JETAIRWAYS","nse_name":"Jet Airways (India) Limited","blu":"N","last_p":167.45,"v52_hi":651.40,"v52_lo":126.65 }
-,{ "nse_code":"PNB","nse_name":"Punjab National Bank","blu":"Y","last_p":88.15,"v52_hi":99.90,"v52_lo":68.70 }
-,{ "nse_code":"JUBLFOOD","nse_name":"Jubilant Foodworks Limited","blu":"N","last_p":1342.80,"v52_hi":2817.90,"v52_lo":1173.80 }
-,{ "nse_code":"TECHM","nse_name":"Tech Mahindra Limited","blu":"Y","last_p":823.25,"v52_hi":840.00,"v52_lo":612.40 }
-,{ "nse_code":"BHARTIARTL","nse_name":"Bharti Airtel Limited","blu":"Y","last_p":325.45,"v52_hi":420.00,"v52_lo":292.85 }
-,{ "nse_code":"LUPIN","nse_name":"Lupin Limited","blu":"Y","last_p":868.35,"v52_hi":946.20,"v52_lo":719.80 }
-,{ "nse_code":"BANKBARODA","nse_name":"Bank of Baroda","blu":"Y","last_p":123.25,"v52_hi":153.30,"v52_lo":98.50 }
-,{ "nse_code":"GAIL","nse_name":"GAIL (India) Limited","blu":"Y","last_p":353.40,"v52_hi":386.50,"v52_lo":298.75 }
-,{ "nse_code":"HINDALCO","nse_name":"Hindalco Industries Limited","blu":"Y","last_p":201.15,"v52_hi":255.50,"v52_lo":182.20 }
-,{ "nse_code":"CIPLA","nse_name":"Cipla Limited","blu":"Y","last_p":567.95,"v52_hi":648.00,"v52_lo":483.75 }
-,{ "nse_code":"ONGC","nse_name":"Oil & Natural Gas Corporation Limited","blu":"N","last_p":168.40,"v52_hi":192.00,"v52_lo":127.60 }
-,{ "nse_code":"ASHOKLEY","nse_name":"Ashok Leyland Limited","blu":"Y","last_p":88.50,"v52_hi":167.50,"v52_lo":77.60 }
-,{ "nse_code":"ITC","nse_name":"ITC Limited","blu":"Y","last_p":304.55,"v52_hi":310.00,"v52_lo":259.00 }
-,{ "nse_code":"SBILIFE","nse_name":"SBI Life Insurance Company Limited","blu":"N","last_p":637.25,"v52_hi":774.60,"v52_lo":515.55 }
-,{ "nse_code":"SUNPHARMA","nse_name":"Sun Pharmaceutical Industries Limited","blu":"Y","last_p":464.10,"v52_hi":592.00,"v52_lo":403.30 }
-,{ "nse_code":"HINDUNILVR","nse_name":"Hindustan Unilever Limited","blu":"Y","last_p":1747.35,"v52_hi":1847.00,"v52_lo":1441.60 }
-,{ "nse_code":"EICHERMOT","nse_name":"Eicher Motors Limited","blu":"Y","last_p":20330.65,"v52_hi":32236.70,"v52_lo":18800.00 }
-,{ "nse_code":"HDFCLIFE","nse_name":"HDFC Standard Life Insurance Company Limited","blu":"N","last_p":399.65,"v52_hi":548.25,"v52_lo":344.40 }
-,{ "nse_code":"UPL","nse_name":"UPL Limited","blu":"Y","last_p":970.35,"v52_hi":973.90,"v52_lo":537.25 }
-,{ "nse_code":"RECLTD","nse_name":"Rural Electrification Corporation Limited","blu":"Y","last_p":145.95,"v52_hi":159.90,"v52_lo":89.00 }
-,{ "nse_code":"JUSTDIAL","nse_name":"Just Dial Limited","blu":"N","last_p":579.45,"v52_hi":677.30,"v52_lo":358.00 }
-,{ "nse_code":"DMART","nse_name":"Avenue Supermarts Limited","blu":"N","last_p":1301.15,"v52_hi":1623.00,"v52_lo":1275.00 }
-,{ "nse_code":"CYIENT","nse_name":"Cyient Limited","blu":"N","last_p":583.60,"v52_hi":887.00,"v52_lo":570.00 }
-,{ "nse_code":"BHARATFIN","nse_name":"Bharat Financial Inclusion Limited","blu":"N","last_p":1055.20,"v52_hi":1217.10,"v52_lo":904.85 }
-,{ "nse_code":"ASIANPAINT","nse_name":"Asian Paints Limited","blu":"Y","last_p":1448.75,"v52_hi":1529.85,"v52_lo":1149.55 }
-,{ "nse_code":"ACC","nse_name":"ACC Limited","blu":"Y","last_p":1635.35,"v52_hi":1723.40,"v52_lo":1255.65 }
-,{ "nse_code":"PAGEIND","nse_name":"Page Industries Limited","blu":"N","last_p":22997.15,"v52_hi":29675.80,"v52_lo":20300.00 }
-,{ "nse_code":"TITAN","nse_name":"Titan Company Limited","blu":"Y","last_p":1137.50,"v52_hi":1165.00,"v52_lo":799.65 }
-,{ "nse_code":"CANBK","nse_name":"Canara Bank","blu":"N","last_p":273.40,"v52_hi":302.10,"v52_lo":212.80 }
-,{ "nse_code":"POWERGRID","nse_name":"Power Grid Corporation of India Limited","blu":"Y","last_p":190.80,"v52_hi":216.00,"v52_lo":172.50 }
-,{ "nse_code":"BEML","nse_name":"BEML Limited","blu":"N","last_p":895.70,"v52_hi":1198.40,"v52_lo":725.30 }
-,{ "nse_code":"CGPOWER","nse_name":"CG Power and Industrial Solutions Limited","blu":"N","last_p":39.25,"v52_hi":84.90,"v52_lo":20.25 }
-,{ "nse_code":"BAJAJFINSV","nse_name":"Bajaj Finserv Limited","blu":"Y","last_p":7721.25,"v52_hi":7747.20,"v52_lo":5225.00 }
-,{ "nse_code":"SRTRANSFIN","nse_name":"Shriram Transport Finance Company Limited","blu":"Y","last_p":1135.50,"v52_hi":1668.75,"v52_lo":991.35 }
-,{ "nse_code":"BAJAJ-AUTO","nse_name":"Bajaj Auto Limited","blu":"Y","last_p":3044.65,"v52_hi":3194.95,"v52_lo":2461.10 }
-,{ "nse_code":"SHREECEM","nse_name":"Shree Cements Limited","blu":"Y","last_p":20015.90,"v52_hi":20140.05,"v52_lo":14855.00 }
-,{ "nse_code":"ADANIPOWER","nse_name":"Adani Power Limited","blu":"N","last_p":48.40,"v52_hi":55.80,"v52_lo":15.15 }
-,{ "nse_code":"ESCORTS","nse_name":"Escorts Limited","blu":"N","last_p":734.10,"v52_hi":1017.70,"v52_lo":601.00 }
-,{ "nse_code":"INDIACEM","nse_name":"The India Cements Limited","blu":"N","last_p":110.65,"v52_hi":149.00,"v52_lo":74.75 }
-,{ "nse_code":"TORNTPHARM","nse_name":"Torrent Pharmaceuticals Limited","blu":"Y","last_p":1753.75,"v52_hi":1962.00,"v52_lo":1303.55 }
-,{ "nse_code":"UBL","nse_name":"United Breweries Limited","blu":"Y","last_p":1435.65,"v52_hi":1469.90,"v52_lo":1031.80 }
-,{ "nse_code":"M&MFIN","nse_name":"Mahindra & Mahindra Financial Services Limited","blu":"N","last_p":414.05,"v52_hi":534.00,"v52_lo":368.00 }
-,{ "nse_code":"VOLTAS","nse_name":"Voltas Limited","blu":"N","last_p":609.00,"v52_hi":647.55,"v52_lo":493.05 }
-,{ "nse_code":"APOLLOTYRE","nse_name":"Apollo Tyres Limited","blu":"N","last_p":209.50,"v52_hi":300.70,"v52_lo":193.80 }
-,{ "nse_code":"NCC","nse_name":"NCC Limited","blu":"N","last_p":103.20,"v52_hi":136.70,"v52_lo":76.85 }
-,{ "nse_code":"BHEL","nse_name":"Bharat Heavy Electricals Limited","blu":"Y","last_p":71.25,"v52_hi":89.50,"v52_lo":56.20 }
-,{ "nse_code":"SUNTV","nse_name":"Sun TV Network Limited","blu":"Y","last_p":574.80,"v52_hi":999.00,"v52_lo":493.40 }
-,{ "nse_code":"GHCL","nse_name":"GHCL Limited","blu":"N","last_p":257.75,"v52_hi":301.45,"v52_lo":208.45 }
-,{ "nse_code":"ADANIPORTS","nse_name":"Adani Ports and Special Economic Zone Limited","blu":"Y","last_p":391.75,"v52_hi":415.65,"v52_lo":292.10 }
-,{ "nse_code":"SIEMENS","nse_name":"Siemens Limited","blu":"Y","last_p":1179.10,"v52_hi":1201.80,"v52_lo":931.00 }
-,{ "nse_code":"NTPC","nse_name":"NTPC Limited","blu":"Y","last_p":134.10,"v52_hi":176.20,"v52_lo":128.00 }
-,{ "nse_code":"MRF","nse_name":"MRF Limited","blu":"N","last_p":54410.05,"v52_hi":81425.95,"v52_lo":53858.35 }
-,{ "nse_code":"DCBBANK","nse_name":"DCB Bank Limited","blu":"N","last_p":215.30,"v52_hi":219.75,"v52_lo":155.65 }
-,{ "nse_code":"ICICIGI","nse_name":"ICICI Lombard General Insurance Company Limited","blu":"N","last_p":1089.15,"v52_hi":1112.45,"v52_lo":683.50 }
-,{ "nse_code":"BEL","nse_name":"Bharat Electronics Limited","blu":"Y","last_p":88.15,"v52_hi":134.70,"v52_lo":72.50 }
-,{ "nse_code":"HEXAWARE","nse_name":"Hexaware Technologies Limited","blu":"N","last_p":352.40,"v52_hi":557.70,"v52_lo":312.25 }
-,{ "nse_code":"COALINDIA","nse_name":"Coal India Limited","blu":"Y","last_p":250.50,"v52_hi":303.45,"v52_lo":211.40 }
-,{ "nse_code":"BATAINDIA","nse_name":"Bata India Limited","blu":"N","last_p":1446.55,"v52_hi":1473.50,"v52_lo":735.30 }
-,{ "nse_code":"GODREJCP","nse_name":"Godrej Consumer Products Limited","blu":"Y","last_p":653.20,"v52_hi":1379.00,"v52_lo":634.00 }
-,{ "nse_code":"UNIONBANK","nse_name":"Union Bank of India","blu":"N","last_p":88.05,"v52_hi":100.40,"v52_lo":67.50 }
-,{ "nse_code":"TVSMOTOR","nse_name":"TVS Motor Company Limited","blu":"N","last_p":505.25,"v52_hi":674.60,"v52_lo":448.30 }
+,{ "nse_code":"MARUTI","nse_name":"Maruti Suzuki India Limited","blu":"Y","last_p":6666.40,"v52_hi":9929.00,"v52_lo":6317.70 }
+,{ "nse_code":"AXISBANK","nse_name":"Axis Bank Limited","blu":"Y","last_p":766.85,"v52_hi":787.65,"v52_lo":498.75 }
+,{ "nse_code":"KOTAKBANK","nse_name":"Kotak Mahindra Bank Limited","blu":"Y","last_p":1386.55,"v52_hi":1417.00,"v52_lo":1193.40 }
+,{ "nse_code":"INDUSINDBK","nse_name":"IndusInd Bank Limited","blu":"Y","last_p":1606.50,"v52_hi":1995.00,"v52_lo":1430.25 }
+,{ "nse_code":"ICICIBANK","nse_name":"ICICI Bank Limited","blu":"Y","last_p":407.50,"v52_hi":411.00,"v52_lo":256.50 }
+,{ "nse_code":"TATASTEEL","nse_name":"Tata Steel Limited","blu":"Y","last_p":557.20,"v52_hi":636.80,"v52_lo":441.35 }
+,{ "nse_code":"INFY","nse_name":"Infosys Limited","blu":"Y","last_p":751.35,"v52_hi":1393.80,"v52_lo":705.35 }
+,{ "nse_code":"HDFC","nse_name":"Housing Development Finance Corporation Limited","blu":"Y","last_p":1995.05,"v52_hi":2073.00,"v52_lo":1780.05 }
+,{ "nse_code":"HDFCBANK","nse_name":"HDFC Bank Limited","blu":"Y","last_p":2317.45,"v52_hi":2332.00,"v52_lo":1928.80 }
+,{ "nse_code":"SBIN","nse_name":"State Bank of India","blu":"Y","last_p":309.95,"v52_hi":339.65,"v52_lo":237.85 }
+,{ "nse_code":"HCLTECH","nse_name":"HCL Technologies Limited","blu":"Y","last_p":1183.35,"v52_hi":1187.60,"v52_lo":880.05 }
+,{ "nse_code":"TATAMOTORS","nse_name":"Tata Motors Limited","blu":"Y","last_p":214.30,"v52_hi":351.65,"v52_lo":129.00 }
+,{ "nse_code":"PCJEWELLER","nse_name":"PC Jeweller Limited","blu":"N","last_p":119.00,"v52_hi":264.25,"v52_lo":61.55 }
+,{ "nse_code":"HEROMOTOCO","nse_name":"Hero MotoCorp Limited","blu":"Y","last_p":2511.85,"v52_hi":3774.00,"v52_lo":2477.00 }
+,{ "nse_code":"JSWSTEEL","nse_name":"JSW Steel Limited","blu":"Y","last_p":308.35,"v52_hi":346.50,"v52_lo":256.60 }
+,{ "nse_code":"BPCL","nse_name":"Bharat Petroleum Corporation Limited","blu":"Y","last_p":379.85,"v52_hi":429.15,"v52_lo":312.05 }
+,{ "nse_code":"ZEEL","nse_name":"Zee Entertainment Enterprises Limited","blu":"Y","last_p":432.60,"v52_hi":609.75,"v52_lo":320.00 }
+,{ "nse_code":"AUROPHARMA","nse_name":"Aurobindo Pharma Limited","blu":"Y","last_p":819.05,"v52_hi":838.00,"v52_lo":527.00 }
+,{ "nse_code":"ITC","nse_name":"ITC Limited","blu":"Y","last_p":301.35,"v52_hi":310.00,"v52_lo":259.00 }
+,{ "nse_code":"BANKBARODA","nse_name":"Bank of Baroda","blu":"Y","last_p":116.65,"v52_hi":153.30,"v52_lo":98.50 }
+,{ "nse_code":"INDIGO","nse_name":"InterGlobe Aviation Limited","blu":"Y","last_p":1517.00,"v52_hi":1650.00,"v52_lo":991.85 }
+,{ "nse_code":"M&M","nse_name":"Mahindra & Mahindra Limited","blu":"N","last_p":645.30,"v52_hi":940.00,"v52_lo":615.60 }
+,{ "nse_code":"ULTRACEMCO","nse_name":"UltraTech Cement Limited","blu":"Y","last_p":4616.80,"v52_hi":4686.60,"v52_lo":3332.45 }
+,{ "nse_code":"SUNPHARMA","nse_name":"Sun Pharmaceutical Industries Limited","blu":"Y","last_p":457.65,"v52_hi":592.00,"v52_lo":403.30 }
+,{ "nse_code":"HINDPETRO","nse_name":"Hindustan Petroleum Corporation Limited","blu":"Y","last_p":291.25,"v52_hi":330.15,"v52_lo":211.20 }
+,{ "nse_code":"BAJFINANCE","nse_name":"Bajaj Finance Limited","blu":"Y","last_p":3095.95,"v52_hi":3130.00,"v52_lo":1818.00 }
+,{ "nse_code":"DLF","nse_name":"DLF Limited","blu":"Y","last_p":172.75,"v52_hi":226.00,"v52_lo":152.05 }
+,{ "nse_code":"LT","nse_name":"Larsen & Toubro Limited","blu":"Y","last_p":1348.55,"v52_hi":1426.95,"v52_lo":1201.10 }
+,{ "nse_code":"INFRATEL","nse_name":"Bharti Infratel Limited","blu":"Y","last_p":262.55,"v52_hi":335.00,"v52_lo":256.50 }
+,{ "nse_code":"BIOCON","nse_name":"Biocon Limited","blu":"N","last_p":593.50,"v52_hi":696.60,"v52_lo":543.30 }
+,{ "nse_code":"JINDALSTEL","nse_name":"Jindal Steel & Power Limited","blu":"N","last_p":178.10,"v52_hi":263.95,"v52_lo":123.25 }
+,{ "nse_code":"TECHM","nse_name":"Tech Mahindra Limited","blu":"Y","last_p":836.10,"v52_hi":840.00,"v52_lo":612.40 }
+,{ "nse_code":"PNB","nse_name":"Punjab National Bank","blu":"Y","last_p":84.90,"v52_hi":99.90,"v52_lo":68.70 }
+,{ "nse_code":"ASIANPAINT","nse_name":"Asian Paints Limited","blu":"Y","last_p":1463.15,"v52_hi":1529.85,"v52_lo":1178.10 }
+,{ "nse_code":"IOC","nse_name":"Indian Oil Corporation Limited","blu":"Y","last_p":158.05,"v52_hi":177.20,"v52_lo":120.95 }
+,{ "nse_code":"WIPRO","nse_name":"Wipro Limited","blu":"Y","last_p":298.55,"v52_hi":388.95,"v52_lo":253.40 }
+,{ "nse_code":"HINDUNILVR","nse_name":"Hindustan Unilever Limited","blu":"Y","last_p":1757.70,"v52_hi":1847.00,"v52_lo":1441.60 }
+,{ "nse_code":"AMBUJACEM","nse_name":"Ambuja Cements Limited","blu":"Y","last_p":220.50,"v52_hi":252.75,"v52_lo":189.00 }
+,{ "nse_code":"L&TFH","nse_name":"L&T Finance Holdings Limited","blu":"N","last_p":131.10,"v52_hi":185.85,"v52_lo":120.10 }
+,{ "nse_code":"VEDL","nse_name":"Vedanta Limited","blu":"Y","last_p":166.85,"v52_hi":302.25,"v52_lo":145.80 }
+,{ "nse_code":"BAJAJ-AUTO","nse_name":"Bajaj Auto Limited","blu":"Y","last_p":2984.10,"v52_hi":3194.95,"v52_lo":2461.10 }
+,{ "nse_code":"SAIL","nse_name":"Steel Authority of India Limited","blu":"Y","last_p":55.80,"v52_hi":91.10,"v52_lo":44.00 }
+,{ "nse_code":"BAJAJFINSV","nse_name":"Bajaj Finserv Limited","blu":"Y","last_p":7520.45,"v52_hi":7747.20,"v52_lo":5225.00 }
+,{ "nse_code":"BHARTIARTL","nse_name":"Bharti Airtel Limited","blu":"Y","last_p":320.30,"v52_hi":418.35,"v52_lo":292.85 }
+,{ "nse_code":"PVR","nse_name":"PVR Limited","blu":"N","last_p":1769.45,"v52_hi":1780.00,"v52_lo":1062.80 }
+,{ "nse_code":"PEL","nse_name":"Piramal Enterprises Limited","blu":"Y","last_p":2362.00,"v52_hi":2787.70,"v52_lo":2001.00 }
+,{ "nse_code":"UPL","nse_name":"UPL Limited","blu":"Y","last_p":969.15,"v52_hi":975.25,"v52_lo":537.25 }
+,{ "nse_code":"HINDALCO","nse_name":"Hindalco Industries Limited","blu":"Y","last_p":206.05,"v52_hi":255.50,"v52_lo":182.20 }
+,{ "nse_code":"DRREDDY","nse_name":"Dr. Reddy's Laboratories Limited","blu":"Y","last_p":2933.75,"v52_hi":2953.50,"v52_lo":1872.95 }
+,{ "nse_code":"ASHOKLEY","nse_name":"Ashok Leyland Limited","blu":"Y","last_p":86.95,"v52_hi":167.50,"v52_lo":77.60 }
+,{ "nse_code":"CANBK","nse_name":"Canara Bank","blu":"N","last_p":260.45,"v52_hi":302.10,"v52_lo":212.80 }
+,{ "nse_code":"MCX","nse_name":"Multi Commodity Exchange of India Limited","blu":"N","last_p":859.00,"v52_hi":873.40,"v52_lo":643.50 }
+,{ "nse_code":"TITAN","nse_name":"Titan Company Limited","blu":"Y","last_p":1158.55,"v52_hi":1165.00,"v52_lo":799.65 }
+,{ "nse_code":"ONGC","nse_name":"Oil & Natural Gas Corporation Limited","blu":"N","last_p":169.20,"v52_hi":192.00,"v52_lo":127.60 }
+,{ "nse_code":"GAIL","nse_name":"GAIL (India) Limited","blu":"Y","last_p":355.95,"v52_hi":386.50,"v52_lo":298.75 }
+,{ "nse_code":"JETAIRWAYS","nse_name":"Jet Airways (India) Limited","blu":"N","last_p":153.35,"v52_hi":651.40,"v52_lo":126.65 }
+,{ "nse_code":"COALINDIA","nse_name":"Coal India Limited","blu":"Y","last_p":252.15,"v52_hi":303.45,"v52_lo":211.40 }
+,{ "nse_code":"BHARATFIN","nse_name":"Bharat Financial Inclusion Limited","blu":"N","last_p":1007.85,"v52_hi":1217.10,"v52_lo":904.85 }
+,{ "nse_code":"POWERGRID","nse_name":"Power Grid Corporation of India Limited","blu":"Y","last_p":186.40,"v52_hi":216.00,"v52_lo":172.50 }
+,{ "nse_code":"SRTRANSFIN","nse_name":"Shriram Transport Finance Company Limited","blu":"Y","last_p":1110.95,"v52_hi":1657.30,"v52_lo":991.35 }
+,{ "nse_code":"BRITANNIA","nse_name":"Britannia Industries Limited","blu":"Y","last_p":2896.05,"v52_hi":6574.20,"v52_lo":2759.00 }
+,{ "nse_code":"EICHERMOT","nse_name":"Eicher Motors Limited","blu":"Y","last_p":20368.30,"v52_hi":31884.85,"v52_lo":18800.00 }
+,{ "nse_code":"EXIDEIND","nse_name":"Exide Industries Limited","blu":"N","last_p":214.15,"v52_hi":278.00,"v52_lo":194.30 }
+,{ "nse_code":"GRASIM","nse_name":"Grasim Industries Limited","blu":"N","last_p":901.20,"v52_hi":1114.90,"v52_lo":689.10 }
+,{ "nse_code":"SUNTV","nse_name":"Sun TV Network Limited","blu":"Y","last_p":574.25,"v52_hi":999.00,"v52_lo":493.40 }
+,{ "nse_code":"M&MFIN","nse_name":"Mahindra & Mahindra Financial Services Limited","blu":"N","last_p":400.65,"v52_hi":534.00,"v52_lo":368.00 }
+,{ "nse_code":"ACC","nse_name":"ACC Limited","blu":"Y","last_p":1632.05,"v52_hi":1723.40,"v52_lo":1255.65 }
+,{ "nse_code":"VAKRANGEE","nse_name":"Vakrangee Limited","blu":"N","last_p":62.70,"v52_hi":71.00,"v52_lo":30.85 }
+,{ "nse_code":"JUBLFOOD","nse_name":"Jubilant Foodworks Limited","blu":"N","last_p":1328.50,"v52_hi":2817.90,"v52_lo":1173.80 }
+,{ "nse_code":"PAGEIND","nse_name":"Page Industries Limited","blu":"N","last_p":23091.85,"v52_hi":29675.80,"v52_lo":20300.00 }
+,{ "nse_code":"HDFCLIFE","nse_name":"HDFC Standard Life Insurance Company Limited","blu":"N","last_p":404.55,"v52_hi":548.25,"v52_lo":344.40 }
+,{ "nse_code":"CIPLA","nse_name":"Cipla Limited","blu":"Y","last_p":565.00,"v52_hi":648.00,"v52_lo":483.75 }
+,{ "nse_code":"BHEL","nse_name":"Bharat Heavy Electricals Limited","blu":"Y","last_p":70.80,"v52_hi":89.50,"v52_lo":56.20 }
+,{ "nse_code":"NTPC","nse_name":"NTPC Limited","blu":"Y","last_p":134.05,"v52_hi":176.20,"v52_lo":128.00 }
+,{ "nse_code":"ADANIPORTS","nse_name":"Adani Ports and Special Economic Zone Limited","blu":"Y","last_p":392.80,"v52_hi":415.65,"v52_lo":292.10 }
+,{ "nse_code":"DIVISLAB","nse_name":"Divi's Laboratories Limited","blu":"Y","last_p":1746.85,"v52_hi":1774.95,"v52_lo":994.95 }
+,{ "nse_code":"RBLBANK","nse_name":"RBL Bank Limited","blu":"N","last_p":678.85,"v52_hi":691.45,"v52_lo":492.30 }
+,{ "nse_code":"GODREJCP","nse_name":"Godrej Consumer Products Limited","blu":"Y","last_p":651.80,"v52_hi":1379.00,"v52_lo":634.00 }
+,{ "nse_code":"BEML","nse_name":"BEML Limited","blu":"N","last_p":874.20,"v52_hi":1198.40,"v52_lo":725.30 }
+,{ "nse_code":"ADANIPOWER","nse_name":"Adani Power Limited","blu":"N","last_p":44.90,"v52_hi":55.80,"v52_lo":15.15 }
+,{ "nse_code":"JUSTDIAL","nse_name":"Just Dial Limited","blu":"N","last_p":579.05,"v52_hi":677.30,"v52_lo":358.00 }
+,{ "nse_code":"PFC","nse_name":"Power Finance Corporation Limited","blu":"Y","last_p":115.60,"v52_hi":124.30,"v52_lo":67.50 }
+,{ "nse_code":"ESCORTS","nse_name":"Escorts Limited","blu":"N","last_p":738.90,"v52_hi":1017.70,"v52_lo":601.00 }
+,{ "nse_code":"UNIONBANK","nse_name":"Union Bank of India","blu":"N","last_p":83.50,"v52_hi":100.40,"v52_lo":67.50 }
+,{ "nse_code":"GODREJPROP","nse_name":"Godrej Properties Limited","blu":"N","last_p":829.90,"v52_hi":986.95,"v52_lo":651.10 }
+,{ "nse_code":"FEDERALBNK","nse_name":"The Federal Bank  Limited","blu":"N","last_p":92.75,"v52_hi":103.80,"v52_lo":73.50 }
+,{ "nse_code":"DABUR","nse_name":"Dabur India Limited","blu":"Y","last_p":398.10,"v52_hi":464.20,"v52_lo":364.60 }
+,{ "nse_code":"CHOLAFIN","nse_name":"Cholamandalam Investment and Finance Company Limited","blu":"N","last_p":1388.80,"v52_hi":1760.05,"v52_lo":1091.00 }
+,{ "nse_code":"NESTLEIND","nse_name":"Nestle India Limited","blu":"N","last_p":10905.30,"v52_hi":11751.00,"v52_lo":8934.65 }
+,{ "nse_code":"PNBHOUSING","nse_name":"PNB Housing Finance Limited","blu":"N","last_p":708.15,"v52_hi":1440.00,"v52_lo":696.90 }
+,{ "nse_code":"LUPIN","nse_name":"Lupin Limited","blu":"Y","last_p":872.05,"v52_hi":946.20,"v52_lo":719.80 }
+,{ "nse_code":"TVSMOTOR","nse_name":"TVS Motor Company Limited","blu":"N","last_p":492.25,"v52_hi":674.60,"v52_lo":448.30 }
+,{ "nse_code":"PETRONET","nse_name":"Petronet LNG Limited","blu":"Y","last_p":241.15,"v52_hi":254.90,"v52_lo":202.05 }
+,{ "nse_code":"BANKINDIA","nse_name":"Bank of India","blu":"N","last_p":88.25,"v52_hi":108.80,"v52_lo":76.50 }
+,{ "nse_code":"HEG","nse_name":"HEG Limited","blu":"N","last_p":1632.60,"v52_hi":4187.30,"v52_lo":1604.00 }
+,{ "nse_code":"INDIACEM","nse_name":"The India Cements Limited","blu":"N","last_p":107.10,"v52_hi":149.00,"v52_lo":74.75 }
+,{ "nse_code":"LICHSGFIN","nse_name":"LIC Housing Finance Limited","blu":"Y","last_p":496.75,"v52_hi":553.30,"v52_lo":429.60 }
+,{ "nse_code":"BATAINDIA","nse_name":"Bata India Limited","blu":"N","last_p":1454.00,"v52_hi":1473.50,"v52_lo":735.30 }
  ]

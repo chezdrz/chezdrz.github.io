@@ -242,6 +242,7 @@
 ,{"nse_code":"CUB","nse_name":"City Union Bank Limited"}
 ,{"nse_code":"CUMMINSIND","nse_name":"Cummins India Limited"}
 ,{"nse_code":"CUPID","nse_name":"Cupid Limited"}
+,{"nse_code":"CYBERMEDIA","nse_name":"Cyber Media (India) Limited"}
 ,{"nse_code":"CYBERTECH","nse_name":"Cybertech Systems And Software Limited"}
 ,{"nse_code":"CYIENT","nse_name":"Cyient Limited"}
 ,{"nse_code":"DAAWAT","nse_name":"LT Foods Limited"}
@@ -317,7 +318,6 @@
 ,{"nse_code":"ESCORTS","nse_name":"Escorts Limited"}
 ,{"nse_code":"ESSDEE","nse_name":"Ess Dee Aluminium Limited"}
 ,{"nse_code":"ESTER","nse_name":"Ester Industries Limited"}
-,{"nse_code":"EUROTEXIND","nse_name":"Eurotex Industries and Exports Limited"}
 ,{"nse_code":"EVEREADY","nse_name":"Eveready Industries India Limited"}
 ,{"nse_code":"EVERESTIND","nse_name":"Everest Industries Limited"}
 ,{"nse_code":"EXCELCROP","nse_name":"Excel Crop Care Limited"}
@@ -351,6 +351,7 @@
 ,{"nse_code":"GANDHITUBE","nse_name":"Gandhi Special Tubes Limited"}
 ,{"nse_code":"GANECOS","nse_name":"Ganesha Ecosphere Limited"}
 ,{"nse_code":"GANESHHOUC","nse_name":"Ganesh Housing Corporation Limited"}
+,{"nse_code":"GANGESSECU","nse_name":"Ganges Securities Limited"}
 ,{"nse_code":"GARDENSILK","nse_name":"Garden Silk Mills Limited"}
 ,{"nse_code":"GATI","nse_name":"GATI Limited"}
 ,{"nse_code":"GAYAPROJ","nse_name":"Gayatri Projects Limited"}
@@ -547,6 +548,7 @@
 ,{"nse_code":"JINDALPOLY","nse_name":"Jindal Poly Films Limited"}
 ,{"nse_code":"JINDALSAW","nse_name":"Jindal Saw Limited"}
 ,{"nse_code":"JINDALSTEL","nse_name":"Jindal Steel & Power Limited"}
+,{"nse_code":"JINDCOT","nse_name":"Jindal Cotex Limited"}
 ,{"nse_code":"JINDRILL","nse_name":"Jindal Drilling And Industries Limited"}
 ,{"nse_code":"JISLDVREQS","nse_name":"Jain Irrigation Systems Limited"}
 ,{"nse_code":"JISLJALEQS","nse_name":"Jain Irrigation Systems Limited"}
@@ -596,7 +598,6 @@
 ,{"nse_code":"KEYCORPSER","nse_name":"Keynote Corporate Services Limited"}
 ,{"nse_code":"KHADIM","nse_name":"Khadim India Limited"}
 ,{"nse_code":"KHAITANLTD","nse_name":"Khaitan (India) Limited"}
-,{"nse_code":"KHANDSE","nse_name":"Khandwala Securities Limited"}
 ,{"nse_code":"KICL","nse_name":"Kalyani Investment Company Limited"}
 ,{"nse_code":"KILITCH","nse_name":"Kilitch Drugs (India) Limited"}
 ,{"nse_code":"KINGFA","nse_name":"Kingfa Science & Technology (India) Limited"}
@@ -1171,7 +1172,6 @@
 ,{"nse_code":"UJJIVAN","nse_name":"Ujjivan Financial Services Limited"}
 ,{"nse_code":"ULTRACEMCO","nse_name":"UltraTech Cement Limited"}
 ,{"nse_code":"UMANGDAIRY","nse_name":"Umang Dairies Limited"}
-,{"nse_code":"UMESLTD","nse_name":"Usha Martin Education & Solutions Limited"}
 ,{"nse_code":"UNICHEMLAB","nse_name":"Unichem Laboratories Limited"}
 ,{"nse_code":"UNIENTER","nse_name":"Uniphos Enterprises Limited"}
 ,{"nse_code":"UNIONBANK","nse_name":"Union Bank of India"}
