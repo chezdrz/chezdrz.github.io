@@ -46,7 +46,6 @@
 ,{"nse_code":"ALKEM","nse_name":"Alkem Laboratories Limited"}
 ,{"nse_code":"ALKYLAMINE","nse_name":"Alkyl Amines Chemicals Limited"}
 ,{"nse_code":"ALLCARGO","nse_name":"Allcargo Logistics Limited"}
-,{"nse_code":"ALMONDZ","nse_name":"Almondz Global Securities Limited"}
 ,{"nse_code":"ALPA","nse_name":"Alpa Laboratories Limited"}
 ,{"nse_code":"ALPHAGEO","nse_name":"Alphageo (India) Limited"}
 ,{"nse_code":"AMARAJABAT","nse_name":"Amara Raja Batteries Limited"}
@@ -582,6 +581,7 @@
 ,{"nse_code":"KANSAINER","nse_name":"Kansai Nerolac Paints Limited"}
 ,{"nse_code":"KARMAENG","nse_name":"Karma Energy Limited"}
 ,{"nse_code":"KARURVYSYA","nse_name":"Karur Vysya Bank Limited"}
+,{"nse_code":"KAUSHALYA","nse_name":"Kaushalya Infrastructure Development Corporation Limited"}
 ,{"nse_code":"KAVVERITEL","nse_name":"Kavveri Telecom Products Limited"}
 ,{"nse_code":"KAYA","nse_name":"Kaya Limited"}
 ,{"nse_code":"KCP","nse_name":"KCP Limited"}
@@ -773,6 +773,7 @@
 ,{"nse_code":"NFL","nse_name":"National Fertilizers Limited"}
 ,{"nse_code":"NH","nse_name":"Narayana Hrudayalaya Ltd."}
 ,{"nse_code":"NHPC","nse_name":"NHPC Limited"}
+,{"nse_code":"NIBL","nse_name":"NRB Industrial Bearings Limited"}
 ,{"nse_code":"NIITLTD","nse_name":"NIIT Limited"}
 ,{"nse_code":"NIITTECH","nse_name":"NIIT Technologies Limited"}
 ,{"nse_code":"NILAINFRA","nse_name":"Nila Infrastructures Limited"}
@@ -813,6 +814,7 @@
 ,{"nse_code":"ORIENTBELL","nse_name":"Orient Bell Limited"}
 ,{"nse_code":"ORIENTCEM","nse_name":"Orient Cement Limited"}
 ,{"nse_code":"ORIENTHOT","nse_name":"Oriental Hotels Limited"}
+,{"nse_code":"ORIENTLTD","nse_name":"Orient Press Limited"}
 ,{"nse_code":"ORIENTPPR","nse_name":"Orient Paper & Industries Limited"}
 ,{"nse_code":"ORIENTREF","nse_name":"Orient Refractories Limited"}
 ,{"nse_code":"ORISSAMINE","nse_name":"The Orissa Minerals Development Company Limited"}
@@ -1181,7 +1183,6 @@
 ,{"nse_code":"USHAMART","nse_name":"Usha Martin Limited"}
 ,{"nse_code":"UTTAMSTL","nse_name":"Uttam Galva Steels Limited"}
 ,{"nse_code":"UTTAMSUGAR","nse_name":"Uttam Sugar Mills Limited"}
-,{"nse_code":"UVSL","nse_name":"Uttam Value Steels Limited"}
 ,{"nse_code":"V2RETAIL","nse_name":"V2 Retail Limited"}
 ,{"nse_code":"VADILALIND","nse_name":"Vadilal Industries Limited"}
 ,{"nse_code":"VAIBHAVGBL","nse_name":"Vaibhav Global Limited"}
