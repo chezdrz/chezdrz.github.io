@@ -1,13 +1,13 @@
 [ 
-{ "nse_code":"SPLIL","nse_name":"SPL Industries Limited","blu":"N","last_p":40.95,"v52_hi":61.50,"v52_lo":22.05 }
-,{ "nse_code":"BIRLACABLE","nse_name":"Birla Cable Limited","blu":"N","last_p":120.15,"v52_hi":182.30,"v52_lo":84.20 }
-,{ "nse_code":"TTKPRESTIG","nse_name":"TTK Prestige Limited","blu":"N","last_p":7296.70,"v52_hi":9280.00,"v52_lo":5704.00 }
-,{ "nse_code":"TIJARIA","nse_name":"Tijaria Polypipes Limited","blu":"N","last_p":14.70,"v52_hi":20.65,"v52_lo":8.45 }
-,{ "nse_code":"LPDC","nse_name":"Landmark Property Development Company Limited","blu":"N","last_p":3.35,"v52_hi":7.15,"v52_lo":2.40 }
-,{ "nse_code":"SMSLIFE","nse_name":"SMS Lifesciences India Limited","blu":"N","last_p":500.30,"v52_hi":668.00,"v52_lo":272.50 }
-,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":206.65,"v52_hi":351.85,"v52_lo":109.10 }
-,{ "nse_code":"BANARBEADS","nse_name":"Banaras Beads Limited","blu":"N","last_p":52.30,"v52_hi":74.90,"v52_lo":37.65 }
-,{ "nse_code":"IPAPPM","nse_name":"International Paper APPM Limited","blu":"N","last_p":430.70,"v52_hi":504.70,"v52_lo":302.40 }
-,{ "nse_code":"TERASOFT","nse_name":"Tera Software Limited","blu":"N","last_p":44.30,"v52_hi":59.45,"v52_lo":34.50 }
-,{ "nse_code":"RSYSTEMS","nse_name":"R Systems International Limited","blu":"N","last_p":45.75,"v52_hi":54.90,"v52_lo":25.00 }
+{ "nse_code":"BIRLACABLE","nse_name":"Birla Cable Limited","blu":"N","last_p":116.75,"v52_hi":182.30,"v52_lo":84.20 }
+,{ "nse_code":"TTKPRESTIG","nse_name":"TTK Prestige Limited","blu":"N","last_p":7264.35,"v52_hi":9280.00,"v52_lo":5704.00 }
+,{ "nse_code":"TIJARIA","nse_name":"Tijaria Polypipes Limited","blu":"N","last_p":14.60,"v52_hi":20.65,"v52_lo":8.45 }
+,{ "nse_code":"SPLIL","nse_name":"SPL Industries Limited","blu":"N","last_p":42.30,"v52_hi":61.50,"v52_lo":22.05 }
+,{ "nse_code":"LPDC","nse_name":"Landmark Property Development Company Limited","blu":"N","last_p":3.45,"v52_hi":7.15,"v52_lo":2.40 }
+,{ "nse_code":"SMSLIFE","nse_name":"SMS Lifesciences India Limited","blu":"N","last_p":546.95,"v52_hi":668.00,"v52_lo":272.50 }
+,{ "nse_code":"TERASOFT","nse_name":"Tera Software Limited","blu":"N","last_p":43.20,"v52_hi":59.45,"v52_lo":34.50 }
+,{ "nse_code":"BANARBEADS","nse_name":"Banaras Beads Limited","blu":"N","last_p":51.10,"v52_hi":74.90,"v52_lo":37.65 }
+,{ "nse_code":"RSYSTEMS","nse_name":"R Systems International Limited","blu":"N","last_p":46.65,"v52_hi":54.90,"v52_lo":25.00 }
+,{ "nse_code":"IPAPPM","nse_name":"International Paper APPM Limited","blu":"N","last_p":430.25,"v52_hi":504.70,"v52_lo":302.40 }
+,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":211.45,"v52_hi":351.85,"v52_lo":109.10 }
  ]
