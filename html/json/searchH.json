@@ -75,7 +75,6 @@
 ,{"nse_code":"APTECHT","nse_name":"Aptech Limited"}
 ,{"nse_code":"ARCHIDPLY","nse_name":"Archidply Industries Limited"}
 ,{"nse_code":"ARCHIES","nse_name":"Archies Limited"}
-,{"nse_code":"ARENTERP","nse_name":"Rajdarshan Industries Limited"}
 ,{"nse_code":"ARIES","nse_name":"Aries Agro Limited"}
 ,{"nse_code":"ARMANFIN","nse_name":"Arman Financial Services Limited"}
 ,{"nse_code":"AROGRANITE","nse_name":"Aro Granite Industries Limited"}
@@ -234,7 +233,6 @@
 ,{"nse_code":"CORPBANK","nse_name":"Corporation Bank"}
 ,{"nse_code":"COSMOFILMS","nse_name":"Cosmo Films Limited"}
 ,{"nse_code":"COX&KINGS","nse_name":"Cox & Kings Limited"}
-,{"nse_code":"CREATIVEYE","nse_name":"Creative Eye Limited"}
 ,{"nse_code":"CREST","nse_name":"Crest Ventures Limited"}
 ,{"nse_code":"CRISIL","nse_name":"CRISIL Limited"}
 ,{"nse_code":"CROMPTON","nse_name":"Crompton Greaves Consumer Electricals Limited"}
@@ -242,6 +240,7 @@
 ,{"nse_code":"CUB","nse_name":"City Union Bank Limited"}
 ,{"nse_code":"CUMMINSIND","nse_name":"Cummins India Limited"}
 ,{"nse_code":"CUPID","nse_name":"Cupid Limited"}
+,{"nse_code":"CYBERMEDIA","nse_name":"Cyber Media (India) Limited"}
 ,{"nse_code":"CYBERTECH","nse_name":"Cybertech Systems And Software Limited"}
 ,{"nse_code":"CYIENT","nse_name":"Cyient Limited"}
 ,{"nse_code":"DAAWAT","nse_name":"LT Foods Limited"}
@@ -349,6 +348,7 @@
 ,{"nse_code":"GANDHITUBE","nse_name":"Gandhi Special Tubes Limited"}
 ,{"nse_code":"GANECOS","nse_name":"Ganesha Ecosphere Limited"}
 ,{"nse_code":"GANESHHOUC","nse_name":"Ganesh Housing Corporation Limited"}
+,{"nse_code":"GANGESSECU","nse_name":"Ganges Securities Limited"}
 ,{"nse_code":"GARDENSILK","nse_name":"Garden Silk Mills Limited"}
 ,{"nse_code":"GATI","nse_name":"GATI Limited"}
 ,{"nse_code":"GAYAPROJ","nse_name":"Gayatri Projects Limited"}
@@ -1172,6 +1172,7 @@
 ,{"nse_code":"USHAMART","nse_name":"Usha Martin Limited"}
 ,{"nse_code":"UTTAMSTL","nse_name":"Uttam Galva Steels Limited"}
 ,{"nse_code":"UTTAMSUGAR","nse_name":"Uttam Sugar Mills Limited"}
+,{"nse_code":"UVSL","nse_name":"Uttam Value Steels Limited"}
 ,{"nse_code":"V2RETAIL","nse_name":"V2 Retail Limited"}
 ,{"nse_code":"VADILALIND","nse_name":"Vadilal Industries Limited"}
 ,{"nse_code":"VAIBHAVGBL","nse_name":"Vaibhav Global Limited"}
