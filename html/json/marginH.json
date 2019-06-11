@@ -1,20 +1,19 @@
 [ 
-{ "nse_code":"SPLIL","nse_name":"SPL Industries Limited","blu":"N","last_p":33.55,"v52_hi":61.50,"v52_lo":23.05 }
-,{ "nse_code":"LPDC","nse_name":"Landmark Property Development Company Limited","blu":"N","last_p":3.25,"v52_hi":7.15,"v52_lo":2.40 }
-,{ "nse_code":"SMSLIFE","nse_name":"SMS Lifesciences India Limited","blu":"N","last_p":428.30,"v52_hi":668.00,"v52_lo":286.05 }
-,{ "nse_code":"BIRLACABLE","nse_name":"Birla Cable Limited","blu":"N","last_p":98.95,"v52_hi":182.30,"v52_lo":84.20 }
-,{ "nse_code":"UNIVCABLES","nse_name":"Universal Cables Limited","blu":"N","last_p":210.50,"v52_hi":267.80,"v52_lo":131.45 }
-,{ "nse_code":"TIJARIA","nse_name":"Tijaria Polypipes Limited","blu":"N","last_p":14.70,"v52_hi":20.65,"v52_lo":8.45 }
-,{ "nse_code":"DHAMPURSUG","nse_name":"Dhampur Sugar Mills Limited","blu":"N","last_p":215.20,"v52_hi":252.75,"v52_lo":71.70 }
-,{ "nse_code":"KILITCH","nse_name":"Kilitch Drugs (India) Limited","blu":"N","last_p":171.85,"v52_hi":219.00,"v52_lo":78.60 }
-,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":183.70,"v52_hi":351.85,"v52_lo":109.10 }
-,{ "nse_code":"HATHWAY","nse_name":"Hathway Cable & Datacom Limited","blu":"N","last_p":24.40,"v52_hi":32.15,"v52_lo":15.10 }
-,{ "nse_code":"RSYSTEMS","nse_name":"R Systems International Limited","blu":"N","last_p":44.75,"v52_hi":54.90,"v52_lo":25.00 }
-,{ "nse_code":"UTTAMSUGAR","nse_name":"Uttam Sugar Mills Limited","blu":"N","last_p":125.50,"v52_hi":161.30,"v52_lo":61.90 }
-,{ "nse_code":"DALMIASUG","nse_name":"Dalmia Bharat Sugar and Industries Limited","blu":"N","last_p":112.00,"v52_hi":135.50,"v52_lo":48.00 }
-,{ "nse_code":"VINDHYATEL","nse_name":"Vindhya Telelinks Limited","blu":"N","last_p":1401.55,"v52_hi":1668.30,"v52_lo":910.00 }
-,{ "nse_code":"GSS","nse_name":"GSS Infotech Limited","blu":"N","last_p":124.80,"v52_hi":144.80,"v52_lo":64.60 }
-,{ "nse_code":"ADANIPOWER","nse_name":"Adani Power Limited","blu":"N","last_p":47.35,"v52_hi":55.80,"v52_lo":15.15 }
-,{ "nse_code":"DIVISLAB","nse_name":"Divi's Laboratories Limited","blu":"Y","last_p":1561.05,"v52_hi":1774.95,"v52_lo":994.95 }
-,{ "nse_code":"DWARKESH","nse_name":"Dwarikesh Sugar Industries Limited","blu":"N","last_p":27.50,"v52_hi":32.95,"v52_lo":14.00 }
+{ "nse_code":"LPDC","nse_name":"Landmark Property Development Company Limited","blu":"N","last_p":3.20,"v52_hi":7.15,"v52_lo":2.40 }
+,{ "nse_code":"UNIVCABLES","nse_name":"Universal Cables Limited","blu":"N","last_p":211.00,"v52_hi":267.80,"v52_lo":131.45 }
+,{ "nse_code":"BIRLACABLE","nse_name":"Birla Cable Limited","blu":"N","last_p":103.45,"v52_hi":182.30,"v52_lo":84.20 }
+,{ "nse_code":"SPLIL","nse_name":"SPL Industries Limited","blu":"N","last_p":35.30,"v52_hi":61.50,"v52_lo":23.05 }
+,{ "nse_code":"UTTAMSUGAR","nse_name":"Uttam Sugar Mills Limited","blu":"N","last_p":124.45,"v52_hi":161.30,"v52_lo":61.90 }
+,{ "nse_code":"SMSLIFE","nse_name":"SMS Lifesciences India Limited","blu":"N","last_p":466.85,"v52_hi":668.00,"v52_lo":286.05 }
+,{ "nse_code":"DALMIASUG","nse_name":"Dalmia Bharat Sugar and Industries Limited","blu":"N","last_p":112.30,"v52_hi":135.50,"v52_lo":48.00 }
+,{ "nse_code":"KILITCH","nse_name":"Kilitch Drugs (India) Limited","blu":"N","last_p":170.15,"v52_hi":219.00,"v52_lo":78.60 }
+,{ "nse_code":"TIJARIA","nse_name":"Tijaria Polypipes Limited","blu":"N","last_p":15.20,"v52_hi":20.65,"v52_lo":8.45 }
+,{ "nse_code":"DHAMPURSUG","nse_name":"Dhampur Sugar Mills Limited","blu":"N","last_p":212.95,"v52_hi":252.75,"v52_lo":71.70 }
+,{ "nse_code":"HATHWAY","nse_name":"Hathway Cable & Datacom Limited","blu":"N","last_p":24.60,"v52_hi":32.15,"v52_lo":15.10 }
+,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":179.95,"v52_hi":351.85,"v52_lo":109.10 }
+,{ "nse_code":"VINDHYATEL","nse_name":"Vindhya Telelinks Limited","blu":"N","last_p":1398.00,"v52_hi":1668.30,"v52_lo":910.00 }
+,{ "nse_code":"RSYSTEMS","nse_name":"R Systems International Limited","blu":"N","last_p":45.35,"v52_hi":54.90,"v52_lo":25.00 }
+,{ "nse_code":"DIVISLAB","nse_name":"Divi's Laboratories Limited","blu":"Y","last_p":1555.80,"v52_hi":1774.95,"v52_lo":994.95 }
+,{ "nse_code":"GSS","nse_name":"GSS Infotech Limited","blu":"N","last_p":118.95,"v52_hi":144.80,"v52_lo":64.60 }
+,{ "nse_code":"DWARKESH","nse_name":"Dwarikesh Sugar Industries Limited","blu":"N","last_p":27.35,"v52_hi":32.95,"v52_lo":14.00 }
  ]
