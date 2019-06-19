@@ -231,6 +231,7 @@
 ,{"nse_code":"CORPBANK","nse_name":"Corporation Bank"}
 ,{"nse_code":"COSMOFILMS","nse_name":"Cosmo Films Limited"}
 ,{"nse_code":"COX&KINGS","nse_name":"Cox & Kings Limited"}
+,{"nse_code":"CREATIVEYE","nse_name":"Creative Eye Limited"}
 ,{"nse_code":"CREST","nse_name":"Crest Ventures Limited"}
 ,{"nse_code":"CRISIL","nse_name":"CRISIL Limited"}
 ,{"nse_code":"CROMPTON","nse_name":"Crompton Greaves Consumer Electricals Limited"}
@@ -310,7 +311,6 @@
 ,{"nse_code":"ESCORTS","nse_name":"Escorts Limited"}
 ,{"nse_code":"ESSELPACK","nse_name":"Essel Propack Limited"}
 ,{"nse_code":"ESTER","nse_name":"Ester Industries Limited"}
-,{"nse_code":"EUROTEXIND","nse_name":"Eurotex Industries and Exports Limited"}
 ,{"nse_code":"EVEREADY","nse_name":"Eveready Industries India Limited"}
 ,{"nse_code":"EVERESTIND","nse_name":"Everest Industries Limited"}
 ,{"nse_code":"EXCELCROP","nse_name":"Excel Crop Care Limited"}
@@ -441,7 +441,6 @@
 ,{"nse_code":"HINDALCO","nse_name":"Hindalco Industries Limited"}
 ,{"nse_code":"HINDCOMPOS","nse_name":"Hindustan Composites Limited"}
 ,{"nse_code":"HINDCOPPER","nse_name":"Hindustan Copper Limited"}
-,{"nse_code":"HINDNATGLS","nse_name":"Hindusthan National Glass & Industries Limited"}
 ,{"nse_code":"HINDOILEXP","nse_name":"Hindustan Oil Exploration Company Limited"}
 ,{"nse_code":"HINDPETRO","nse_name":"Hindustan Petroleum Corporation Limited"}
 ,{"nse_code":"HINDUJAVEN","nse_name":"Hinduja Ventures Limited"}
@@ -539,7 +538,6 @@
 ,{"nse_code":"JINDALSTEL","nse_name":"Jindal Steel & Power Limited"}
 ,{"nse_code":"JINDRILL","nse_name":"Jindal Drilling And Industries Limited"}
 ,{"nse_code":"JISLDVREQS","nse_name":"Jain Irrigation Systems Limited"}
-,{"nse_code":"JISLJALEQS","nse_name":"Jain Irrigation Systems Limited"}
 ,{"nse_code":"JKCEMENT","nse_name":"JK Cement Limited"}
 ,{"nse_code":"JKIL","nse_name":"J.Kumar Infraprojects Limited"}
 ,{"nse_code":"JKLAKSHMI","nse_name":"JK Lakshmi Cement Limited"}
@@ -786,7 +784,6 @@
 ,{"nse_code":"OCCL","nse_name":"Oriental Carbon & Chemicals Limited"}
 ,{"nse_code":"OFSS","nse_name":"Oracle Financial Services Software Limited"}
 ,{"nse_code":"OIL","nse_name":"Oil India Limited"}
-,{"nse_code":"OILCOUNTUB","nse_name":"Oil Country Tubular Limited"}
 ,{"nse_code":"OMAXAUTO","nse_name":"Omax Autos Limited"}
 ,{"nse_code":"OMAXE","nse_name":"Omaxe Limited"}
 ,{"nse_code":"OMKARCHEM","nse_name":"Omkar Speciality Chemicals Limited"}
@@ -911,14 +908,12 @@
 ,{"nse_code":"REPRO","nse_name":"Repro India Limited"}
 ,{"nse_code":"RESPONIND","nse_name":"Responsive Industries Limited"}
 ,{"nse_code":"REVATHI","nse_name":"Revathi Equipment Limited"}
-,{"nse_code":"RHFL","nse_name":"Reliance Home Finance Limited"}
 ,{"nse_code":"RICOAUTO","nse_name":"Rico Auto Industries Limited"}
 ,{"nse_code":"RIIL","nse_name":"Reliance Industrial Infrastructure Limited"}
 ,{"nse_code":"RKFORGE","nse_name":"Ramkrishna Forgings Limited"}
 ,{"nse_code":"RMCL","nse_name":"Radha Madhav Corporation Limited"}
 ,{"nse_code":"RML","nse_name":"Rane (Madras) Limited"}
 ,{"nse_code":"RNAM","nse_name":"Reliance Nippon Life Asset Management Limited"}
-,{"nse_code":"RNAVAL","nse_name":"Reliance Naval and Engineering Limited"}
 ,{"nse_code":"ROHLTD","nse_name":"Royal Orchid Hotels Limited"}
 ,{"nse_code":"ROSSELLIND","nse_name":"Rossell India Limited"}
 ,{"nse_code":"RPGLIFE","nse_name":"RPG Life Sciences Limited"}
@@ -1152,6 +1147,7 @@
 ,{"nse_code":"UJJIVAN","nse_name":"Ujjivan Financial Services Limited"}
 ,{"nse_code":"ULTRACEMCO","nse_name":"UltraTech Cement Limited"}
 ,{"nse_code":"UMANGDAIRY","nse_name":"Umang Dairies Limited"}
+,{"nse_code":"UMESLTD","nse_name":"Usha Martin Education & Solutions Limited"}
 ,{"nse_code":"UNICHEMLAB","nse_name":"Unichem Laboratories Limited"}
 ,{"nse_code":"UNIENTER","nse_name":"Uniphos Enterprises Limited"}
 ,{"nse_code":"UNIONBANK","nse_name":"Union Bank of India"}
