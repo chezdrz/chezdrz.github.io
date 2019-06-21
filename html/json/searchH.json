@@ -231,7 +231,6 @@
 ,{"nse_code":"CORPBANK","nse_name":"Corporation Bank"}
 ,{"nse_code":"COSMOFILMS","nse_name":"Cosmo Films Limited"}
 ,{"nse_code":"COX&KINGS","nse_name":"Cox & Kings Limited"}
-,{"nse_code":"CREATIVEYE","nse_name":"Creative Eye Limited"}
 ,{"nse_code":"CREST","nse_name":"Crest Ventures Limited"}
 ,{"nse_code":"CRISIL","nse_name":"CRISIL Limited"}
 ,{"nse_code":"CROMPTON","nse_name":"Crompton Greaves Consumer Electricals Limited"}
@@ -239,6 +238,7 @@
 ,{"nse_code":"CUB","nse_name":"City Union Bank Limited"}
 ,{"nse_code":"CUMMINSIND","nse_name":"Cummins India Limited"}
 ,{"nse_code":"CUPID","nse_name":"Cupid Limited"}
+,{"nse_code":"CYBERMEDIA","nse_name":"Cyber Media (India) Limited"}
 ,{"nse_code":"CYBERTECH","nse_name":"Cybertech Systems And Software Limited"}
 ,{"nse_code":"CYIENT","nse_name":"Cyient Limited"}
 ,{"nse_code":"DAAWAT","nse_name":"LT Foods Limited"}
@@ -536,6 +536,7 @@
 ,{"nse_code":"JINDALSAW","nse_name":"Jindal Saw Limited"}
 ,{"nse_code":"JINDALSTEL","nse_name":"Jindal Steel & Power Limited"}
 ,{"nse_code":"JINDRILL","nse_name":"Jindal Drilling And Industries Limited"}
+,{"nse_code":"JISLDVREQS","nse_name":"Jain Irrigation Systems Limited"}
 ,{"nse_code":"JKCEMENT","nse_name":"JK Cement Limited"}
 ,{"nse_code":"JKIL","nse_name":"J.Kumar Infraprojects Limited"}
 ,{"nse_code":"JKLAKSHMI","nse_name":"JK Lakshmi Cement Limited"}
@@ -607,6 +608,7 @@
 ,{"nse_code":"KSL","nse_name":"Kalyani Steels Limited"}
 ,{"nse_code":"KTIL","nse_name":"Kesar Terminals & Infrastructure Limited"}
 ,{"nse_code":"KTKBANK","nse_name":"The Karnataka Bank Limited"}
+,{"nse_code":"KWALITY","nse_name":"kwality limited"}
 ,{"nse_code":"L&TFH","nse_name":"L&T Finance Holdings Limited"}
 ,{"nse_code":"LAKSHVILAS","nse_name":"Lakshmi Vilas Bank Limited"}
 ,{"nse_code":"LALPATHLAB","nse_name":"Dr. Lal Path Labs Ltd."}
@@ -959,6 +961,7 @@
 ,{"nse_code":"SEAMECLTD","nse_name":"Seamec Limited"}
 ,{"nse_code":"SELAN","nse_name":"Selan Exploration Technology Limited"}
 ,{"nse_code":"SELMCL","nse_name":"SEL Manufacturing Company Limited"}
+,{"nse_code":"SEPOWER","nse_name":"S.E. Power Limited"}
 ,{"nse_code":"SEQUENT","nse_name":"Sequent Scientific Limited"}
 ,{"nse_code":"SESHAPAPER","nse_name":"Seshasayee Paper and Boards Limited"}
 ,{"nse_code":"SETCO","nse_name":"Setco Automotive Limited"}
@@ -990,7 +993,6 @@
 ,{"nse_code":"SIEMENS","nse_name":"Siemens Limited"}
 ,{"nse_code":"SILINV","nse_name":"SIL Investments Limited"}
 ,{"nse_code":"SIMBHALS","nse_name":"Simbhaoli Sugars Limited"}
-,{"nse_code":"SINTEX","nse_name":"Sintex Industries Limited"}
 ,{"nse_code":"SIS","nse_name":"Security and Intelligence Services (India) Limited"}
 ,{"nse_code":"SIYSIL","nse_name":"Siyaram Silk Mills Limited"}
 ,{"nse_code":"SJVN","nse_name":"SJVN Limited"}
@@ -1013,7 +1015,6 @@
 ,{"nse_code":"SPECIALITY","nse_name":"Speciality Restaurants Limited"}
 ,{"nse_code":"SPIC","nse_name":"Southern Petrochemicals Industries Corporation  Limited"}
 ,{"nse_code":"SPLIL","nse_name":"SPL Industries Limited"}
-,{"nse_code":"SPTL","nse_name":"Sintex Plastics Technology Limited"}
 ,{"nse_code":"SREEL","nse_name":"Sreeleathers Limited"}
 ,{"nse_code":"SREINFRA","nse_name":"SREI Infrastructure Finance Limited"}
 ,{"nse_code":"SRF","nse_name":"SRF Limited"}
@@ -1097,7 +1098,6 @@
 ,{"nse_code":"TEXMOPIPES","nse_name":"Texmo Pipes and Products Limited"}
 ,{"nse_code":"TEXRAIL","nse_name":"Texmaco Rail & Engineering Limited"}
 ,{"nse_code":"TFCILTD","nse_name":"Tourism Finance Corporation of India Limited"}
-,{"nse_code":"TGBHOTELS","nse_name":"TGB Banquets And Hotels Limited"}
 ,{"nse_code":"THANGAMAYL","nse_name":"Thangamayil Jewellery Limited"}
 ,{"nse_code":"THEMISMED","nse_name":"Themis Medicare Limited"}
 ,{"nse_code":"THERMAX","nse_name":"Thermax Limited"}
@@ -1146,7 +1146,6 @@
 ,{"nse_code":"UJJIVAN","nse_name":"Ujjivan Financial Services Limited"}
 ,{"nse_code":"ULTRACEMCO","nse_name":"UltraTech Cement Limited"}
 ,{"nse_code":"UMANGDAIRY","nse_name":"Umang Dairies Limited"}
-,{"nse_code":"UMESLTD","nse_name":"Usha Martin Education & Solutions Limited"}
 ,{"nse_code":"UNICHEMLAB","nse_name":"Unichem Laboratories Limited"}
 ,{"nse_code":"UNIENTER","nse_name":"Uniphos Enterprises Limited"}
 ,{"nse_code":"UNIONBANK","nse_name":"Union Bank of India"}
