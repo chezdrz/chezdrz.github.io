@@ -132,6 +132,7 @@
 ,{"nse_code":"BALPHARMA","nse_name":"Bal Pharma Limited"}
 ,{"nse_code":"BALRAMCHIN","nse_name":"Balrampur Chini Mills Limited"}
 ,{"nse_code":"BANARBEADS","nse_name":"Banaras Beads Limited"}
+,{"nse_code":"BANARISUG","nse_name":"Bannari Amman Sugars Limited"}
 ,{"nse_code":"BANCOINDIA","nse_name":"Banco Products (I) Limited"}
 ,{"nse_code":"BANG","nse_name":"Bang Overseas Limited"}
 ,{"nse_code":"BANKBARODA","nse_name":"Bank of Baroda"}
@@ -244,7 +245,6 @@
 ,{"nse_code":"CUB","nse_name":"City Union Bank Limited"}
 ,{"nse_code":"CUMMINSIND","nse_name":"Cummins India Limited"}
 ,{"nse_code":"CUPID","nse_name":"Cupid Limited"}
-,{"nse_code":"CYBERMEDIA","nse_name":"Cyber Media (India) Limited"}
 ,{"nse_code":"CYBERTECH","nse_name":"Cybertech Systems And Software Limited"}
 ,{"nse_code":"CYIENT","nse_name":"Cyient Limited"}
 ,{"nse_code":"DAAWAT","nse_name":"LT Foods Limited"}
@@ -401,6 +401,7 @@
 ,{"nse_code":"GREENPLY","nse_name":"Greenply Industries Limited"}
 ,{"nse_code":"GREENPOWER","nse_name":"Orient Green Power Company Limited"}
 ,{"nse_code":"GRINDWELL","nse_name":"Grindwell Norton Limited"}
+,{"nse_code":"GROBTEA","nse_name":"The Grob Tea Company Limited"}
 ,{"nse_code":"GRPLTD","nse_name":"GRP Limited"}
 ,{"nse_code":"GRUH","nse_name":"Gruh Finance Limited"}
 ,{"nse_code":"GSCLCEMENT","nse_name":"Gujarat Sidhee Cement Limited"}
@@ -546,7 +547,6 @@
 ,{"nse_code":"JBFIND","nse_name":"JBF Industries Limited"}
 ,{"nse_code":"JBMA","nse_name":"JBM Auto Limited"}
 ,{"nse_code":"JCHAC","nse_name":"Johnson Controls – Hitachi Air Conditioning India Limited"}
-,{"nse_code":"JETAIRWAYS","nse_name":"Jet Airways (India) Limited"}
 ,{"nse_code":"JHS","nse_name":"JHS Svendgaard Laboratories Limited"}
 ,{"nse_code":"JINDALPHOT","nse_name":"Jindal Photo Limited"}
 ,{"nse_code":"JINDALPOLY","nse_name":"Jindal Poly Films Limited"}
@@ -946,7 +946,6 @@
 ,{"nse_code":"RUCHIRA","nse_name":"Ruchira Papers Limited"}
 ,{"nse_code":"RUCHISOYA","nse_name":"Ruchi Soya Industries Limited"}
 ,{"nse_code":"RUPA","nse_name":"Rupa & Company Limited"}
-,{"nse_code":"RUSHIL","nse_name":"Rushil Decor Limited"}
 ,{"nse_code":"SABTN","nse_name":"Sri Adhikari Brothers Television Network Limited"}
 ,{"nse_code":"SADBHAV","nse_name":"Sadbhav Engineering Limited"}
 ,{"nse_code":"SADBHIN","nse_name":"Sadbhav Infrastructure Project Limited"}
@@ -1105,7 +1104,6 @@
 ,{"nse_code":"TATASTEEL","nse_name":"Tata Steel Limited"}
 ,{"nse_code":"TBZ","nse_name":"Tribhovandas Bhimji Zaveri Limited"}
 ,{"nse_code":"TCI","nse_name":"Transport Corporation of India Limited"}
-,{"nse_code":"TCIDEVELOP","nse_name":"TCI Developers Limited"}
 ,{"nse_code":"TCIEXP","nse_name":"TCI Express Limited"}
 ,{"nse_code":"TCIFINANCE","nse_name":"TCI Finance Limited"}
 ,{"nse_code":"TCPLPACK","nse_name":"TCPL Packaging Limited"}
