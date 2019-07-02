@@ -343,7 +343,6 @@
 ,{"nse_code":"ESSARSHPNG","nse_name":"Essar Shipping Limited"}
 ,{"nse_code":"ESSELPACK","nse_name":"Essel Propack Limited"}
 ,{"nse_code":"ESTER","nse_name":"Ester Industries Limited"}
-,{"nse_code":"EUROTEXIND","nse_name":"Eurotex Industries and Exports Limited"}
 ,{"nse_code":"EVEREADY","nse_name":"Eveready Industries India Limited"}
 ,{"nse_code":"EVERESTIND","nse_name":"Everest Industries Limited"}
 ,{"nse_code":"EXCEL","nse_name":"Excel Realty N Infra Limited"}
@@ -527,6 +526,7 @@
 ,{"nse_code":"IGARASHI","nse_name":"Igarashi Motors India Limited"}
 ,{"nse_code":"IGL","nse_name":"Indraprastha Gas Limited"}
 ,{"nse_code":"IGPL","nse_name":"IG Petrochemicals Limited"}
+,{"nse_code":"IITL","nse_name":"Industrial Investment Trust Limited"}
 ,{"nse_code":"IMFA","nse_name":"Indian Metals & Ferro Alloys Limited"}
 ,{"nse_code":"IMPAL","nse_name":"India Motor Parts and Accessories Limited"}
 ,{"nse_code":"INDBANK","nse_name":"Indbank Merchant Banking Services Limited"}
@@ -632,6 +632,7 @@
 ,{"nse_code":"KANSAINER","nse_name":"Kansai Nerolac Paints Limited"}
 ,{"nse_code":"KARMAENG","nse_name":"Karma Energy Limited"}
 ,{"nse_code":"KARURVYSYA","nse_name":"Karur Vysya Bank Limited"}
+,{"nse_code":"KAUSHALYA","nse_name":"Kaushalya Infrastructure Development Corporation Limited"}
 ,{"nse_code":"KAVVERITEL","nse_name":"Kavveri Telecom Products Limited"}
 ,{"nse_code":"KAYA","nse_name":"Kaya Limited"}
 ,{"nse_code":"KCP","nse_name":"KCP Limited"}
@@ -1115,7 +1116,6 @@
 ,{"nse_code":"STEELXIND","nse_name":"STEEL EXCHANGE INDIA LIMITED"}
 ,{"nse_code":"STEL","nse_name":"Stel Holdings Limited"}
 ,{"nse_code":"STERTOOLS","nse_name":"Sterling Tools Limited"}
-,{"nse_code":"STINDIA","nse_name":"STI India Limited"}
 ,{"nse_code":"STRTECH","nse_name":"Sterlite Technologies Limited"}
 ,{"nse_code":"SUBEX","nse_name":"Subex Limited"}
 ,{"nse_code":"SUBROS","nse_name":"Subros Limited"}
@@ -1306,6 +1306,7 @@
 ,{"nse_code":"WHEELS","nse_name":"Wheels India Limited"}
 ,{"nse_code":"WHIRLPOOL","nse_name":"Whirlpool of India Limited"}
 ,{"nse_code":"WILLAMAGOR","nse_name":"Williamson Magor & Company Limited"}
+,{"nse_code":"WINSOME","nse_name":"Winsome Yarns Limited"}
 ,{"nse_code":"WIPRO","nse_name":"Wipro Limited"}
 ,{"nse_code":"WOCKPHARMA","nse_name":"Wockhardt Limited"}
 ,{"nse_code":"WONDERLA","nse_name":"Wonderla Holidays Limited"}
