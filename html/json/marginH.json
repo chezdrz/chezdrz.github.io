@@ -1,17 +1,18 @@
 [ 
-{ "nse_code":"AVADHSUGAR","nse_name":"Avadh Sugar & Energy Limited","blu":"N","last_p":336.05,"v52_hi":763.30,"v52_lo":270.00 }
-,{ "nse_code":"SPLIL","nse_name":"SPL Industries Limited","blu":"N","last_p":41.05,"v52_hi":61.50,"v52_lo":23.05 }
-,{ "nse_code":"UPL","nse_name":"UPL Limited","blu":"Y","last_p":651.80,"v52_hi":1043.75,"v52_lo":537.25 }
-,{ "nse_code":"TIJARIA","nse_name":"Tijaria Polypipes Limited","blu":"N","last_p":13.70,"v52_hi":20.65,"v52_lo":8.45 }
-,{ "nse_code":"VINDHYATEL","nse_name":"Vindhya Telelinks Limited","blu":"N","last_p":1271.30,"v52_hi":1668.30,"v52_lo":910.00 }
-,{ "nse_code":"UNIVCABLES","nse_name":"Universal Cables Limited","blu":"N","last_p":202.40,"v52_hi":267.80,"v52_lo":131.45 }
-,{ "nse_code":"GSS","nse_name":"GSS Infotech Limited","blu":"N","last_p":67.45,"v52_hi":144.80,"v52_lo":60.10 }
-,{ "nse_code":"KILITCH","nse_name":"Kilitch Drugs (India) Limited","blu":"N","last_p":147.90,"v52_hi":219.00,"v52_lo":80.30 }
-,{ "nse_code":"HATHWAY","nse_name":"Hathway Cable & Datacom Limited","blu":"N","last_p":22.95,"v52_hi":32.15,"v52_lo":15.10 }
-,{ "nse_code":"PRAJIND","nse_name":"Praj Industries Limited","blu":"N","last_p":138.50,"v52_hi":167.90,"v52_lo":72.25 }
-,{ "nse_code":"DALMIASUG","nse_name":"Dalmia Bharat Sugar and Industries Limited","blu":"N","last_p":104.95,"v52_hi":135.50,"v52_lo":48.00 }
-,{ "nse_code":"DHAMPURSUG","nse_name":"Dhampur Sugar Mills Limited","blu":"N","last_p":189.70,"v52_hi":252.75,"v52_lo":71.70 }
-,{ "nse_code":"UTTAMSUGAR","nse_name":"Uttam Sugar Mills Limited","blu":"N","last_p":119.55,"v52_hi":161.30,"v52_lo":61.90 }
-,{ "nse_code":"DWARKESH","nse_name":"Dwarikesh Sugar Industries Limited","blu":"N","last_p":26.20,"v52_hi":32.95,"v52_lo":14.00 }
-,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":240.35,"v52_hi":351.85,"v52_lo":109.10 }
+{ "nse_code":"UPL","nse_name":"UPL Limited","blu":"Y","last_p":698.35,"v52_hi":1043.75,"v52_lo":537.25 }
+,{ "nse_code":"TIJARIA","nse_name":"Tijaria Polypipes Limited","blu":"N","last_p":13.50,"v52_hi":20.65,"v52_lo":8.45 }
+,{ "nse_code":"SPLIL","nse_name":"SPL Industries Limited","blu":"N","last_p":41.70,"v52_hi":61.50,"v52_lo":23.50 }
+,{ "nse_code":"GSS","nse_name":"GSS Infotech Limited","blu":"N","last_p":65.20,"v52_hi":144.80,"v52_lo":60.10 }
+,{ "nse_code":"AVADHSUGAR","nse_name":"Avadh Sugar & Energy Limited","blu":"N","last_p":334.90,"v52_hi":763.30,"v52_lo":270.00 }
+,{ "nse_code":"HATHWAY","nse_name":"Hathway Cable & Datacom Limited","blu":"N","last_p":22.90,"v52_hi":32.15,"v52_lo":15.10 }
+,{ "nse_code":"VINDHYATEL","nse_name":"Vindhya Telelinks Limited","blu":"N","last_p":1271.10,"v52_hi":1668.30,"v52_lo":910.00 }
+,{ "nse_code":"KILITCH","nse_name":"Kilitch Drugs (India) Limited","blu":"N","last_p":146.00,"v52_hi":219.00,"v52_lo":80.35 }
+,{ "nse_code":"UNIVCABLES","nse_name":"Universal Cables Limited","blu":"N","last_p":200.90,"v52_hi":267.80,"v52_lo":131.45 }
+,{ "nse_code":"DHAMPURSUG","nse_name":"Dhampur Sugar Mills Limited","blu":"N","last_p":200.20,"v52_hi":252.75,"v52_lo":71.70 }
+,{ "nse_code":"UTTAMSUGAR","nse_name":"Uttam Sugar Mills Limited","blu":"N","last_p":123.10,"v52_hi":161.30,"v52_lo":61.90 }
+,{ "nse_code":"DALMIASUG","nse_name":"Dalmia Bharat Sugar and Industries Limited","blu":"N","last_p":107.75,"v52_hi":135.50,"v52_lo":48.00 }
+,{ "nse_code":"DWARKESH","nse_name":"Dwarikesh Sugar Industries Limited","blu":"N","last_p":26.50,"v52_hi":32.95,"v52_lo":14.00 }
+,{ "nse_code":"RSYSTEMS","nse_name":"R Systems International Limited","blu":"N","last_p":46.90,"v52_hi":54.90,"v52_lo":25.05 }
+,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":242.05,"v52_hi":351.85,"v52_lo":109.10 }
+,{ "nse_code":"PRAJIND","nse_name":"Praj Industries Limited","blu":"N","last_p":140.50,"v52_hi":167.90,"v52_lo":72.25 }
  ]
