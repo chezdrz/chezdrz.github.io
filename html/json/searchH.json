@@ -430,6 +430,7 @@
 ,{"nse_code":"GREENPLY","nse_name":"Greenply Industries Limited"}
 ,{"nse_code":"GREENPOWER","nse_name":"Orient Green Power Company Limited"}
 ,{"nse_code":"GRINDWELL","nse_name":"Grindwell Norton Limited"}
+,{"nse_code":"GROBTEA","nse_name":"The Grob Tea Company Limited"}
 ,{"nse_code":"GRPLTD","nse_name":"GRP Limited"}
 ,{"nse_code":"GRUH","nse_name":"Gruh Finance Limited"}
 ,{"nse_code":"GSCLCEMENT","nse_name":"Gujarat Sidhee Cement Limited"}
@@ -900,6 +901,7 @@
 ,{"nse_code":"PIIND","nse_name":"PI Industries Limited"}
 ,{"nse_code":"PILITA","nse_name":"PIL ITALICA LIFESTYLE LIMITED"}
 ,{"nse_code":"PIONDIST","nse_name":"Pioneer Distilleries Limited"}
+,{"nse_code":"PIONEEREMB","nse_name":"Pioneer Embroideries Limited"}
 ,{"nse_code":"PLASTIBLEN","nse_name":"Plastiblends India Limited"}
 ,{"nse_code":"PNB","nse_name":"Punjab National Bank"}
 ,{"nse_code":"PNBGILTS","nse_name":"PNB Gilts Limited"}
@@ -916,7 +918,6 @@
 ,{"nse_code":"POWERMECH","nse_name":"Power Mech Projects Limited"}
 ,{"nse_code":"PPAP","nse_name":"PPAP Automotive Limited"}
 ,{"nse_code":"PRABHAT","nse_name":"Prabhat Dairy Limited"}
-,{"nse_code":"PRADIP","nse_name":"Pradip Overseas Limited"}
 ,{"nse_code":"PRAENG","nse_name":"Prajay Engineers Syndicate Limited"}
 ,{"nse_code":"PRAJIND","nse_name":"Praj Industries Limited"}
 ,{"nse_code":"PRAKASH","nse_name":"Prakash Industries Limited"}
@@ -1224,7 +1225,6 @@
 ,{"nse_code":"TVSMOTOR","nse_name":"TVS Motor Company Limited"}
 ,{"nse_code":"TVSSRICHAK","nse_name":"TVS Srichakra Limited"}
 ,{"nse_code":"TVTODAY","nse_name":"TV Today Network Limited"}
-,{"nse_code":"TVVISION","nse_name":"TV Vision Limited"}
 ,{"nse_code":"TWL","nse_name":"Titagarh Wagons Limited"}
 ,{"nse_code":"UBL","nse_name":"United Breweries Limited"}
 ,{"nse_code":"UCALFUEL","nse_name":"Ucal Fuel Systems Limited"}
@@ -1249,6 +1249,7 @@
 ,{"nse_code":"USHAMART","nse_name":"Usha Martin Limited"}
 ,{"nse_code":"UTTAMSTL","nse_name":"Uttam Galva Steels Limited"}
 ,{"nse_code":"UTTAMSUGAR","nse_name":"Uttam Sugar Mills Limited"}
+,{"nse_code":"UVSL","nse_name":"Uttam Value Steels Limited"}
 ,{"nse_code":"V2RETAIL","nse_name":"V2 Retail Limited"}
 ,{"nse_code":"VADILALIND","nse_name":"Vadilal Industries Limited"}
 ,{"nse_code":"VAIBHAVGBL","nse_name":"Vaibhav Global Limited"}
