@@ -1,20 +1,18 @@
 [ 
-{ "nse_code":"AVADHSUGAR","nse_name":"Avadh Sugar & Energy Limited","blu":"N","last_p":279.75,"v52_hi":763.30,"v52_lo":270.00 }
-,{ "nse_code":"DBL","nse_name":"Dilip Buildcon Limited","blu":"N","last_p":410.05,"v52_hi":833.60,"v52_lo":312.25 }
-,{ "nse_code":"MAGADSUGAR","nse_name":"Magadh Sugar & Energy Limited","blu":"N","last_p":113.60,"v52_hi":190.95,"v52_lo":64.00 }
-,{ "nse_code":"UTTAMSUGAR","nse_name":"Uttam Sugar Mills Limited","blu":"N","last_p":111.10,"v52_hi":161.30,"v52_lo":61.90 }
-,{ "nse_code":"MATRIMONY","nse_name":"Matrimony.Com Limited","blu":"N","last_p":596.30,"v52_hi":785.95,"v52_lo":364.00 }
-,{ "nse_code":"DISHTV","nse_name":"Dish TV India Limited","blu":"N","last_p":30.35,"v52_hi":74.65,"v52_lo":19.10 }
-,{ "nse_code":"ASIANTILES","nse_name":"Asian Granito India Limited","blu":"N","last_p":222.75,"v52_hi":324.00,"v52_lo":142.05 }
-,{ "nse_code":"JKIL","nse_name":"J.Kumar Infraprojects Limited","blu":"N","last_p":145.40,"v52_hi":250.00,"v52_lo":104.10 }
-,{ "nse_code":"SUVEN","nse_name":"Suven Life Sciences Limited","blu":"N","last_p":239.55,"v52_hi":283.40,"v52_lo":182.70 }
-,{ "nse_code":"MAZDA","nse_name":"Mazda Limited","blu":"N","last_p":396.75,"v52_hi":484.85,"v52_lo":245.00 }
-,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":243.40,"v52_hi":351.85,"v52_lo":109.10 }
-,{ "nse_code":"ELECTHERM","nse_name":"Electrotherm (India) Limited","blu":"N","last_p":209.25,"v52_hi":380.10,"v52_lo":129.00 }
-,{ "nse_code":"SUNTECK","nse_name":"Sunteck Realty Limited","blu":"N","last_p":446.80,"v52_hi":533.35,"v52_lo":319.80 }
-,{ "nse_code":"VIPULLTD","nse_name":"Vipul Limited","blu":"N","last_p":42.10,"v52_hi":54.90,"v52_lo":26.95 }
-,{ "nse_code":"TRIVENI","nse_name":"Triveni Engineering & Industries Limited","blu":"N","last_p":61.75,"v52_hi":78.50,"v52_lo":34.05 }
-,{ "nse_code":"INDIGO","nse_name":"InterGlobe Aviation Limited","blu":"Y","last_p":1354.50,"v52_hi":1716.00,"v52_lo":991.85 }
-,{ "nse_code":"GOKEX","nse_name":"Gokaldas Exports Limited","blu":"N","last_p":91.45,"v52_hi":119.05,"v52_lo":68.25 }
-,{ "nse_code":"GLOBALVECT","nse_name":"Global Vectra Helicorp Limited","blu":"N","last_p":59.55,"v52_hi":126.90,"v52_lo":45.20 }
+{ "nse_code":"AVADHSUGAR","nse_name":"Avadh Sugar & Energy Limited","blu":"N","last_p":307.70,"v52_hi":763.30,"v52_lo":270.00 }
+,{ "nse_code":"DBL","nse_name":"Dilip Buildcon Limited","blu":"N","last_p":415.10,"v52_hi":833.60,"v52_lo":312.25 }
+,{ "nse_code":"JKIL","nse_name":"J.Kumar Infraprojects Limited","blu":"N","last_p":142.95,"v52_hi":250.00,"v52_lo":104.10 }
+,{ "nse_code":"UTTAMSUGAR","nse_name":"Uttam Sugar Mills Limited","blu":"N","last_p":125.55,"v52_hi":161.30,"v52_lo":61.90 }
+,{ "nse_code":"MAZDA","nse_name":"Mazda Limited","blu":"N","last_p":395.95,"v52_hi":484.85,"v52_lo":245.00 }
+,{ "nse_code":"ASIANTILES","nse_name":"Asian Granito India Limited","blu":"N","last_p":223.10,"v52_hi":320.00,"v52_lo":142.05 }
+,{ "nse_code":"DISHTV","nse_name":"Dish TV India Limited","blu":"N","last_p":31.10,"v52_hi":74.65,"v52_lo":19.10 }
+,{ "nse_code":"SUVEN","nse_name":"Suven Life Sciences Limited","blu":"N","last_p":239.30,"v52_hi":283.40,"v52_lo":182.70 }
+,{ "nse_code":"GLOBALVECT","nse_name":"Global Vectra Helicorp Limited","blu":"N","last_p":57.90,"v52_hi":126.90,"v52_lo":45.20 }
+,{ "nse_code":"MATRIMONY","nse_name":"Matrimony.Com Limited","blu":"N","last_p":589.65,"v52_hi":785.95,"v52_lo":364.00 }
+,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":240.00,"v52_hi":351.85,"v52_lo":109.10 }
+,{ "nse_code":"INDIGO","nse_name":"InterGlobe Aviation Limited","blu":"Y","last_p":1356.85,"v52_hi":1716.00,"v52_lo":991.85 }
+,{ "nse_code":"ELECTHERM","nse_name":"Electrotherm (India) Limited","blu":"N","last_p":209.80,"v52_hi":380.10,"v52_lo":129.00 }
+,{ "nse_code":"MAGADSUGAR","nse_name":"Magadh Sugar & Energy Limited","blu":"N","last_p":119.25,"v52_hi":190.95,"v52_lo":64.00 }
+,{ "nse_code":"VIPULLTD","nse_name":"Vipul Limited","blu":"N","last_p":42.30,"v52_hi":54.90,"v52_lo":26.95 }
+,{ "nse_code":"63MOONS","nse_name":"63 moons technologies limited","blu":"N","last_p":104.95,"v52_hi":184.75,"v52_lo":63.10 }
  ]
