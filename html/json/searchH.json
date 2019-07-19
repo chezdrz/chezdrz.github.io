@@ -768,7 +768,6 @@
 ,{"nse_code":"MRF","nse_name":"MRF Limited"}
 ,{"nse_code":"MRPL","nse_name":"Mangalore Refinery and Petrochemicals Limited"}
 ,{"nse_code":"MSPL","nse_name":"MSP Steel & Power Limited"}
-,{"nse_code":"MTEDUCARE","nse_name":"MT Educare Limited"}
 ,{"nse_code":"MTNL","nse_name":"Mahanagar Telephone Nigam Limited"}
 ,{"nse_code":"MUKANDENGG","nse_name":"Mukand Engineers Limited"}
 ,{"nse_code":"MUKANDLTD","nse_name":"Mukand Limited"}
@@ -900,7 +899,6 @@
 ,{"nse_code":"PNBHOUSING","nse_name":"PNB Housing Finance Limited"}
 ,{"nse_code":"PNC","nse_name":"Pritish Nandy Communications Limited"}
 ,{"nse_code":"PNCINFRA","nse_name":"PNC Infratech Limited"}
-,{"nse_code":"PODDARHOUS","nse_name":"Poddar Housing and Development Limited"}
 ,{"nse_code":"PODDARMENT","nse_name":"Poddar Pigments Limited"}
 ,{"nse_code":"POKARNA","nse_name":"Pokarna Limited"}
 ,{"nse_code":"POLYMED","nse_name":"Poly Medicure Limited"}
@@ -1072,7 +1070,6 @@
 ,{"nse_code":"SOBHA","nse_name":"Sobha Limited"}
 ,{"nse_code":"SOLARINDS","nse_name":"Solar Industries India Limited"}
 ,{"nse_code":"SOMANYCERA","nse_name":"Somany Ceramics Limited"}
-,{"nse_code":"SOMATEX","nse_name":"Soma Textiles & Industries Limited"}
 ,{"nse_code":"SOMICONVEY","nse_name":"Somi Conveyor Beltings Limited"}
 ,{"nse_code":"SONATSOFTW","nse_name":"Sonata Software Limited"}
 ,{"nse_code":"SORILINFRA","nse_name":"SORIL Infra Resources Limited"}
@@ -1138,6 +1135,7 @@
 ,{"nse_code":"TALBROAUTO","nse_name":"Talbros Automotive Components Limited"}
 ,{"nse_code":"TALWALKARS","nse_name":"Talwalkars Better Value Fitness Limited"}
 ,{"nse_code":"TANLA","nse_name":"Tanla Solutions Limited"}
+,{"nse_code":"TARAPUR","nse_name":"Tarapur Transformers Limited"}
 ,{"nse_code":"TARMAT","nse_name":"Tarmat Limited"}
 ,{"nse_code":"TASTYBITE","nse_name":"Tasty Bite Eatables Limited"}
 ,{"nse_code":"TATACHEM","nse_name":"Tata Chemicals Limited"}
@@ -1212,6 +1210,7 @@
 ,{"nse_code":"TVSMOTOR","nse_name":"TVS Motor Company Limited"}
 ,{"nse_code":"TVSSRICHAK","nse_name":"TVS Srichakra Limited"}
 ,{"nse_code":"TVTODAY","nse_name":"TV Today Network Limited"}
+,{"nse_code":"TVVISION","nse_name":"TV Vision Limited"}
 ,{"nse_code":"TWL","nse_name":"Titagarh Wagons Limited"}
 ,{"nse_code":"UBL","nse_name":"United Breweries Limited"}
 ,{"nse_code":"UCALFUEL","nse_name":"Ucal Fuel Systems Limited"}
