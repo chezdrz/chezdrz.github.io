@@ -1,24 +1,27 @@
 [ 
-{ "nse_code":"AVADHSUGAR","nse_name":"Avadh Sugar & Energy Limited","blu":"N","last_p":262.65,"v52_hi":763.30,"v52_lo":261.00 }
-,{ "nse_code":"DBL","nse_name":"Dilip Buildcon Limited","blu":"N","last_p":407.10,"v52_hi":799.00,"v52_lo":312.25 }
-,{ "nse_code":"MAGADSUGAR","nse_name":"Magadh Sugar & Energy Limited","blu":"N","last_p":104.85,"v52_hi":190.95,"v52_lo":64.00 }
-,{ "nse_code":"UTTAMSUGAR","nse_name":"Uttam Sugar Mills Limited","blu":"N","last_p":117.30,"v52_hi":161.30,"v52_lo":61.90 }
-,{ "nse_code":"GLOBALVECT","nse_name":"Global Vectra Helicorp Limited","blu":"N","last_p":50.90,"v52_hi":126.90,"v52_lo":45.20 }
-,{ "nse_code":"ASIANTILES","nse_name":"Asian Granito India Limited","blu":"N","last_p":222.50,"v52_hi":307.00,"v52_lo":142.05 }
-,{ "nse_code":"SUNTECK","nse_name":"Sunteck Realty Limited","blu":"N","last_p":440.65,"v52_hi":533.35,"v52_lo":319.80 }
-,{ "nse_code":"SUVEN","nse_name":"Suven Life Sciences Limited","blu":"N","last_p":243.20,"v52_hi":283.40,"v52_lo":182.70 }
-,{ "nse_code":"JKIL","nse_name":"J.Kumar Infraprojects Limited","blu":"N","last_p":134.85,"v52_hi":225.25,"v52_lo":104.10 }
-,{ "nse_code":"ELECTHERM","nse_name":"Electrotherm (India) Limited","blu":"N","last_p":180.95,"v52_hi":380.10,"v52_lo":129.00 }
-,{ "nse_code":"DISHTV","nse_name":"Dish TV India Limited","blu":"N","last_p":31.55,"v52_hi":72.50,"v52_lo":19.10 }
-,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":234.55,"v52_hi":351.85,"v52_lo":109.10 }
-,{ "nse_code":"MAZDA","nse_name":"Mazda Limited","blu":"N","last_p":381.00,"v52_hi":484.85,"v52_lo":245.00 }
-,{ "nse_code":"MATRIMONY","nse_name":"Matrimony.Com Limited","blu":"N","last_p":560.30,"v52_hi":765.00,"v52_lo":364.00 }
-,{ "nse_code":"GOKEX","nse_name":"Gokaldas Exports Limited","blu":"N","last_p":88.40,"v52_hi":119.05,"v52_lo":68.25 }
-,{ "nse_code":"SEAMECLTD","nse_name":"Seamec Limited","blu":"N","last_p":447.55,"v52_hi":507.40,"v52_lo":271.05 }
-,{ "nse_code":"INDIGO","nse_name":"InterGlobe Aviation Limited","blu":"Y","last_p":1462.95,"v52_hi":1716.00,"v52_lo":991.85 }
-,{ "nse_code":"TRIVENI","nse_name":"Triveni Engineering & Industries Limited","blu":"N","last_p":63.35,"v52_hi":78.50,"v52_lo":34.05 }
-,{ "nse_code":"IBREALEST","nse_name":"Indiabulls Real Estate Limited","blu":"N","last_p":110.75,"v52_hi":164.25,"v52_lo":63.30 }
-,{ "nse_code":"63MOONS","nse_name":"63 moons technologies limited","blu":"N","last_p":96.90,"v52_hi":184.75,"v52_lo":63.10 }
-,{ "nse_code":"MAITHANALL","nse_name":"Maithan Alloys Limited","blu":"N","last_p":498.25,"v52_hi":699.80,"v52_lo":340.00 }
-,{ "nse_code":"VIPULLTD","nse_name":"Vipul Limited","blu":"N","last_p":41.45,"v52_hi":54.90,"v52_lo":26.95 }
+{ "nse_code":"AVADHSUGAR","nse_name":"Avadh Sugar & Energy Limited","blu":"N","last_p":263.10,"v52_hi":763.30,"v52_lo":256.00 }
+,{ "nse_code":"DBL","nse_name":"Dilip Buildcon Limited","blu":"N","last_p":419.80,"v52_hi":799.00,"v52_lo":312.25 }
+,{ "nse_code":"MAGADSUGAR","nse_name":"Magadh Sugar & Energy Limited","blu":"N","last_p":99.75,"v52_hi":190.95,"v52_lo":64.00 }
+,{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":44.40,"v52_hi":110.00,"v52_lo":37.25 }
+,{ "nse_code":"GLOBALVECT","nse_name":"Global Vectra Helicorp Limited","blu":"N","last_p":52.00,"v52_hi":126.90,"v52_lo":45.20 }
+,{ "nse_code":"UTTAMSUGAR","nse_name":"Uttam Sugar Mills Limited","blu":"N","last_p":115.15,"v52_hi":161.30,"v52_lo":63.75 }
+,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":238.70,"v52_hi":351.85,"v52_lo":109.10 }
+,{ "nse_code":"JKIL","nse_name":"J.Kumar Infraprojects Limited","blu":"N","last_p":134.65,"v52_hi":225.25,"v52_lo":104.10 }
+,{ "nse_code":"ELECTHERM","nse_name":"Electrotherm (India) Limited","blu":"N","last_p":189.70,"v52_hi":380.10,"v52_lo":129.00 }
+,{ "nse_code":"ASIANTILES","nse_name":"Asian Granito India Limited","blu":"N","last_p":221.85,"v52_hi":307.00,"v52_lo":142.05 }
+,{ "nse_code":"SUVEN","nse_name":"Suven Life Sciences Limited","blu":"N","last_p":240.10,"v52_hi":283.40,"v52_lo":182.70 }
+,{ "nse_code":"SUNTECK","nse_name":"Sunteck Realty Limited","blu":"N","last_p":432.45,"v52_hi":533.35,"v52_lo":319.80 }
+,{ "nse_code":"MAZDA","nse_name":"Mazda Limited","blu":"N","last_p":381.80,"v52_hi":484.85,"v52_lo":245.00 }
+,{ "nse_code":"GOKEX","nse_name":"Gokaldas Exports Limited","blu":"N","last_p":89.70,"v52_hi":119.05,"v52_lo":68.25 }
+,{ "nse_code":"MAITHANALL","nse_name":"Maithan Alloys Limited","blu":"N","last_p":485.60,"v52_hi":699.80,"v52_lo":340.00 }
+,{ "nse_code":"MATRIMONY","nse_name":"Matrimony.Com Limited","blu":"N","last_p":553.85,"v52_hi":765.00,"v52_lo":364.00 }
+,{ "nse_code":"63MOONS","nse_name":"63 moons technologies limited","blu":"N","last_p":92.30,"v52_hi":184.75,"v52_lo":64.30 }
+,{ "nse_code":"DISHTV","nse_name":"Dish TV India Limited","blu":"N","last_p":33.75,"v52_hi":72.50,"v52_lo":19.10 }
+,{ "nse_code":"IBREALEST","nse_name":"Indiabulls Real Estate Limited","blu":"N","last_p":102.90,"v52_hi":164.25,"v52_lo":63.30 }
+,{ "nse_code":"TRIVENI","nse_name":"Triveni Engineering & Industries Limited","blu":"N","last_p":63.55,"v52_hi":78.50,"v52_lo":34.50 }
+,{ "nse_code":"SEAMECLTD","nse_name":"Seamec Limited","blu":"N","last_p":432.90,"v52_hi":507.40,"v52_lo":271.05 }
+,{ "nse_code":"ORIENTCEM","nse_name":"Orient Cement Limited","blu":"N","last_p":100.90,"v52_hi":131.90,"v52_lo":62.15 }
+,{ "nse_code":"VIPULLTD","nse_name":"Vipul Limited","blu":"N","last_p":37.20,"v52_hi":54.90,"v52_lo":26.95 }
+,{ "nse_code":"APLAPOLLO","nse_name":"APL Apollo Tubes Limited","blu":"N","last_p":1493.20,"v52_hi":1689.80,"v52_lo":1003.30 }
+,{ "nse_code":"INDIGO","nse_name":"InterGlobe Aviation Limited","blu":"Y","last_p":1519.20,"v52_hi":1716.00,"v52_lo":991.85 }
  ]
