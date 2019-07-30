@@ -82,7 +82,6 @@
 ,{"nse_code":"APTECHT","nse_name":"Aptech Limited"}
 ,{"nse_code":"ARCHIDPLY","nse_name":"Archidply Industries Limited"}
 ,{"nse_code":"ARCHIES","nse_name":"Archies Limited"}
-,{"nse_code":"ARENTERP","nse_name":"Rajdarshan Industries Limited"}
 ,{"nse_code":"ARIES","nse_name":"Aries Agro Limited"}
 ,{"nse_code":"ARIHANTSUP","nse_name":"Arihant Superstructures Limited"}
 ,{"nse_code":"ARMANFIN","nse_name":"Arman Financial Services Limited"}
@@ -253,6 +252,7 @@
 ,{"nse_code":"COROMANDEL","nse_name":"Coromandel International Limited"}
 ,{"nse_code":"CORPBANK","nse_name":"Corporation Bank"}
 ,{"nse_code":"COSMOFILMS","nse_name":"Cosmo Films Limited"}
+,{"nse_code":"CREATIVEYE","nse_name":"Creative Eye Limited"}
 ,{"nse_code":"CREST","nse_name":"Crest Ventures Limited"}
 ,{"nse_code":"CRISIL","nse_name":"CRISIL Limited"}
 ,{"nse_code":"CROMPTON","nse_name":"Crompton Greaves Consumer Electricals Limited"}
@@ -339,7 +339,6 @@
 ,{"nse_code":"ESSARSHPNG","nse_name":"Essar Shipping Limited"}
 ,{"nse_code":"ESSELPACK","nse_name":"Essel Propack Limited"}
 ,{"nse_code":"ESTER","nse_name":"Ester Industries Limited"}
-,{"nse_code":"EUROTEXIND","nse_name":"Eurotex Industries and Exports Limited"}
 ,{"nse_code":"EVEREADY","nse_name":"Eveready Industries India Limited"}
 ,{"nse_code":"EVERESTIND","nse_name":"Everest Industries Limited"}
 ,{"nse_code":"EXCELCROP","nse_name":"Excel Crop Care Limited"}
@@ -357,7 +356,6 @@
 ,{"nse_code":"FILATEX","nse_name":"Filatex India Limited"}
 ,{"nse_code":"FINCABLES","nse_name":"Finolex Cables Limited"}
 ,{"nse_code":"FINPIPE","nse_name":"Finolex Industries Limited"}
-,{"nse_code":"FLEXITUFF","nse_name":"Flexituff International Limited"}
 ,{"nse_code":"FLFL","nse_name":"Future Lifestyle Fashions Limited"}
 ,{"nse_code":"FMGOETZE","nse_name":"Federal-Mogul Goetze (India) Limited."}
 ,{"nse_code":"FMNL","nse_name":"Future Market Networks Limited"}
@@ -567,6 +565,7 @@
 ,{"nse_code":"ITDCEM","nse_name":"ITD Cementation India Limited"}
 ,{"nse_code":"ITI","nse_name":"ITI Limited"}
 ,{"nse_code":"IVC","nse_name":"IL&FS Investment Managers Limited"}
+,{"nse_code":"IVP","nse_name":"IVP Limited"}
 ,{"nse_code":"IZMO","nse_name":"IZMO Limited"}
 ,{"nse_code":"J&KBANK","nse_name":"The Jammu & Kashmir Bank Limited"}
 ,{"nse_code":"JAGRAN","nse_name":"Jagran Prakashan Limited"}
@@ -797,7 +796,6 @@
 ,{"nse_code":"NBVENTURES","nse_name":"Nava Bharat Ventures Limited"}
 ,{"nse_code":"NCC","nse_name":"NCC Limited"}
 ,{"nse_code":"NCLIND","nse_name":"NCL Industries Limited"}
-,{"nse_code":"NDGL","nse_name":"Naga Dhunseri Group Limited"}
 ,{"nse_code":"NDL","nse_name":"Nandan Denim Limited"}
 ,{"nse_code":"NDTV","nse_name":"New Delhi Television Limited"}
 ,{"nse_code":"NECCLTD","nse_name":"North Eastern Carrying Corporation Limited"}
@@ -909,7 +907,6 @@
 ,{"nse_code":"PRAENG","nse_name":"Prajay Engineers Syndicate Limited"}
 ,{"nse_code":"PRAJIND","nse_name":"Praj Industries Limited"}
 ,{"nse_code":"PRAKASH","nse_name":"Prakash Industries Limited"}
-,{"nse_code":"PRAKASHCON","nse_name":"Prakash Constrowell Limited"}
 ,{"nse_code":"PRAXIS","nse_name":"Praxis Home Retail Limited"}
 ,{"nse_code":"PRECAM","nse_name":"Precision Camshafts Limited"}
 ,{"nse_code":"PRECOT","nse_name":"Precot Meridian Limited"}
@@ -1133,7 +1130,6 @@
 ,{"nse_code":"TAKE","nse_name":"Take Solutions Limited"}
 ,{"nse_code":"TALBROAUTO","nse_name":"Talbros Automotive Components Limited"}
 ,{"nse_code":"TANLA","nse_name":"Tanla Solutions Limited"}
-,{"nse_code":"TARAPUR","nse_name":"Tarapur Transformers Limited"}
 ,{"nse_code":"TARMAT","nse_name":"Tarmat Limited"}
 ,{"nse_code":"TASTYBITE","nse_name":"Tasty Bite Eatables Limited"}
 ,{"nse_code":"TATACHEM","nse_name":"Tata Chemicals Limited"}
