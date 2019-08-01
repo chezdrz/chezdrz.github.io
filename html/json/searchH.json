@@ -93,7 +93,6 @@
 ,{"nse_code":"ASAHIINDIA","nse_name":"Asahi India Glass Limited"}
 ,{"nse_code":"ASAHISONG","nse_name":"Asahi Songwon Colors Limited"}
 ,{"nse_code":"ASAL","nse_name":"Automotive Stampings and Assemblies Limited"}
-,{"nse_code":"ASHAPURMIN","nse_name":"Ashapura Minechem Limited"}
 ,{"nse_code":"ASHIANA","nse_name":"Ashiana Housing Limited"}
 ,{"nse_code":"ASHIMASYN","nse_name":"Ashima Limited"}
 ,{"nse_code":"ASHOKA","nse_name":"Ashoka Buildcon Limited"}
@@ -260,6 +259,7 @@
 ,{"nse_code":"CUB","nse_name":"City Union Bank Limited"}
 ,{"nse_code":"CUMMINSIND","nse_name":"Cummins India Limited"}
 ,{"nse_code":"CUPID","nse_name":"Cupid Limited"}
+,{"nse_code":"CYBERMEDIA","nse_name":"Cyber Media (India) Limited"}
 ,{"nse_code":"CYBERTECH","nse_name":"Cybertech Systems And Software Limited"}
 ,{"nse_code":"CYIENT","nse_name":"Cyient Limited"}
 ,{"nse_code":"DAAWAT","nse_name":"LT Foods Limited"}
@@ -623,7 +623,6 @@
 ,{"nse_code":"KANSAINER","nse_name":"Kansai Nerolac Paints Limited"}
 ,{"nse_code":"KARMAENG","nse_name":"Karma Energy Limited"}
 ,{"nse_code":"KARURVYSYA","nse_name":"Karur Vysya Bank Limited"}
-,{"nse_code":"KAVVERITEL","nse_name":"Kavveri Telecom Products Limited"}
 ,{"nse_code":"KAYA","nse_name":"Kaya Limited"}
 ,{"nse_code":"KCP","nse_name":"KCP Limited"}
 ,{"nse_code":"KCPSUGIND","nse_name":"KCP Sugar and Industries Corporation Limited"}
@@ -658,7 +657,6 @@
 ,{"nse_code":"KPRMILL","nse_name":"K.P.R. Mill Limited"}
 ,{"nse_code":"KRBL","nse_name":"KRBL Limited"}
 ,{"nse_code":"KSCL","nse_name":"Kaveri Seed Company Limited"}
-,{"nse_code":"KSERASERA","nse_name":"KSS Limited"}
 ,{"nse_code":"KSK","nse_name":"KSK Energy Ventures Limited"}
 ,{"nse_code":"KSL","nse_name":"Kalyani Steels Limited"}
 ,{"nse_code":"KTIL","nse_name":"Kesar Terminals & Infrastructure Limited"}
@@ -853,7 +851,6 @@
 ,{"nse_code":"ORIENTBELL","nse_name":"Orient Bell Limited"}
 ,{"nse_code":"ORIENTCEM","nse_name":"Orient Cement Limited"}
 ,{"nse_code":"ORIENTHOT","nse_name":"Oriental Hotels Limited"}
-,{"nse_code":"ORIENTLTD","nse_name":"Orient Press Limited"}
 ,{"nse_code":"ORIENTPPR","nse_name":"Orient Paper & Industries Limited"}
 ,{"nse_code":"ORIENTREF","nse_name":"Orient Refractories Limited"}
 ,{"nse_code":"ORISSAMINE","nse_name":"The Orissa Minerals Development Company Limited"}
@@ -985,7 +982,6 @@
 ,{"nse_code":"RUCHIRA","nse_name":"Ruchira Papers Limited"}
 ,{"nse_code":"RUCHISOYA","nse_name":"Ruchi Soya Industries Limited"}
 ,{"nse_code":"RUPA","nse_name":"Rupa & Company Limited"}
-,{"nse_code":"SABEVENTS","nse_name":"Sab Events & Governance Now Media Limited"}
 ,{"nse_code":"SABTN","nse_name":"Sri Adhikari Brothers Television Network Limited"}
 ,{"nse_code":"SADBHAV","nse_name":"Sadbhav Engineering Limited"}
 ,{"nse_code":"SADBHIN","nse_name":"Sadbhav Infrastructure Project Limited"}
@@ -1220,7 +1216,6 @@
 ,{"nse_code":"UJJIVAN","nse_name":"Ujjivan Financial Services Limited"}
 ,{"nse_code":"ULTRACEMCO","nse_name":"UltraTech Cement Limited"}
 ,{"nse_code":"UMANGDAIRY","nse_name":"Umang Dairies Limited"}
-,{"nse_code":"UMESLTD","nse_name":"Usha Martin Education & Solutions Limited"}
 ,{"nse_code":"UNICHEMLAB","nse_name":"Unichem Laboratories Limited"}
 ,{"nse_code":"UNIENTER","nse_name":"Uniphos Enterprises Limited"}
 ,{"nse_code":"UNIONBANK","nse_name":"Union Bank of India"}
@@ -1229,7 +1224,6 @@
 ,{"nse_code":"UNITEDTEA","nse_name":"The United Nilgiri Tea Estates Company Limited"}
 ,{"nse_code":"UNIVCABLES","nse_name":"Universal Cables Limited"}
 ,{"nse_code":"UPL","nse_name":"UPL Limited"}
-,{"nse_code":"URJA","nse_name":"Urja Global Limited"}
 ,{"nse_code":"USHAMART","nse_name":"Usha Martin Limited"}
 ,{"nse_code":"UTTAMSTL","nse_name":"Uttam Galva Steels Limited"}
 ,{"nse_code":"UTTAMSUGAR","nse_name":"Uttam Sugar Mills Limited"}
