@@ -1,5 +1,5 @@
 [ 
-{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":42.40,"v52_hi":110.00,"v52_lo":35.45 }
-,{ "nse_code":"ALLSEC","nse_name":"Allsec Technologies Limited","blu":"N","last_p":270.25,"v52_hi":319.80,"v52_lo":165.00 }
-,{ "nse_code":"TARAPUR","nse_name":"Tarapur Transformers Limited","blu":"N","last_p":4.95,"v52_hi":6.80,"v52_lo":2.80 }
+{ "nse_code":"ALLSEC","nse_name":"Allsec Technologies Limited","blu":"N","last_p":263.75,"v52_hi":319.80,"v52_lo":165.00 }
+,{ "nse_code":"RELIGARE","nse_name":"Religare Enterprises Limited","blu":"N","last_p":30.30,"v52_hi":45.20,"v52_lo":16.90 }
+,{ "nse_code":"TARAPUR","nse_name":"Tarapur Transformers Limited","blu":"N","last_p":5.15,"v52_hi":6.80,"v52_lo":2.80 }
  ]
