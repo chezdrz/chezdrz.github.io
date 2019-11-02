@@ -1,10 +1,10 @@
 [ 
-{ "nse_code":"TFL","nse_name":"Transwarranty Finance Limited","blu":"N","last_p":4.10,"v52_hi":9.70,"v52_lo":3.65 }
-,{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":38.45,"v52_hi":110.00,"v52_lo":35.55 }
-,{ "nse_code":"ELECTHERM","nse_name":"Electrotherm (India) Limited","blu":"N","last_p":166.55,"v52_hi":380.10,"v52_lo":129.00 }
-,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":221.00,"v52_hi":351.85,"v52_lo":131.15 }
-,{ "nse_code":"SEAMECLTD","nse_name":"Seamec Limited","blu":"N","last_p":374.65,"v52_hi":507.40,"v52_lo":271.05 }
-,{ "nse_code":"ASIANTILES","nse_name":"Asian Granito India Limited","blu":"N","last_p":212.25,"v52_hi":274.85,"v52_lo":142.05 }
-,{ "nse_code":"MATRIMONY","nse_name":"Matrimony.Com Limited","blu":"N","last_p":585.25,"v52_hi":755.60,"v52_lo":364.00 }
-,{ "nse_code":"TARAPUR","nse_name":"Tarapur Transformers Limited","blu":"N","last_p":4.90,"v52_hi":6.80,"v52_lo":2.80 }
+{ "nse_code":"TFL","nse_name":"Transwarranty Finance Limited","blu":"N","last_p":3.95,"v52_hi":9.70,"v52_lo":3.65 }
+,{ "nse_code":"ELECTHERM","nse_name":"Electrotherm (India) Limited","blu":"N","last_p":164.40,"v52_hi":380.10,"v52_lo":129.00 }
+,{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":41.95,"v52_hi":110.00,"v52_lo":35.55 }
+,{ "nse_code":"SEAMECLTD","nse_name":"Seamec Limited","blu":"N","last_p":363.35,"v52_hi":507.40,"v52_lo":271.05 }
+,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":221.80,"v52_hi":351.85,"v52_lo":131.15 }
+,{ "nse_code":"REDINGTON","nse_name":"Redington (India) Limited","blu":"N","last_p":95.35,"v52_hi":115.50,"v52_lo":64.00 }
+,{ "nse_code":"ASIANTILES","nse_name":"Asian Granito India Limited","blu":"N","last_p":215.70,"v52_hi":274.85,"v52_lo":142.05 }
+,{ "nse_code":"MATRIMONY","nse_name":"Matrimony.Com Limited","blu":"N","last_p":605.90,"v52_hi":755.60,"v52_lo":364.00 }
  ]
