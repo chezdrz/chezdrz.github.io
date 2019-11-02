@@ -223,6 +223,7 @@
 ,{"nse_code":"CGPOWER","nse_name":"CG Power and Industrial Solutions Limited"}
 ,{"nse_code":"CHAMBLFERT","nse_name":"Chambal Fertilizers & Chemicals Limited"}
 ,{"nse_code":"CHENNPETRO","nse_name":"Chennai Petroleum Corporation Limited"}
+,{"nse_code":"CHROMATIC","nse_name":"Chromatic India Limited"}
 ,{"nse_code":"CIGNITITEC","nse_name":"Cigniti Technologies Limited"}
 ,{"nse_code":"CIMMCO","nse_name":"Cimmco Limited"}
 ,{"nse_code":"CINELINE","nse_name":"Cineline India Limited"}
@@ -271,7 +272,6 @@
 ,{"nse_code":"DEEPAKNTR","nse_name":"Deepak Nitrite Limited"}
 ,{"nse_code":"DEEPIND","nse_name":"Deep Industries Limited"}
 ,{"nse_code":"DELTACORP","nse_name":"Delta Corp Limited"}
-,{"nse_code":"DELTAMAGNT","nse_name":"Delta Magnets Limited"}
 ,{"nse_code":"DEN","nse_name":"Den Networks Limited"}
 ,{"nse_code":"DENORA","nse_name":"De Nora India Limited"}
 ,{"nse_code":"DFMFOODS","nse_name":"DFM Foods Limited"}
@@ -379,10 +379,10 @@
 ,{"nse_code":"GHCL","nse_name":"GHCL Limited"}
 ,{"nse_code":"GICHSGFIN","nse_name":"GIC Housing Finance Limited"}
 ,{"nse_code":"GICRE","nse_name":"General Insurance Corporation of India"}
-,{"nse_code":"GILLANDERS","nse_name":"Gillanders Arbuthnot & Company Limited"}
 ,{"nse_code":"GILLETTE","nse_name":"Gillette India Limited"}
 ,{"nse_code":"GINNIFILA","nse_name":"Ginni Filaments Limited"}
 ,{"nse_code":"GIPCL","nse_name":"Gujarat Industries Power Company Limited"}
+,{"nse_code":"GKWLIMITED","nse_name":"GKW Limited"}
 ,{"nse_code":"GLAXO","nse_name":"GlaxoSmithKline Pharmaceuticals Limited"}
 ,{"nse_code":"GLENMARK","nse_name":"Glenmark Pharmaceuticals Limited"}
 ,{"nse_code":"GLOBALVECT","nse_name":"Global Vectra Helicorp Limited"}
@@ -952,7 +952,6 @@
 ,{"nse_code":"RUCHIRA","nse_name":"Ruchira Papers Limited"}
 ,{"nse_code":"RUCHISOYA","nse_name":"Ruchi Soya Industries Limited"}
 ,{"nse_code":"RUPA","nse_name":"Rupa & Company Limited"}
-,{"nse_code":"SABEVENTS","nse_name":"Sab Events & Governance Now Media Limited"}
 ,{"nse_code":"SABTN","nse_name":"Sri Adhikari Brothers Television Network Limited"}
 ,{"nse_code":"SADBHAV","nse_name":"Sadbhav Engineering Limited"}
 ,{"nse_code":"SADBHIN","nse_name":"Sadbhav Infrastructure Project Limited"}
@@ -1117,7 +1116,6 @@
 ,{"nse_code":"TCS","nse_name":"Tata Consultancy Services Limited"}
 ,{"nse_code":"TDPOWERSYS","nse_name":"TD Power Systems Limited"}
 ,{"nse_code":"TEAMLEASE","nse_name":"Teamlease Services Limited"}
-,{"nse_code":"TECHIN","nse_name":"Techindia Nirman Limited"}
 ,{"nse_code":"TECHM","nse_name":"Tech Mahindra Limited"}
 ,{"nse_code":"TECHNOFAB","nse_name":"Technofab Engineering Limited"}
 ,{"nse_code":"TEJASNET","nse_name":"Tejas Networks Limited"}
@@ -1246,6 +1244,7 @@
 ,{"nse_code":"WONDERLA","nse_name":"Wonderla Holidays Limited"}
 ,{"nse_code":"WSTCSTPAPR","nse_name":"West Coast Paper Mills Limited"}
 ,{"nse_code":"XCHANGING","nse_name":"Xchanging Solutions Limited"}
+,{"nse_code":"XPROINDIA","nse_name":"Xpro India Limited"}
 ,{"nse_code":"YESBANK","nse_name":"Yes Bank Limited"}
 ,{"nse_code":"ZEEL","nse_name":"Zee Entertainment Enterprises Limited"}
 ,{"nse_code":"ZEELEARN","nse_name":"Zee Learn Limited"}
