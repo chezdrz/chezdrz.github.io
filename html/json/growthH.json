@@ -1,2 +1,12 @@
 [ 
+{ "nse_code":"MANAPPURAM","nse_name":"Manappuram Finance Limited","blu":"N","last_p":172.05,"v52_hi":173.35,"v52_lo":77.65 }
+,{ "nse_code":"SIEMENS","nse_name":"Siemens Limited","blu":"Y","last_p":1671.65,"v52_hi":1717.45,"v52_lo":901.85 }
+,{ "nse_code":"HDFCLIFE","nse_name":"HDFC Standard Life Insurance Company Limited","blu":"N","last_p":612.70,"v52_hi":646.40,"v52_lo":344.40 }
+,{ "nse_code":"BATAINDIA","nse_name":"Bata India Limited","blu":"N","last_p":1741.25,"v52_hi":1814.00,"v52_lo":1000.55 }
+,{ "nse_code":"ICICIPRULI","nse_name":"ICICI Prudential Life Insurance Company Limited","blu":"Y","last_p":508.65,"v52_hi":522.75,"v52_lo":277.35 }
+,{ "nse_code":"HIRECT","nse_name":"Hind Rectifiers Limited","blu":"N","last_p":181.55,"v52_hi":184.00,"v52_lo":99.80 }
+,{ "nse_code":"TRENT","nse_name":"Trent Limited","blu":"N","last_p":547.45,"v52_hi":559.00,"v52_lo":315.05 }
+,{ "nse_code":"IGL","nse_name":"Indraprastha Gas Limited","blu":"N","last_p":392.45,"v52_hi":395.45,"v52_lo":241.00 }
+,{ "nse_code":"TITAN","nse_name":"Titan Company Limited","blu":"Y","last_p":1301.90,"v52_hi":1389.95,"v52_lo":868.20 }
+,{ "nse_code":"NESTLEIND","nse_name":"Nestle India Limited","blu":"N","last_p":14959.80,"v52_hi":15146.90,"v52_lo":10031.65 }
  ]
