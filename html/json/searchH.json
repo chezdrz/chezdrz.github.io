@@ -226,6 +226,7 @@
 ,{"nse_code":"CGPOWER","nse_name":"CG Power and Industrial Solutions Limited"}
 ,{"nse_code":"CHAMBLFERT","nse_name":"Chambal Fertilizers & Chemicals Limited"}
 ,{"nse_code":"CHENNPETRO","nse_name":"Chennai Petroleum Corporation Limited"}
+,{"nse_code":"CHROMATIC","nse_name":"Chromatic India Limited"}
 ,{"nse_code":"CIGNITITEC","nse_name":"Cigniti Technologies Limited"}
 ,{"nse_code":"CIMMCO","nse_name":"Cimmco Limited"}
 ,{"nse_code":"CINELINE","nse_name":"Cineline India Limited"}
@@ -387,6 +388,7 @@
 ,{"nse_code":"GILLETTE","nse_name":"Gillette India Limited"}
 ,{"nse_code":"GINNIFILA","nse_name":"Ginni Filaments Limited"}
 ,{"nse_code":"GIPCL","nse_name":"Gujarat Industries Power Company Limited"}
+,{"nse_code":"GISOLUTION","nse_name":"GI Engineering Solutions Limited"}
 ,{"nse_code":"GKWLIMITED","nse_name":"GKW Limited"}
 ,{"nse_code":"GLAXO","nse_name":"GlaxoSmithKline Pharmaceuticals Limited"}
 ,{"nse_code":"GLENMARK","nse_name":"Glenmark Pharmaceuticals Limited"}
@@ -613,6 +615,7 @@
 ,{"nse_code":"KANSAINER","nse_name":"Kansai Nerolac Paints Limited"}
 ,{"nse_code":"KARMAENG","nse_name":"Karma Energy Limited"}
 ,{"nse_code":"KARURVYSYA","nse_name":"Karur Vysya Bank Limited"}
+,{"nse_code":"KAVVERITEL","nse_name":"Kavveri Telecom Products Limited"}
 ,{"nse_code":"KAYA","nse_name":"Kaya Limited"}
 ,{"nse_code":"KCP","nse_name":"KCP Limited"}
 ,{"nse_code":"KCPSUGIND","nse_name":"KCP Sugar and Industries Corporation Limited"}
@@ -837,7 +840,6 @@
 ,{"nse_code":"ORIENTBELL","nse_name":"Orient Bell Limited"}
 ,{"nse_code":"ORIENTCEM","nse_name":"Orient Cement Limited"}
 ,{"nse_code":"ORIENTHOT","nse_name":"Oriental Hotels Limited"}
-,{"nse_code":"ORIENTLTD","nse_name":"Orient Press Limited"}
 ,{"nse_code":"ORIENTPPR","nse_name":"Orient Paper & Industries Limited"}
 ,{"nse_code":"ORIENTREF","nse_name":"Orient Refractories Limited"}
 ,{"nse_code":"ORISSAMINE","nse_name":"The Orissa Minerals Development Company Limited"}
@@ -945,6 +947,7 @@
 ,{"nse_code":"REPCOHOME","nse_name":"Repco Home Finance Limited"}
 ,{"nse_code":"REPRO","nse_name":"Repro India Limited"}
 ,{"nse_code":"RESPONIND","nse_name":"Responsive Industries Limited"}
+,{"nse_code":"REVATHI","nse_name":"Revathi Equipment Limited"}
 ,{"nse_code":"RHFL","nse_name":"Reliance Home Finance Limited"}
 ,{"nse_code":"RICOAUTO","nse_name":"Rico Auto Industries Limited"}
 ,{"nse_code":"RIIL","nse_name":"Reliance Industrial Infrastructure Limited"}
@@ -1042,7 +1045,6 @@
 ,{"nse_code":"SKIPPER","nse_name":"Skipper Limited"}
 ,{"nse_code":"SKMEGGPROD","nse_name":"SKM Egg Products Export (India) Limited"}
 ,{"nse_code":"SMLISUZU","nse_name":"SML Isuzu Limited"}
-,{"nse_code":"SMPL","nse_name":"Splendid Metal Products Limited"}
 ,{"nse_code":"SMSLIFE","nse_name":"SMS Lifesciences India Limited"}
 ,{"nse_code":"SMSPHARMA","nse_name":"SMS Pharmaceuticals Limited"}
 ,{"nse_code":"SNOWMAN","nse_name":"Snowman Logistics Limited"}
@@ -1127,7 +1129,6 @@
 ,{"nse_code":"TATAMOTORS","nse_name":"Tata Motors Limited"}
 ,{"nse_code":"TATAMTRDVR","nse_name":"Tata Motors Limited"}
 ,{"nse_code":"TATAPOWER","nse_name":"Tata Power Company Limited"}
-,{"nse_code":"TATASPONGE","nse_name":"Tata Sponge Iron Limited"}
 ,{"nse_code":"TATASTEEL","nse_name":"Tata Steel Limited"}
 ,{"nse_code":"TBZ","nse_name":"Tribhovandas Bhimji Zaveri Limited"}
 ,{"nse_code":"TCI","nse_name":"Transport Corporation of India Limited"}
@@ -1138,7 +1139,6 @@
 ,{"nse_code":"TCS","nse_name":"Tata Consultancy Services Limited"}
 ,{"nse_code":"TDPOWERSYS","nse_name":"TD Power Systems Limited"}
 ,{"nse_code":"TEAMLEASE","nse_name":"Teamlease Services Limited"}
-,{"nse_code":"TECHIN","nse_name":"Techindia Nirman Limited"}
 ,{"nse_code":"TECHM","nse_name":"Tech Mahindra Limited"}
 ,{"nse_code":"TECHNOFAB","nse_name":"Technofab Engineering Limited"}
 ,{"nse_code":"TEJASNET","nse_name":"Tejas Networks Limited"}
@@ -1200,7 +1200,6 @@
 ,{"nse_code":"UJJIVAN","nse_name":"Ujjivan Financial Services Limited"}
 ,{"nse_code":"ULTRACEMCO","nse_name":"UltraTech Cement Limited"}
 ,{"nse_code":"UMANGDAIRY","nse_name":"Umang Dairies Limited"}
-,{"nse_code":"UMESLTD","nse_name":"Usha Martin Education & Solutions Limited"}
 ,{"nse_code":"UNICHEMLAB","nse_name":"Unichem Laboratories Limited"}
 ,{"nse_code":"UNIENTER","nse_name":"Uniphos Enterprises Limited"}
 ,{"nse_code":"UNIONBANK","nse_name":"Union Bank of India"}
