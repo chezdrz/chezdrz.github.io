@@ -1,9 +1,5 @@
 [ 
-{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":42.75,"v52_hi":110.00,"v52_lo":35.45 }
-,{ "nse_code":"DBL","nse_name":"Dilip Buildcon Limited","blu":"N","last_p":435.95,"v52_hi":734.80,"v52_lo":312.25 }
-,{ "nse_code":"COUNCODOS","nse_name":"Country Condo's Limited","blu":"N","last_p":1.85,"v52_hi":5.15,"v52_lo":1.70 }
-,{ "nse_code":"GLOBALVECT","nse_name":"Global Vectra Helicorp Limited","blu":"N","last_p":59.85,"v52_hi":126.90,"v52_lo":41.00 }
-,{ "nse_code":"MAHASTEEL","nse_name":"Mahamaya Steel Industries Limited","blu":"N","last_p":131.35,"v52_hi":218.45,"v52_lo":78.00 }
-,{ "nse_code":"DCMSHRIRAM","nse_name":"DCM Shriram Limited","blu":"N","last_p":410.80,"v52_hi":638.50,"v52_lo":275.00 }
-,{ "nse_code":"JUSTDIAL","nse_name":"Just Dial Limited","blu":"N","last_p":678.40,"v52_hi":824.80,"v52_lo":453.85 }
+{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":41.00,"v52_hi":110.00,"v52_lo":35.45 }
+,{ "nse_code":"MAHASTEEL","nse_name":"Mahamaya Steel Industries Limited","blu":"N","last_p":153.25,"v52_hi":218.45,"v52_lo":78.00 }
+,{ "nse_code":"GOKUL","nse_name":"Gokul Refoils and Solvent Limited","blu":"N","last_p":11.65,"v52_hi":17.25,"v52_lo":7.20 }
  ]
