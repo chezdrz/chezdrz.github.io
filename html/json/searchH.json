@@ -193,6 +193,7 @@
 ,{"nse_code":"BUTTERFLY","nse_name":"Butterfly Gandhimathi Appliances Limited"}
 ,{"nse_code":"BYKE","nse_name":"The Byke Hospitality Ltd"}
 ,{"nse_code":"CADILAHC","nse_name":"Cadila Healthcare Limited"}
+,{"nse_code":"CALSOFT","nse_name":"California Software Company Limited"}
 ,{"nse_code":"CAMLINFINE","nse_name":"Camlin Fine Sciences Limited"}
 ,{"nse_code":"CANBK","nse_name":"Canara Bank"}
 ,{"nse_code":"CANFINHOME","nse_name":"Can Fin Homes Limited"}
@@ -272,6 +273,7 @@
 ,{"nse_code":"DEEPAKNTR","nse_name":"Deepak Nitrite Limited"}
 ,{"nse_code":"DEEPIND","nse_name":"Deep Industries Limited"}
 ,{"nse_code":"DELTACORP","nse_name":"Delta Corp Limited"}
+,{"nse_code":"DELTAMAGNT","nse_name":"Delta Magnets Limited"}
 ,{"nse_code":"DEN","nse_name":"Den Networks Limited"}
 ,{"nse_code":"DENORA","nse_name":"De Nora India Limited"}
 ,{"nse_code":"DFMFOODS","nse_name":"DFM Foods Limited"}
@@ -379,6 +381,7 @@
 ,{"nse_code":"GHCL","nse_name":"GHCL Limited"}
 ,{"nse_code":"GICHSGFIN","nse_name":"GIC Housing Finance Limited"}
 ,{"nse_code":"GICRE","nse_name":"General Insurance Corporation of India"}
+,{"nse_code":"GILLANDERS","nse_name":"Gillanders Arbuthnot & Company Limited"}
 ,{"nse_code":"GILLETTE","nse_name":"Gillette India Limited"}
 ,{"nse_code":"GINNIFILA","nse_name":"Ginni Filaments Limited"}
 ,{"nse_code":"GIPCL","nse_name":"Gujarat Industries Power Company Limited"}
@@ -425,6 +428,7 @@
 ,{"nse_code":"GSPL","nse_name":"Gujarat State Petronet Limited"}
 ,{"nse_code":"GSS","nse_name":"GSS Infotech Limited"}
 ,{"nse_code":"GTL","nse_name":"GTL Limited"}
+,{"nse_code":"GTLINFRA","nse_name":"GTL Infrastructure Limited"}
 ,{"nse_code":"GTNIND","nse_name":"GTN Industries Limited"}
 ,{"nse_code":"GTNTEX","nse_name":"GTN Textiles Limited"}
 ,{"nse_code":"GTPL","nse_name":"GTPL Hathway Limited"}
@@ -830,7 +834,6 @@
 ,{"nse_code":"ORISSAMINE","nse_name":"The Orissa Minerals Development Company Limited"}
 ,{"nse_code":"PAGEIND","nse_name":"Page Industries Limited"}
 ,{"nse_code":"PAISALO","nse_name":"Paisalo Digital Limited"}
-,{"nse_code":"PALASHSECU","nse_name":"Palash Securities Limited"}
 ,{"nse_code":"PALREDTEC","nse_name":"Palred Technologies Limited"}
 ,{"nse_code":"PANACEABIO","nse_name":"Panacea Biotec Limited"}
 ,{"nse_code":"PANAMAPET","nse_name":"Panama Petrochem Limited"}
@@ -940,6 +943,7 @@
 ,{"nse_code":"RML","nse_name":"Rane (Madras) Limited"}
 ,{"nse_code":"RNAM","nse_name":"Reliance Nippon Life Asset Management Limited"}
 ,{"nse_code":"ROHLTD","nse_name":"Royal Orchid Hotels Limited"}
+,{"nse_code":"ROLTA","nse_name":"Rolta India Limited"}
 ,{"nse_code":"ROSSELLIND","nse_name":"Rossell India Limited"}
 ,{"nse_code":"RPGLIFE","nse_name":"RPG Life Sciences Limited"}
 ,{"nse_code":"RPPINFRA","nse_name":"R.P.P. Infra Projects Limited"}
@@ -952,6 +956,7 @@
 ,{"nse_code":"RUCHIRA","nse_name":"Ruchira Papers Limited"}
 ,{"nse_code":"RUCHISOYA","nse_name":"Ruchi Soya Industries Limited"}
 ,{"nse_code":"RUPA","nse_name":"Rupa & Company Limited"}
+,{"nse_code":"SABEVENTS","nse_name":"Sab Events & Governance Now Media Limited"}
 ,{"nse_code":"SABTN","nse_name":"Sri Adhikari Brothers Television Network Limited"}
 ,{"nse_code":"SADBHAV","nse_name":"Sadbhav Engineering Limited"}
 ,{"nse_code":"SADBHIN","nse_name":"Sadbhav Infrastructure Project Limited"}
@@ -1066,6 +1071,7 @@
 ,{"nse_code":"SUMEETINDS","nse_name":"Sumeet Industries Limited"}
 ,{"nse_code":"SUMMITSEC","nse_name":"Summit Securities Limited"}
 ,{"nse_code":"SUNCLAYLTD","nse_name":"Sundaram Clayton Limited"}
+,{"nse_code":"SUNDARAM","nse_name":"Sundaram Multi Pap Limited"}
 ,{"nse_code":"SUNDARMFIN","nse_name":"Sundaram Finance Limited"}
 ,{"nse_code":"SUNDRMBRAK","nse_name":"Sundaram Brake Linings Limited"}
 ,{"nse_code":"SUNDRMFAST","nse_name":"Sundram Fasteners Limited"}
@@ -1122,6 +1128,7 @@
 ,{"nse_code":"TERASOFT","nse_name":"Tera Software Limited"}
 ,{"nse_code":"TEXINFRA","nse_name":"Texmaco Infrastructure & Holdings Limited"}
 ,{"nse_code":"TEXMOPIPES","nse_name":"Texmo Pipes and Products Limited"}
+,{"nse_code":"TEXRAIL","nse_name":"Texmaco Rail & Engineering Limited"}
 ,{"nse_code":"TFCILTD","nse_name":"Tourism Finance Corporation of India Limited"}
 ,{"nse_code":"TFL","nse_name":"Transwarranty Finance Limited"}
 ,{"nse_code":"THANGAMAYL","nse_name":"Thangamayil Jewellery Limited"}
