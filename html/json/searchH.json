@@ -35,6 +35,7 @@
 ,{"nse_code":"AGRITECH","nse_name":"Agri-Tech (India) Limited"}
 ,{"nse_code":"AHLEAST","nse_name":"Asian Hotels (East) Limited"}
 ,{"nse_code":"AHLUCONT","nse_name":"Ahluwalia Contracts (India) Limited"}
+,{"nse_code":"AHLWEST","nse_name":"Asian Hotels (West) Limited"}
 ,{"nse_code":"AIAENG","nse_name":"AIA Engineering Limited"}
 ,{"nse_code":"AJANTPHARM","nse_name":"Ajanta Pharma Limited"}
 ,{"nse_code":"AJMERA","nse_name":"Ajmera Realty & Infra India Limited"}
@@ -335,7 +336,6 @@
 ,{"nse_code":"ESSARSHPNG","nse_name":"Essar Shipping Limited"}
 ,{"nse_code":"ESSELPACK","nse_name":"Essel Propack Limited"}
 ,{"nse_code":"ESTER","nse_name":"Ester Industries Limited"}
-,{"nse_code":"EUROTEXIND","nse_name":"Eurotex Industries and Exports Limited"}
 ,{"nse_code":"EVEREADY","nse_name":"Eveready Industries India Limited"}
 ,{"nse_code":"EVERESTIND","nse_name":"Everest Industries Limited"}
 ,{"nse_code":"EXCELCROP","nse_name":"Excel Crop Care Limited"}
@@ -424,7 +424,6 @@
 ,{"nse_code":"GREENPLY","nse_name":"Greenply Industries Limited"}
 ,{"nse_code":"GREENPOWER","nse_name":"Orient Green Power Company Limited"}
 ,{"nse_code":"GRINDWELL","nse_name":"Grindwell Norton Limited"}
-,{"nse_code":"GROBTEA","nse_name":"The Grob Tea Company Limited"}
 ,{"nse_code":"GRPLTD","nse_name":"GRP Limited"}
 ,{"nse_code":"GRUH","nse_name":"Gruh Finance Limited"}
 ,{"nse_code":"GSCLCEMENT","nse_name":"Gujarat Sidhee Cement Limited"}
@@ -1147,7 +1146,6 @@
 ,{"nse_code":"TCS","nse_name":"Tata Consultancy Services Limited"}
 ,{"nse_code":"TDPOWERSYS","nse_name":"TD Power Systems Limited"}
 ,{"nse_code":"TEAMLEASE","nse_name":"Teamlease Services Limited"}
-,{"nse_code":"TECHIN","nse_name":"Techindia Nirman Limited"}
 ,{"nse_code":"TECHM","nse_name":"Tech Mahindra Limited"}
 ,{"nse_code":"TECHNOFAB","nse_name":"Technofab Engineering Limited"}
 ,{"nse_code":"TEJASNET","nse_name":"Tejas Networks Limited"}
@@ -1210,6 +1208,7 @@
 ,{"nse_code":"UJJIVAN","nse_name":"Ujjivan Financial Services Limited"}
 ,{"nse_code":"ULTRACEMCO","nse_name":"UltraTech Cement Limited"}
 ,{"nse_code":"UMANGDAIRY","nse_name":"Umang Dairies Limited"}
+,{"nse_code":"UMESLTD","nse_name":"Usha Martin Education & Solutions Limited"}
 ,{"nse_code":"UNICHEMLAB","nse_name":"Unichem Laboratories Limited"}
 ,{"nse_code":"UNIENTER","nse_name":"Uniphos Enterprises Limited"}
 ,{"nse_code":"UNIONBANK","nse_name":"Union Bank of India"}
@@ -1285,6 +1284,7 @@
 ,{"nse_code":"ZENSARTECH","nse_name":"Zensar Technologies Limited"}
 ,{"nse_code":"ZENTEC","nse_name":"Zen Technologies Limited"}
 ,{"nse_code":"ZODIACLOTH","nse_name":"Zodiac Clothing Company Limited"}
+,{"nse_code":"ZODJRDMKJ","nse_name":"Zodiac JRD- MKJ Limited"}
 ,{"nse_code":"ZUARI","nse_name":"Zuari Agro Chemicals Limited"}
 ,{"nse_code":"ZUARIGLOB","nse_name":"Zuari Global Limited"}
 ,{"nse_code":"ZYDUSWELL","nse_name":"Zydus Wellness Limited"}
