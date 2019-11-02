@@ -1,13 +1,14 @@
 [ 
-{ "nse_code":"TFL","nse_name":"Transwarranty Finance Limited","blu":"N","last_p":4.00,"v52_hi":9.70,"v52_lo":3.65 }
-,{ "nse_code":"ELECTHERM","nse_name":"Electrotherm (India) Limited","blu":"N","last_p":154.70,"v52_hi":380.10,"v52_lo":129.00 }
-,{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":41.95,"v52_hi":110.00,"v52_lo":35.55 }
-,{ "nse_code":"SEAMECLTD","nse_name":"Seamec Limited","blu":"N","last_p":375.45,"v52_hi":507.40,"v52_lo":271.05 }
-,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":223.65,"v52_hi":351.85,"v52_lo":131.15 }
-,{ "nse_code":"ASIANTILES","nse_name":"Asian Granito India Limited","blu":"N","last_p":222.65,"v52_hi":274.85,"v52_lo":142.05 }
-,{ "nse_code":"J&KBANK","nse_name":"The Jammu & Kashmir Bank Limited","blu":"N","last_p":39.50,"v52_hi":65.75,"v52_lo":32.25 }
-,{ "nse_code":"MATRIMONY","nse_name":"Matrimony.Com Limited","blu":"N","last_p":578.40,"v52_hi":755.60,"v52_lo":364.00 }
-,{ "nse_code":"JUSTDIAL","nse_name":"Just Dial Limited","blu":"N","last_p":671.80,"v52_hi":824.80,"v52_lo":453.85 }
-,{ "nse_code":"ALLSEC","nse_name":"Allsec Technologies Limited","blu":"N","last_p":273.90,"v52_hi":319.80,"v52_lo":165.00 }
-,{ "nse_code":"TANLA","nse_name":"Tanla Solutions Limited","blu":"N","last_p":49.05,"v52_hi":76.40,"v52_lo":29.80 }
+{ "nse_code":"TFL","nse_name":"Transwarranty Finance Limited","blu":"N","last_p":3.95,"v52_hi":9.70,"v52_lo":3.65 }
+,{ "nse_code":"J&KBANK","nse_name":"The Jammu & Kashmir Bank Limited","blu":"N","last_p":37.75,"v52_hi":65.75,"v52_lo":32.25 }
+,{ "nse_code":"ELECTHERM","nse_name":"Electrotherm (India) Limited","blu":"N","last_p":159.30,"v52_hi":380.10,"v52_lo":129.00 }
+,{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":41.90,"v52_hi":110.00,"v52_lo":35.55 }
+,{ "nse_code":"SEAMECLTD","nse_name":"Seamec Limited","blu":"N","last_p":377.65,"v52_hi":507.40,"v52_lo":271.05 }
+,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":223.80,"v52_hi":351.85,"v52_lo":131.15 }
+,{ "nse_code":"ASIANTILES","nse_name":"Asian Granito India Limited","blu":"N","last_p":223.75,"v52_hi":274.85,"v52_lo":142.05 }
+,{ "nse_code":"MATRIMONY","nse_name":"Matrimony.Com Limited","blu":"N","last_p":574.20,"v52_hi":755.60,"v52_lo":364.00 }
+,{ "nse_code":"ALLSEC","nse_name":"Allsec Technologies Limited","blu":"N","last_p":269.70,"v52_hi":319.80,"v52_lo":165.00 }
+,{ "nse_code":"APCL","nse_name":"Anjani Portland Cement Limited","blu":"N","last_p":152.15,"v52_hi":192.70,"v52_lo":96.00 }
+,{ "nse_code":"DCMSHRIRAM","nse_name":"DCM Shriram Limited","blu":"N","last_p":407.20,"v52_hi":638.50,"v52_lo":275.00 }
+,{ "nse_code":"TANLA","nse_name":"Tanla Solutions Limited","blu":"N","last_p":46.60,"v52_hi":76.40,"v52_lo":29.80 }
  ]
