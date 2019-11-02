@@ -117,6 +117,7 @@
 ,{"nse_code":"AUSOMENT","nse_name":"Ausom Enterprise Limited"}
 ,{"nse_code":"AUTOAXLES","nse_name":"Automotive Axles Limited"}
 ,{"nse_code":"AUTOIND","nse_name":"Autoline Industries Limited"}
+,{"nse_code":"AUTOLITIND","nse_name":"Autolite (India) Limited"}
 ,{"nse_code":"AVADHSUGAR","nse_name":"Avadh Sugar & Energy Limited"}
 ,{"nse_code":"AVANTIFEED","nse_name":"Avanti Feeds Limited"}
 ,{"nse_code":"AVTNPL","nse_name":"AVT Natural Products Limited"}
@@ -336,7 +337,6 @@
 ,{"nse_code":"ESSARSHPNG","nse_name":"Essar Shipping Limited"}
 ,{"nse_code":"ESSELPACK","nse_name":"Essel Propack Limited"}
 ,{"nse_code":"ESTER","nse_name":"Ester Industries Limited"}
-,{"nse_code":"EUROTEXIND","nse_name":"Eurotex Industries and Exports Limited"}
 ,{"nse_code":"EVEREADY","nse_name":"Eveready Industries India Limited"}
 ,{"nse_code":"EVERESTIND","nse_name":"Everest Industries Limited"}
 ,{"nse_code":"EXCELCROP","nse_name":"Excel Crop Care Limited"}
@@ -371,6 +371,7 @@
 ,{"nse_code":"GANDHITUBE","nse_name":"Gandhi Special Tubes Limited"}
 ,{"nse_code":"GANECOS","nse_name":"Ganesha Ecosphere Limited"}
 ,{"nse_code":"GANESHHOUC","nse_name":"Ganesh Housing Corporation Limited"}
+,{"nse_code":"GANGESSECU","nse_name":"Ganges Securities Limited"}
 ,{"nse_code":"GARDENSILK","nse_name":"Garden Silk Mills Limited"}
 ,{"nse_code":"GATI","nse_name":"GATI Limited"}
 ,{"nse_code":"GAYAPROJ","nse_name":"Gayatri Projects Limited"}
@@ -424,6 +425,7 @@
 ,{"nse_code":"GREENPLY","nse_name":"Greenply Industries Limited"}
 ,{"nse_code":"GREENPOWER","nse_name":"Orient Green Power Company Limited"}
 ,{"nse_code":"GRINDWELL","nse_name":"Grindwell Norton Limited"}
+,{"nse_code":"GROBTEA","nse_name":"The Grob Tea Company Limited"}
 ,{"nse_code":"GRPLTD","nse_name":"GRP Limited"}
 ,{"nse_code":"GRUH","nse_name":"Gruh Finance Limited"}
 ,{"nse_code":"GSCLCEMENT","nse_name":"Gujarat Sidhee Cement Limited"}
@@ -1064,6 +1066,7 @@
 ,{"nse_code":"SOLARINDS","nse_name":"Solar Industries India Limited"}
 ,{"nse_code":"SOMANYCERA","nse_name":"Somany Ceramics Limited"}
 ,{"nse_code":"SOMATEX","nse_name":"Soma Textiles & Industries Limited"}
+,{"nse_code":"SOMICONVEY","nse_name":"Somi Conveyor Beltings Limited"}
 ,{"nse_code":"SONATSOFTW","nse_name":"Sonata Software Limited"}
 ,{"nse_code":"SORILINFRA","nse_name":"SORIL Infra Resources Limited"}
 ,{"nse_code":"SOTL","nse_name":"Savita Oil Technologies Limited"}
@@ -1089,6 +1092,7 @@
 ,{"nse_code":"STEELXIND","nse_name":"STEEL EXCHANGE INDIA LIMITED"}
 ,{"nse_code":"STEL","nse_name":"Stel Holdings Limited"}
 ,{"nse_code":"STERTOOLS","nse_name":"Sterling Tools Limited"}
+,{"nse_code":"STINDIA","nse_name":"STI India Limited"}
 ,{"nse_code":"STRTECH","nse_name":"Sterlite Technologies Limited"}
 ,{"nse_code":"SUBEX","nse_name":"Subex Limited"}
 ,{"nse_code":"SUBROS","nse_name":"Subros Limited"}
@@ -1202,7 +1206,6 @@
 ,{"nse_code":"TVSMOTOR","nse_name":"TVS Motor Company Limited"}
 ,{"nse_code":"TVSSRICHAK","nse_name":"TVS Srichakra Limited"}
 ,{"nse_code":"TVTODAY","nse_name":"TV Today Network Limited"}
-,{"nse_code":"TVVISION","nse_name":"TV Vision Limited"}
 ,{"nse_code":"TWL","nse_name":"Titagarh Wagons Limited"}
 ,{"nse_code":"UBL","nse_name":"United Breweries Limited"}
 ,{"nse_code":"UCALFUEL","nse_name":"Ucal Fuel Systems Limited"}
