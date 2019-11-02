@@ -1,6 +1,5 @@
 [ 
-{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":44.30,"v52_hi":110.00,"v52_lo":35.45 }
-,{ "nse_code":"GLOBALVECT","nse_name":"Global Vectra Helicorp Limited","blu":"N","last_p":60.35,"v52_hi":126.90,"v52_lo":41.00 }
-,{ "nse_code":"ALLSEC","nse_name":"Allsec Technologies Limited","blu":"N","last_p":271.70,"v52_hi":319.80,"v52_lo":165.00 }
-,{ "nse_code":"DBL","nse_name":"Dilip Buildcon Limited","blu":"N","last_p":456.00,"v52_hi":734.80,"v52_lo":312.25 }
+{ "nse_code":"DBL","nse_name":"Dilip Buildcon Limited","blu":"N","last_p":447.50,"v52_hi":734.80,"v52_lo":312.25 }
+,{ "nse_code":"ALLSEC","nse_name":"Allsec Technologies Limited","blu":"N","last_p":266.10,"v52_hi":319.80,"v52_lo":165.00 }
+,{ "nse_code":"ASIANTILES","nse_name":"Asian Granito India Limited","blu":"N","last_p":234.95,"v52_hi":274.85,"v52_lo":142.05 }
  ]
