@@ -1,10 +1,11 @@
 [ 
-{ "nse_code":"TFL","nse_name":"Transwarranty Finance Limited","blu":"N","last_p":4.00,"v52_hi":9.70,"v52_lo":3.65 }
-,{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":41.70,"v52_hi":110.00,"v52_lo":35.55 }
-,{ "nse_code":"ELECTHERM","nse_name":"Electrotherm (India) Limited","blu":"N","last_p":163.50,"v52_hi":380.10,"v52_lo":129.00 }
-,{ "nse_code":"SEAMECLTD","nse_name":"Seamec Limited","blu":"N","last_p":339.60,"v52_hi":507.40,"v52_lo":271.05 }
-,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":224.10,"v52_hi":351.85,"v52_lo":131.15 }
-,{ "nse_code":"J&KBANK","nse_name":"The Jammu & Kashmir Bank Limited","blu":"N","last_p":43.85,"v52_hi":65.75,"v52_lo":32.25 }
-,{ "nse_code":"ASIANTILES","nse_name":"Asian Granito India Limited","blu":"N","last_p":219.80,"v52_hi":274.85,"v52_lo":142.05 }
-,{ "nse_code":"MATRIMONY","nse_name":"Matrimony.Com Limited","blu":"N","last_p":587.55,"v52_hi":755.60,"v52_lo":364.00 }
+{ "nse_code":"TFL","nse_name":"Transwarranty Finance Limited","blu":"N","last_p":4.10,"v52_hi":9.70,"v52_lo":3.65 }
+,{ "nse_code":"ELECTHERM","nse_name":"Electrotherm (India) Limited","blu":"N","last_p":164.80,"v52_hi":380.10,"v52_lo":129.00 }
+,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":222.85,"v52_hi":351.85,"v52_lo":131.15 }
+,{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":43.65,"v52_hi":110.00,"v52_lo":35.55 }
+,{ "nse_code":"SEAMECLTD","nse_name":"Seamec Limited","blu":"N","last_p":385.35,"v52_hi":507.40,"v52_lo":271.05 }
+,{ "nse_code":"REDINGTON","nse_name":"Redington (India) Limited","blu":"N","last_p":92.40,"v52_hi":115.50,"v52_lo":64.00 }
+,{ "nse_code":"ASIANTILES","nse_name":"Asian Granito India Limited","blu":"N","last_p":229.20,"v52_hi":274.85,"v52_lo":142.05 }
+,{ "nse_code":"MATRIMONY","nse_name":"Matrimony.Com Limited","blu":"N","last_p":597.15,"v52_hi":755.60,"v52_lo":364.00 }
+,{ "nse_code":"J&KBANK","nse_name":"The Jammu & Kashmir Bank Limited","blu":"N","last_p":44.15,"v52_hi":65.75,"v52_lo":32.25 }
  ]
