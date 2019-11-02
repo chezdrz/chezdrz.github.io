@@ -242,6 +242,7 @@
 ,{"nse_code":"COMPINFO","nse_name":"Compuage Infocom Limited"}
 ,{"nse_code":"COMPUSOFT","nse_name":"Compucom Software Limited"}
 ,{"nse_code":"CONCOR","nse_name":"Container Corporation of India Limited"}
+,{"nse_code":"CONSOFINVT","nse_name":"Consolidated Finvest & Holdings Limited"}
 ,{"nse_code":"CONTROLPR","nse_name":"Control Print Limited"}
 ,{"nse_code":"CORALFINAC","nse_name":"Coral India Finance & Housing Limited"}
 ,{"nse_code":"CORDSCABLE","nse_name":"Cords Cable Industries Limited"}
@@ -368,6 +369,7 @@
 ,{"nse_code":"GANDHITUBE","nse_name":"Gandhi Special Tubes Limited"}
 ,{"nse_code":"GANECOS","nse_name":"Ganesha Ecosphere Limited"}
 ,{"nse_code":"GANESHHOUC","nse_name":"Ganesh Housing Corporation Limited"}
+,{"nse_code":"GANGESSECU","nse_name":"Ganges Securities Limited"}
 ,{"nse_code":"GARDENSILK","nse_name":"Garden Silk Mills Limited"}
 ,{"nse_code":"GATI","nse_name":"GATI Limited"}
 ,{"nse_code":"GAYAPROJ","nse_name":"Gayatri Projects Limited"}
@@ -455,6 +457,7 @@
 ,{"nse_code":"HDFC","nse_name":"Housing Development Finance Corporation Limited"}
 ,{"nse_code":"HDFCBANK","nse_name":"HDFC Bank Limited"}
 ,{"nse_code":"HDFCLIFE","nse_name":"HDFC Standard Life Insurance Company Limited"}
+,{"nse_code":"HDIL","nse_name":"Housing Development and Infrastructure Limited"}
 ,{"nse_code":"HEG","nse_name":"HEG Limited"}
 ,{"nse_code":"HEIDELBERG","nse_name":"HeidelbergCement India Limited"}
 ,{"nse_code":"HERCULES","nse_name":"Hercules Hoists Limited"}
@@ -969,6 +972,7 @@
 ,{"nse_code":"RUCHIRA","nse_name":"Ruchira Papers Limited"}
 ,{"nse_code":"RUCHISOYA","nse_name":"Ruchi Soya Industries Limited"}
 ,{"nse_code":"RUPA","nse_name":"Rupa & Company Limited"}
+,{"nse_code":"SABEVENTS","nse_name":"Sab Events & Governance Now Media Limited"}
 ,{"nse_code":"SABTN","nse_name":"Sri Adhikari Brothers Television Network Limited"}
 ,{"nse_code":"SADBHAV","nse_name":"Sadbhav Engineering Limited"}
 ,{"nse_code":"SADBHIN","nse_name":"Sadbhav Infrastructure Project Limited"}
@@ -1032,7 +1036,6 @@
 ,{"nse_code":"SHRIRAMCIT","nse_name":"Shriram City Union Finance Limited"}
 ,{"nse_code":"SHRIRAMEPC","nse_name":"Shriram EPC Limited"}
 ,{"nse_code":"SHYAMCENT","nse_name":"Shyam Century Ferrous Limited"}
-,{"nse_code":"SICAL","nse_name":"Sical Logistics Limited"}
 ,{"nse_code":"SIEMENS","nse_name":"Siemens Limited"}
 ,{"nse_code":"SILINV","nse_name":"SIL Investments Limited"}
 ,{"nse_code":"SIMBHALS","nse_name":"Simbhaoli Sugars Limited"}
@@ -1136,13 +1139,13 @@
 ,{"nse_code":"TATASTEEL","nse_name":"Tata Steel Limited"}
 ,{"nse_code":"TBZ","nse_name":"Tribhovandas Bhimji Zaveri Limited"}
 ,{"nse_code":"TCI","nse_name":"Transport Corporation of India Limited"}
-,{"nse_code":"TCIDEVELOP","nse_name":"TCI Developers Limited"}
 ,{"nse_code":"TCIEXP","nse_name":"TCI Express Limited"}
 ,{"nse_code":"TCIFINANCE","nse_name":"TCI Finance Limited"}
 ,{"nse_code":"TCPLPACK","nse_name":"TCPL Packaging Limited"}
 ,{"nse_code":"TCS","nse_name":"Tata Consultancy Services Limited"}
 ,{"nse_code":"TDPOWERSYS","nse_name":"TD Power Systems Limited"}
 ,{"nse_code":"TEAMLEASE","nse_name":"Teamlease Services Limited"}
+,{"nse_code":"TECHIN","nse_name":"Techindia Nirman Limited"}
 ,{"nse_code":"TECHM","nse_name":"Tech Mahindra Limited"}
 ,{"nse_code":"TECHNOFAB","nse_name":"Technofab Engineering Limited"}
 ,{"nse_code":"TEJASNET","nse_name":"Tejas Networks Limited"}
