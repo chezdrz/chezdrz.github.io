@@ -1,9 +1,9 @@
 [ 
-{ "nse_code":"DBL","nse_name":"Dilip Buildcon Limited","blu":"N","last_p":428.75,"v52_hi":734.80,"v52_lo":312.25 }
-,{ "nse_code":"COUNCODOS","nse_name":"Country Condo's Limited","blu":"N","last_p":1.70,"v52_hi":5.15,"v52_lo":1.70 }
-,{ "nse_code":"GLOBALVECT","nse_name":"Global Vectra Helicorp Limited","blu":"N","last_p":59.45,"v52_hi":126.90,"v52_lo":41.00 }
-,{ "nse_code":"MAHASTEEL","nse_name":"Mahamaya Steel Industries Limited","blu":"N","last_p":132.35,"v52_hi":218.45,"v52_lo":78.00 }
-,{ "nse_code":"JUSTDIAL","nse_name":"Just Dial Limited","blu":"N","last_p":700.10,"v52_hi":824.80,"v52_lo":453.85 }
-,{ "nse_code":"GOLDIAM","nse_name":"Goldiam International Limited","blu":"N","last_p":113.20,"v52_hi":136.50,"v52_lo":70.10 }
-,{ "nse_code":"DCMSHRIRAM","nse_name":"DCM Shriram Limited","blu":"N","last_p":433.10,"v52_hi":638.50,"v52_lo":275.00 }
+{ "nse_code":"DBL","nse_name":"Dilip Buildcon Limited","blu":"N","last_p":426.90,"v52_hi":734.80,"v52_lo":312.25 }
+,{ "nse_code":"COUNCODOS","nse_name":"Country Condo's Limited","blu":"N","last_p":1.75,"v52_hi":5.15,"v52_lo":1.70 }
+,{ "nse_code":"GLOBALVECT","nse_name":"Global Vectra Helicorp Limited","blu":"N","last_p":59.95,"v52_hi":126.90,"v52_lo":41.00 }
+,{ "nse_code":"MAHASTEEL","nse_name":"Mahamaya Steel Industries Limited","blu":"N","last_p":130.85,"v52_hi":218.45,"v52_lo":78.00 }
+,{ "nse_code":"DCMSHRIRAM","nse_name":"DCM Shriram Limited","blu":"N","last_p":415.70,"v52_hi":638.50,"v52_lo":275.00 }
+,{ "nse_code":"RELIGARE","nse_name":"Religare Enterprises Limited","blu":"N","last_p":31.90,"v52_hi":45.20,"v52_lo":16.90 }
+,{ "nse_code":"GOLDIAM","nse_name":"Goldiam International Limited","blu":"N","last_p":114.35,"v52_hi":136.50,"v52_lo":70.10 }
  ]
