@@ -224,6 +224,7 @@
 ,{"nse_code":"CEREBRAINT","nse_name":"Cerebra Integrated Technologies Limited"}
 ,{"nse_code":"CESC","nse_name":"CESC Limited"}
 ,{"nse_code":"CGCL","nse_name":"Capri Global Capital Limited"}
+,{"nse_code":"CGPOWER","nse_name":"CG Power and Industrial Solutions Limited"}
 ,{"nse_code":"CHAMBLFERT","nse_name":"Chambal Fertilizers & Chemicals Limited"}
 ,{"nse_code":"CHENNPETRO","nse_name":"Chennai Petroleum Corporation Limited"}
 ,{"nse_code":"CHROMATIC","nse_name":"Chromatic India Limited"}
@@ -457,7 +458,6 @@
 ,{"nse_code":"HDFC","nse_name":"Housing Development Finance Corporation Limited"}
 ,{"nse_code":"HDFCBANK","nse_name":"HDFC Bank Limited"}
 ,{"nse_code":"HDFCLIFE","nse_name":"HDFC Standard Life Insurance Company Limited"}
-,{"nse_code":"HDIL","nse_name":"Housing Development and Infrastructure Limited"}
 ,{"nse_code":"HEG","nse_name":"HEG Limited"}
 ,{"nse_code":"HEIDELBERG","nse_name":"HeidelbergCement India Limited"}
 ,{"nse_code":"HERCULES","nse_name":"Hercules Hoists Limited"}
@@ -785,7 +785,6 @@
 ,{"nse_code":"NBVENTURES","nse_name":"Nava Bharat Ventures Limited"}
 ,{"nse_code":"NCC","nse_name":"NCC Limited"}
 ,{"nse_code":"NCLIND","nse_name":"NCL Industries Limited"}
-,{"nse_code":"NDGL","nse_name":"Naga Dhunseri Group Limited"}
 ,{"nse_code":"NDL","nse_name":"Nandan Denim Limited"}
 ,{"nse_code":"NDTV","nse_name":"New Delhi Television Limited"}
 ,{"nse_code":"NECCLTD","nse_name":"North Eastern Carrying Corporation Limited"}
@@ -841,7 +840,6 @@
 ,{"nse_code":"ORIENTBELL","nse_name":"Orient Bell Limited"}
 ,{"nse_code":"ORIENTCEM","nse_name":"Orient Cement Limited"}
 ,{"nse_code":"ORIENTHOT","nse_name":"Oriental Hotels Limited"}
-,{"nse_code":"ORIENTLTD","nse_name":"Orient Press Limited"}
 ,{"nse_code":"ORIENTPPR","nse_name":"Orient Paper & Industries Limited"}
 ,{"nse_code":"ORIENTREF","nse_name":"Orient Refractories Limited"}
 ,{"nse_code":"ORISSAMINE","nse_name":"The Orissa Minerals Development Company Limited"}
@@ -1139,13 +1137,13 @@
 ,{"nse_code":"TATASTEEL","nse_name":"Tata Steel Limited"}
 ,{"nse_code":"TBZ","nse_name":"Tribhovandas Bhimji Zaveri Limited"}
 ,{"nse_code":"TCI","nse_name":"Transport Corporation of India Limited"}
+,{"nse_code":"TCIDEVELOP","nse_name":"TCI Developers Limited"}
 ,{"nse_code":"TCIEXP","nse_name":"TCI Express Limited"}
 ,{"nse_code":"TCIFINANCE","nse_name":"TCI Finance Limited"}
 ,{"nse_code":"TCPLPACK","nse_name":"TCPL Packaging Limited"}
 ,{"nse_code":"TCS","nse_name":"Tata Consultancy Services Limited"}
 ,{"nse_code":"TDPOWERSYS","nse_name":"TD Power Systems Limited"}
 ,{"nse_code":"TEAMLEASE","nse_name":"Teamlease Services Limited"}
-,{"nse_code":"TECHIN","nse_name":"Techindia Nirman Limited"}
 ,{"nse_code":"TECHM","nse_name":"Tech Mahindra Limited"}
 ,{"nse_code":"TECHNOFAB","nse_name":"Technofab Engineering Limited"}
 ,{"nse_code":"TEJASNET","nse_name":"Tejas Networks Limited"}
@@ -1208,7 +1206,6 @@
 ,{"nse_code":"UJJIVAN","nse_name":"Ujjivan Financial Services Limited"}
 ,{"nse_code":"ULTRACEMCO","nse_name":"UltraTech Cement Limited"}
 ,{"nse_code":"UMANGDAIRY","nse_name":"Umang Dairies Limited"}
-,{"nse_code":"UMESLTD","nse_name":"Usha Martin Education & Solutions Limited"}
 ,{"nse_code":"UNICHEMLAB","nse_name":"Unichem Laboratories Limited"}
 ,{"nse_code":"UNIENTER","nse_name":"Uniphos Enterprises Limited"}
 ,{"nse_code":"UNIONBANK","nse_name":"Union Bank of India"}
