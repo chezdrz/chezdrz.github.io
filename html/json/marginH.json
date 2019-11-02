@@ -1,16 +1,17 @@
 [ 
-{ "nse_code":"J&KBANK","nse_name":"The Jammu & Kashmir Bank Limited","blu":"N","last_p":36.80,"v52_hi":65.75,"v52_lo":31.10 }
-,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":222.55,"v52_hi":351.85,"v52_lo":131.15 }
-,{ "nse_code":"ELECTHERM","nse_name":"Electrotherm (India) Limited","blu":"N","last_p":152.75,"v52_hi":380.10,"v52_lo":114.20 }
-,{ "nse_code":"SEAMECLTD","nse_name":"Seamec Limited","blu":"N","last_p":324.40,"v52_hi":507.40,"v52_lo":271.05 }
-,{ "nse_code":"TFL","nse_name":"Transwarranty Finance Limited","blu":"N","last_p":4.10,"v52_hi":9.70,"v52_lo":3.65 }
-,{ "nse_code":"MATRIMONY","nse_name":"Matrimony.Com Limited","blu":"N","last_p":539.90,"v52_hi":755.60,"v52_lo":364.00 }
-,{ "nse_code":"GLOBALVECT","nse_name":"Global Vectra Helicorp Limited","blu":"N","last_p":57.30,"v52_hi":126.90,"v52_lo":41.00 }
-,{ "nse_code":"ASIANTILES","nse_name":"Asian Granito India Limited","blu":"N","last_p":218.85,"v52_hi":274.85,"v52_lo":142.05 }
-,{ "nse_code":"DCMSHRIRAM","nse_name":"DCM Shriram Limited","blu":"N","last_p":388.00,"v52_hi":638.50,"v52_lo":275.00 }
-,{ "nse_code":"RELIGARE","nse_name":"Religare Enterprises Limited","blu":"N","last_p":28.90,"v52_hi":45.20,"v52_lo":16.90 }
-,{ "nse_code":"APCL","nse_name":"Anjani Portland Cement Limited","blu":"N","last_p":141.20,"v52_hi":192.70,"v52_lo":96.00 }
-,{ "nse_code":"FAIRCHEM","nse_name":"Fairchem Speciality Limited","blu":"N","last_p":488.20,"v52_hi":582.00,"v52_lo":320.20 }
-,{ "nse_code":"SRF","nse_name":"SRF Limited","blu":"N","last_p":2740.60,"v52_hi":3086.10,"v52_lo":1947.60 }
-,{ "nse_code":"63MOONS","nse_name":"63 moons technologies limited","blu":"N","last_p":114.65,"v52_hi":184.75,"v52_lo":70.85 }
+{ "nse_code":"ELECTHERM","nse_name":"Electrotherm (India) Limited","blu":"N","last_p":156.85,"v52_hi":380.10,"v52_lo":114.20 }
+,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":218.95,"v52_hi":351.85,"v52_lo":131.15 }
+,{ "nse_code":"SEAMECLTD","nse_name":"Seamec Limited","blu":"N","last_p":325.70,"v52_hi":507.40,"v52_lo":271.05 }
+,{ "nse_code":"TFL","nse_name":"Transwarranty Finance Limited","blu":"N","last_p":4.30,"v52_hi":9.70,"v52_lo":3.65 }
+,{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":43.65,"v52_hi":110.00,"v52_lo":35.45 }
+,{ "nse_code":"DCMSHRIRAM","nse_name":"DCM Shriram Limited","blu":"N","last_p":382.45,"v52_hi":638.50,"v52_lo":275.00 }
+,{ "nse_code":"MATRIMONY","nse_name":"Matrimony.Com Limited","blu":"N","last_p":529.70,"v52_hi":755.60,"v52_lo":364.00 }
+,{ "nse_code":"ASIANTILES","nse_name":"Asian Granito India Limited","blu":"N","last_p":217.70,"v52_hi":274.85,"v52_lo":142.05 }
+,{ "nse_code":"GLOBALVECT","nse_name":"Global Vectra Helicorp Limited","blu":"N","last_p":58.85,"v52_hi":126.90,"v52_lo":41.00 }
+,{ "nse_code":"APCL","nse_name":"Anjani Portland Cement Limited","blu":"N","last_p":140.70,"v52_hi":192.70,"v52_lo":96.00 }
+,{ "nse_code":"J&KBANK","nse_name":"The Jammu & Kashmir Bank Limited","blu":"N","last_p":41.55,"v52_hi":65.75,"v52_lo":31.10 }
+,{ "nse_code":"RELIGARE","nse_name":"Religare Enterprises Limited","blu":"N","last_p":30.30,"v52_hi":45.20,"v52_lo":16.90 }
+,{ "nse_code":"FAIRCHEM","nse_name":"Fairchem Speciality Limited","blu":"N","last_p":485.15,"v52_hi":582.00,"v52_lo":320.20 }
+,{ "nse_code":"63MOONS","nse_name":"63 moons technologies limited","blu":"N","last_p":110.10,"v52_hi":184.75,"v52_lo":70.85 }
+,{ "nse_code":"TARAPUR","nse_name":"Tarapur Transformers Limited","blu":"N","last_p":5.15,"v52_hi":6.80,"v52_lo":2.80 }
  ]
