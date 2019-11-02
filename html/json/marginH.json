@@ -1,10 +1,11 @@
 [ 
-{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":38.00,"v52_hi":110.00,"v52_lo":35.55 }
-,{ "nse_code":"TFL","nse_name":"Transwarranty Finance Limited","blu":"N","last_p":4.45,"v52_hi":9.70,"v52_lo":3.65 }
-,{ "nse_code":"ELECTHERM","nse_name":"Electrotherm (India) Limited","blu":"N","last_p":177.60,"v52_hi":380.10,"v52_lo":129.00 }
-,{ "nse_code":"ASIANTILES","nse_name":"Asian Granito India Limited","blu":"N","last_p":210.35,"v52_hi":274.85,"v52_lo":142.05 }
-,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":227.55,"v52_hi":351.85,"v52_lo":131.15 }
-,{ "nse_code":"SEAMECLTD","nse_name":"Seamec Limited","blu":"N","last_p":401.00,"v52_hi":507.40,"v52_lo":271.05 }
-,{ "nse_code":"MATRIMONY","nse_name":"Matrimony.Com Limited","blu":"N","last_p":575.10,"v52_hi":755.60,"v52_lo":364.00 }
-,{ "nse_code":"TARAPUR","nse_name":"Tarapur Transformers Limited","blu":"N","last_p":4.90,"v52_hi":6.80,"v52_lo":2.80 }
+{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":39.60,"v52_hi":110.00,"v52_lo":35.55 }
+,{ "nse_code":"TFL","nse_name":"Transwarranty Finance Limited","blu":"N","last_p":4.25,"v52_hi":9.70,"v52_lo":3.65 }
+,{ "nse_code":"ELECTHERM","nse_name":"Electrotherm (India) Limited","blu":"N","last_p":168.75,"v52_hi":380.10,"v52_lo":129.00 }
+,{ "nse_code":"CANTABIL","nse_name":"Cantabil Retail India Limited","blu":"N","last_p":222.20,"v52_hi":351.85,"v52_lo":131.15 }
+,{ "nse_code":"SEAMECLTD","nse_name":"Seamec Limited","blu":"N","last_p":367.60,"v52_hi":507.40,"v52_lo":271.05 }
+,{ "nse_code":"REDINGTON","nse_name":"Redington (India) Limited","blu":"N","last_p":96.35,"v52_hi":115.50,"v52_lo":64.00 }
+,{ "nse_code":"ASIANTILES","nse_name":"Asian Granito India Limited","blu":"N","last_p":201.00,"v52_hi":274.85,"v52_lo":142.05 }
+,{ "nse_code":"MATRIMONY","nse_name":"Matrimony.Com Limited","blu":"N","last_p":568.35,"v52_hi":755.60,"v52_lo":364.00 }
+,{ "nse_code":"TARAPUR","nse_name":"Tarapur Transformers Limited","blu":"N","last_p":4.70,"v52_hi":6.80,"v52_lo":2.80 }
  ]
