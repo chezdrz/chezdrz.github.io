@@ -256,6 +256,7 @@
 ,{"nse_code":"CUB","nse_name":"City Union Bank Limited"}
 ,{"nse_code":"CUMMINSIND","nse_name":"Cummins India Limited"}
 ,{"nse_code":"CUPID","nse_name":"Cupid Limited"}
+,{"nse_code":"CYBERMEDIA","nse_name":"Cyber Media (India) Limited"}
 ,{"nse_code":"CYBERTECH","nse_name":"Cybertech Systems And Software Limited"}
 ,{"nse_code":"CYIENT","nse_name":"Cyient Limited"}
 ,{"nse_code":"DAAWAT","nse_name":"LT Foods Limited"}
@@ -334,6 +335,7 @@
 ,{"nse_code":"ESSARSHPNG","nse_name":"Essar Shipping Limited"}
 ,{"nse_code":"ESSELPACK","nse_name":"Essel Propack Limited"}
 ,{"nse_code":"ESTER","nse_name":"Ester Industries Limited"}
+,{"nse_code":"EUROTEXIND","nse_name":"Eurotex Industries and Exports Limited"}
 ,{"nse_code":"EVEREADY","nse_name":"Eveready Industries India Limited"}
 ,{"nse_code":"EVERESTIND","nse_name":"Everest Industries Limited"}
 ,{"nse_code":"EXCELINDUS","nse_name":"Excel Industries Limited"}
@@ -782,6 +784,7 @@
 ,{"nse_code":"NBVENTURES","nse_name":"Nava Bharat Ventures Limited"}
 ,{"nse_code":"NCC","nse_name":"NCC Limited"}
 ,{"nse_code":"NCLIND","nse_name":"NCL Industries Limited"}
+,{"nse_code":"NDGL","nse_name":"Naga Dhunseri Group Limited"}
 ,{"nse_code":"NDL","nse_name":"Nandan Denim Limited"}
 ,{"nse_code":"NDTV","nse_name":"New Delhi Television Limited"}
 ,{"nse_code":"NECCLTD","nse_name":"North Eastern Carrying Corporation Limited"}
@@ -967,6 +970,7 @@
 ,{"nse_code":"RUCHIRA","nse_name":"Ruchira Papers Limited"}
 ,{"nse_code":"RUCHISOYA","nse_name":"Ruchi Soya Industries Limited"}
 ,{"nse_code":"RUPA","nse_name":"Rupa & Company Limited"}
+,{"nse_code":"SABEVENTS","nse_name":"Sab Events & Governance Now Media Limited"}
 ,{"nse_code":"SABTN","nse_name":"Sri Adhikari Brothers Television Network Limited"}
 ,{"nse_code":"SADBHAV","nse_name":"Sadbhav Engineering Limited"}
 ,{"nse_code":"SADBHIN","nse_name":"Sadbhav Infrastructure Project Limited"}
@@ -1002,6 +1006,7 @@
 ,{"nse_code":"SEAMECLTD","nse_name":"Seamec Limited"}
 ,{"nse_code":"SELAN","nse_name":"Selan Exploration Technology Limited"}
 ,{"nse_code":"SELMCL","nse_name":"SEL Manufacturing Company Limited"}
+,{"nse_code":"SEPOWER","nse_name":"S.E. Power Limited"}
 ,{"nse_code":"SEQUENT","nse_name":"Sequent Scientific Limited"}
 ,{"nse_code":"SETCO","nse_name":"Setco Automotive Limited"}
 ,{"nse_code":"SFL","nse_name":"Sheela Foam Limited"}
@@ -1017,6 +1022,7 @@
 ,{"nse_code":"SHILPAMED","nse_name":"Shilpa Medicare Limited"}
 ,{"nse_code":"SHIRPUR-G","nse_name":"Shirpur Gold Refinery Limited"}
 ,{"nse_code":"SHIVAMAUTO","nse_name":"Shivam Autotech Limited"}
+,{"nse_code":"SHIVAMILLS","nse_name":"Shiva Mills Limited"}
 ,{"nse_code":"SHIVATEX","nse_name":"Shiva Texyarn Limited"}
 ,{"nse_code":"SHK","nse_name":"S H Kelkar and Company Limited"}
 ,{"nse_code":"SHOPERSTOP","nse_name":"Shoppers Stop Limited"}
@@ -1073,7 +1079,6 @@
 ,{"nse_code":"STEELXIND","nse_name":"STEEL EXCHANGE INDIA LIMITED"}
 ,{"nse_code":"STEL","nse_name":"Stel Holdings Limited"}
 ,{"nse_code":"STERTOOLS","nse_name":"Sterling Tools Limited"}
-,{"nse_code":"STINDIA","nse_name":"STI India Limited"}
 ,{"nse_code":"STRTECH","nse_name":"Sterlite Technologies Limited"}
 ,{"nse_code":"SUBEX","nse_name":"Subex Limited"}
 ,{"nse_code":"SUBROS","nse_name":"Subros Limited"}
@@ -1107,7 +1112,6 @@
 ,{"nse_code":"SWELECTES","nse_name":"Swelect Energy Systems Limited"}
 ,{"nse_code":"SYMPHONY","nse_name":"Symphony Limited"}
 ,{"nse_code":"SYNDIBANK","nse_name":"Syndicate Bank"}
-,{"nse_code":"TAINWALCHM","nse_name":"Tainwala Chemical and Plastic (I) Limited"}
 ,{"nse_code":"TAJGVK","nse_name":"Taj GVK Hotels & Resorts Limited"}
 ,{"nse_code":"TAKE","nse_name":"Take Solutions Limited"}
 ,{"nse_code":"TALBROAUTO","nse_name":"Talbros Automotive Components Limited"}
@@ -1185,7 +1189,6 @@
 ,{"nse_code":"TVSMOTOR","nse_name":"TVS Motor Company Limited"}
 ,{"nse_code":"TVSSRICHAK","nse_name":"TVS Srichakra Limited"}
 ,{"nse_code":"TVTODAY","nse_name":"TV Today Network Limited"}
-,{"nse_code":"TVVISION","nse_name":"TV Vision Limited"}
 ,{"nse_code":"TWL","nse_name":"Titagarh Wagons Limited"}
 ,{"nse_code":"UBL","nse_name":"United Breweries Limited"}
 ,{"nse_code":"UCALFUEL","nse_name":"Ucal Fuel Systems Limited"}
