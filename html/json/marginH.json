@@ -1,5 +1,6 @@
 [ 
-{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":40.65,"v52_hi":110.00,"v52_lo":35.45 }
-,{ "nse_code":"REFEX","nse_name":"Refex Industries Limited","blu":"N","last_p":47.25,"v52_hi":81.75,"v52_lo":17.45 }
-,{ "nse_code":"MAHASTEEL","nse_name":"Mahamaya Steel Industries Limited","blu":"N","last_p":154.40,"v52_hi":218.45,"v52_lo":66.60 }
+{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":41.25,"v52_hi":110.00,"v52_lo":35.25 }
+,{ "nse_code":"REFEX","nse_name":"Refex Industries Limited","blu":"N","last_p":44.90,"v52_hi":81.75,"v52_lo":17.45 }
+,{ "nse_code":"SEAMECLTD","nse_name":"Seamec Limited","blu":"N","last_p":421.10,"v52_hi":507.40,"v52_lo":187.10 }
+,{ "nse_code":"MAHASTEEL","nse_name":"Mahamaya Steel Industries Limited","blu":"N","last_p":152.05,"v52_hi":218.45,"v52_lo":66.60 }
  ]
