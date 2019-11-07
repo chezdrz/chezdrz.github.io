@@ -21,7 +21,6 @@
 ,{"nse_code":"ADANITRANS","nse_name":"Adani Transmission Limited"}
 ,{"nse_code":"ADFFOODS","nse_name":"ADF Foods Limited"}
 ,{"nse_code":"ADHUNIKIND","nse_name":"Adhunik Industries Limited"}
-,{"nse_code":"ADLABS","nse_name":"Adlabs Entertainment Limited"}
 ,{"nse_code":"ADORWELD","nse_name":"Ador Welding Limited"}
 ,{"nse_code":"ADSL","nse_name":"Allied Digital Services Limited"}
 ,{"nse_code":"ADVANIHOTR","nse_name":"Advani Hotels & Resorts (India) Limited"}
@@ -61,7 +60,6 @@
 ,{"nse_code":"ANANTRAJ","nse_name":"Anant Raj Limited"}
 ,{"nse_code":"ANDHRABANK","nse_name":"Andhra Bank"}
 ,{"nse_code":"ANDHRSUGAR","nse_name":"The Andhra Sugars Limited"}
-,{"nse_code":"ANIKINDS","nse_name":"Anik Industries Limited"}
 ,{"nse_code":"ANSALAPI","nse_name":"Ansal Properties & Infrastructure Limited"}
 ,{"nse_code":"ANSALHSG","nse_name":"Ansal Housing and Construction Limited"}
 ,{"nse_code":"APARINDS","nse_name":"Apar Industries Limited"}
@@ -75,6 +73,7 @@
 ,{"nse_code":"APOLSINHOT","nse_name":"Apollo Sindoori Hotels Limited"}
 ,{"nse_code":"APTECHT","nse_name":"Aptech Limited"}
 ,{"nse_code":"ARCHIDPLY","nse_name":"Archidply Industries Limited"}
+,{"nse_code":"ARENTERP","nse_name":"Rajdarshan Industries Limited"}
 ,{"nse_code":"ARIES","nse_name":"Aries Agro Limited"}
 ,{"nse_code":"ARMANFIN","nse_name":"Arman Financial Services Limited"}
 ,{"nse_code":"AROGRANITE","nse_name":"Aro Granite Industries Limited"}
@@ -185,7 +184,6 @@
 ,{"nse_code":"BUTTERFLY","nse_name":"Butterfly Gandhimathi Appliances Limited"}
 ,{"nse_code":"BYKE","nse_name":"The Byke Hospitality Ltd"}
 ,{"nse_code":"CADILAHC","nse_name":"Cadila Healthcare Limited"}
-,{"nse_code":"CALSOFT","nse_name":"California Software Company Limited"}
 ,{"nse_code":"CAMLINFINE","nse_name":"Camlin Fine Sciences Limited"}
 ,{"nse_code":"CANBK","nse_name":"Canara Bank"}
 ,{"nse_code":"CANFINHOME","nse_name":"Can Fin Homes Limited"}
@@ -594,7 +592,6 @@
 ,{"nse_code":"KCPSUGIND","nse_name":"KCP Sugar and Industries Corporation Limited"}
 ,{"nse_code":"KDDL","nse_name":"KDDL Limited"}
 ,{"nse_code":"KEC","nse_name":"KEC International Limited"}
-,{"nse_code":"KECL","nse_name":"Kirloskar Electric Company Limited"}
 ,{"nse_code":"KEI","nse_name":"KEI Industries Limited"}
 ,{"nse_code":"KELLTONTEC","nse_name":"Kellton Tech Solutions Limited"}
 ,{"nse_code":"KESARENT","nse_name":"Kesar Enterprises Limited"}
@@ -641,7 +638,6 @@
 ,{"nse_code":"LOKESHMACH","nse_name":"Lokesh Machines Limited"}
 ,{"nse_code":"LOTUSEYE","nse_name":"Lotus Eye Hospital and Institute Limited"}
 ,{"nse_code":"LOVABLE","nse_name":"Lovable Lingerie Limited"}
-,{"nse_code":"LPDC","nse_name":"Landmark Property Development Company Limited"}
 ,{"nse_code":"LSIL","nse_name":"Lloyds Steels Industries Limited"}
 ,{"nse_code":"LT","nse_name":"Larsen & Toubro Limited"}
 ,{"nse_code":"LTI","nse_name":"Larsen & Toubro Infotech Limited"}
@@ -701,8 +697,6 @@
 ,{"nse_code":"MEGH","nse_name":"Meghmani Organics Limited"}
 ,{"nse_code":"MENONBE","nse_name":"Menon Bearings Limited"}
 ,{"nse_code":"MEP","nse_name":"MEP Infrastructure Developers Limited"}
-,{"nse_code":"MERCATOR","nse_name":"Mercator Limited"}
-,{"nse_code":"METALFORGE","nse_name":"Metalyst Forgings Limited"}
 ,{"nse_code":"MFSL","nse_name":"Max Financial Services Limited"}
 ,{"nse_code":"MGL","nse_name":"Mahanagar Gas Limited"}
 ,{"nse_code":"MHRIL","nse_name":"Mahindra Holidays & Resorts India Limited"}
@@ -801,7 +795,6 @@
 ,{"nse_code":"ONGC","nse_name":"Oil & Natural Gas Corporation Limited"}
 ,{"nse_code":"ONMOBILE","nse_name":"OnMobile Global Limited"}
 ,{"nse_code":"ONWARDTEC","nse_name":"Onward Technologies Limited"}
-,{"nse_code":"OPTIEMUS","nse_name":"Optiemus Infracom Limited"}
 ,{"nse_code":"OPTOCIRCUI","nse_name":"Opto Circuits (India) Limited"}
 ,{"nse_code":"ORBTEXP","nse_name":"Orbit Exports Limited"}
 ,{"nse_code":"ORICONENT","nse_name":"Oricon Enterprises Limited"}
@@ -819,7 +812,6 @@
 ,{"nse_code":"PAGEIND","nse_name":"Page Industries Limited"}
 ,{"nse_code":"PAISALO","nse_name":"Paisalo Digital Limited"}
 ,{"nse_code":"PALASHSECU","nse_name":"Palash Securities Limited"}
-,{"nse_code":"PALREDTEC","nse_name":"Palred Technologies Limited"}
 ,{"nse_code":"PANACEABIO","nse_name":"Panacea Biotec Limited"}
 ,{"nse_code":"PANAMAPET","nse_name":"Panama Petrochem Limited"}
 ,{"nse_code":"PAPERPROD","nse_name":"Huhtamaki PPL Limited"}
@@ -832,7 +824,6 @@
 ,{"nse_code":"PCJEWELLER","nse_name":"PC Jeweller Limited"}
 ,{"nse_code":"PDMJEPAPER","nse_name":"Pudumjee Paper Products Limited"}
 ,{"nse_code":"PDSMFL","nse_name":"PDS Multinational Fashions Limited"}
-,{"nse_code":"PEARLPOLY","nse_name":"Pearl Polymers Limited"}
 ,{"nse_code":"PEL","nse_name":"Piramal Enterprises Limited"}
 ,{"nse_code":"PENIND","nse_name":"Pennar Industries Limited"}
 ,{"nse_code":"PENINLAND","nse_name":"Peninsula Land Limited"}
@@ -879,7 +870,6 @@
 ,{"nse_code":"PRESTIGE","nse_name":"Prestige Estates Projects Limited"}
 ,{"nse_code":"PRICOLLTD","nse_name":"Pricol Limited"}
 ,{"nse_code":"PRIMESECU","nse_name":"Prime Securities Limited"}
-,{"nse_code":"PROZONINTU","nse_name":"Prozone Intu Properties Limited"}
 ,{"nse_code":"PSB","nse_name":"Punjab & Sind Bank"}
 ,{"nse_code":"PSL","nse_name":"PSL Limited"}
 ,{"nse_code":"PSPPROJECT","nse_name":"PSP Projects Limited"}
@@ -935,7 +925,6 @@
 ,{"nse_code":"ROSSELLIND","nse_name":"Rossell India Limited"}
 ,{"nse_code":"RPGLIFE","nse_name":"RPG Life Sciences Limited"}
 ,{"nse_code":"RPPINFRA","nse_name":"R.P.P. Infra Projects Limited"}
-,{"nse_code":"RSSOFTWARE","nse_name":"R. S. Software (India) Limited"}
 ,{"nse_code":"RSWM","nse_name":"RSWM Limited"}
 ,{"nse_code":"RSYSTEMS","nse_name":"R Systems International Limited"}
 ,{"nse_code":"RTNINFRA","nse_name":"RattanIndia Infrastructure Limited"}
@@ -1044,7 +1033,6 @@
 ,{"nse_code":"STAR","nse_name":"Strides Shasun Limited"}
 ,{"nse_code":"STARCEMENT","nse_name":"Star Cement Limited"}
 ,{"nse_code":"STARPAPER","nse_name":"Star Paper Mills Limited"}
-,{"nse_code":"STCINDIA","nse_name":"The State Trading Corporation of India Limited"}
 ,{"nse_code":"STEELXIND","nse_name":"STEEL EXCHANGE INDIA LIMITED"}
 ,{"nse_code":"STEL","nse_name":"Stel Holdings Limited"}
 ,{"nse_code":"STERTOOLS","nse_name":"Sterling Tools Limited"}
@@ -1134,7 +1122,6 @@
 ,{"nse_code":"TITAN","nse_name":"Titan Company Limited"}
 ,{"nse_code":"TNPETRO","nse_name":"Tamilnadu PetroProducts Limited"}
 ,{"nse_code":"TNPL","nse_name":"Tamil Nadu Newsprint & Papers Limited"}
-,{"nse_code":"TOKYOPLAST","nse_name":"Tokyo Plast International Limited"}
 ,{"nse_code":"TORNTPHARM","nse_name":"Torrent Pharmaceuticals Limited"}
 ,{"nse_code":"TORNTPOWER","nse_name":"Torrent Power Limited"}
 ,{"nse_code":"TPLPLASTEH","nse_name":"TPL Plastech Limited"}
@@ -1176,7 +1163,6 @@
 ,{"nse_code":"UPL","nse_name":"UPL Limited"}
 ,{"nse_code":"URJA","nse_name":"Urja Global Limited"}
 ,{"nse_code":"USHAMART","nse_name":"Usha Martin Limited"}
-,{"nse_code":"UTTAMSTL","nse_name":"Uttam Galva Steels Limited"}
 ,{"nse_code":"UTTAMSUGAR","nse_name":"Uttam Sugar Mills Limited"}
 ,{"nse_code":"V2RETAIL","nse_name":"V2 Retail Limited"}
 ,{"nse_code":"VADILALIND","nse_name":"Vadilal Industries Limited"}
@@ -1202,7 +1188,6 @@
 ,{"nse_code":"VIPIND","nse_name":"VIP Industries Limited"}
 ,{"nse_code":"VIPULLTD","nse_name":"Vipul Limited"}
 ,{"nse_code":"VISAKAIND","nse_name":"Visaka Industries Limited"}
-,{"nse_code":"VISASTEEL","nse_name":"Visa Steel Limited"}
 ,{"nse_code":"VISHNU","nse_name":"Vishnu Chemicals Limited"}
 ,{"nse_code":"VIVIDHA","nse_name":"Visagar Polytex Limited"}
 ,{"nse_code":"VIVIMEDLAB","nse_name":"Vivimed Labs Limited"}
@@ -1223,7 +1208,6 @@
 ,{"nse_code":"WEIZMANIND","nse_name":"Weizmann Limited"}
 ,{"nse_code":"WELCORP","nse_name":"Welspun Corp Limited"}
 ,{"nse_code":"WELENT","nse_name":"Welspun Enterprises Limited"}
-,{"nse_code":"WELINV","nse_name":"Welspun Investments and Commercials Limited"}
 ,{"nse_code":"WELSPUNIND","nse_name":"Welspun India Limited"}
 ,{"nse_code":"WENDT","nse_name":"Wendt (India) Limited"}
 ,{"nse_code":"WHEELS","nse_name":"Wheels India Limited"}
