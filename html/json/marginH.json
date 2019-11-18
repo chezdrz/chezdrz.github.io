@@ -1,6 +1,5 @@
 [ 
-{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":39.45,"v52_hi":110.00,"v52_lo":35.25 }
-,{ "nse_code":"KESARENT","nse_name":"Kesar Enterprises Limited","blu":"N","last_p":28.55,"v52_hi":62.10,"v52_lo":25.75 }
-,{ "nse_code":"MAHASTEEL","nse_name":"Mahamaya Steel Industries Limited","blu":"N","last_p":154.55,"v52_hi":218.45,"v52_lo":66.60 }
-,{ "nse_code":"TANLA","nse_name":"Tanla Solutions Limited","blu":"N","last_p":53.10,"v52_hi":76.40,"v52_lo":28.00 }
+{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":38.20,"v52_hi":110.00,"v52_lo":35.25 }
+,{ "nse_code":"KESARENT","nse_name":"Kesar Enterprises Limited","blu":"N","last_p":28.35,"v52_hi":62.10,"v52_lo":25.75 }
+,{ "nse_code":"MAHASTEEL","nse_name":"Mahamaya Steel Industries Limited","blu":"N","last_p":150.95,"v52_hi":218.45,"v52_lo":66.60 }
  ]
