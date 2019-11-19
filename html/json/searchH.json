@@ -775,7 +775,6 @@
 ,{"nse_code":"NLCINDIA","nse_name":"NLC India Limited"}
 ,{"nse_code":"NMDC","nse_name":"NMDC Limited"}
 ,{"nse_code":"NOCIL","nse_name":"NOCIL Limited"}
-,{"nse_code":"NORBTEAEXP","nse_name":"Norben Tea & Exports Limited"}
 ,{"nse_code":"NRAIL","nse_name":"N R Agarwal Industries Limited"}
 ,{"nse_code":"NRBBEARING","nse_name":"NRB Bearing Limited"}
 ,{"nse_code":"NSIL","nse_name":"Nalwa Sons Investments Limited"}
@@ -864,6 +863,7 @@
 ,{"nse_code":"PRECOT","nse_name":"Precot Meridian Limited"}
 ,{"nse_code":"PRECWIRE","nse_name":"Precision Wires India Limited"}
 ,{"nse_code":"PREMEXPLN","nse_name":"Premier Explosives Limited"}
+,{"nse_code":"PREMIERPOL","nse_name":"Premier Polyfilm Limited"}
 ,{"nse_code":"PRESSMN","nse_name":"Pressman Advertising Limited"}
 ,{"nse_code":"PRESTIGE","nse_name":"Prestige Estates Projects Limited"}
 ,{"nse_code":"PRICOLLTD","nse_name":"Pricol Limited"}
@@ -929,7 +929,6 @@
 ,{"nse_code":"RTNINFRA","nse_name":"RattanIndia Infrastructure Limited"}
 ,{"nse_code":"RUCHIRA","nse_name":"Ruchira Papers Limited"}
 ,{"nse_code":"RUPA","nse_name":"Rupa & Company Limited"}
-,{"nse_code":"SABEVENTS","nse_name":"Sab Events & Governance Now Media Limited"}
 ,{"nse_code":"SADBHAV","nse_name":"Sadbhav Engineering Limited"}
 ,{"nse_code":"SADBHIN","nse_name":"Sadbhav Infrastructure Project Limited"}
 ,{"nse_code":"SAGCEM","nse_name":"Sagar Cements Limited"}
@@ -1158,6 +1157,7 @@
 ,{"nse_code":"UNIPLY","nse_name":"Uniply Industries Limited"}
 ,{"nse_code":"UNITECH","nse_name":"Unitech Limited"}
 ,{"nse_code":"UNITEDBNK","nse_name":"United Bank of India"}
+,{"nse_code":"UNITEDTEA","nse_name":"The United Nilgiri Tea Estates Company Limited"}
 ,{"nse_code":"UNIVCABLES","nse_name":"Universal Cables Limited"}
 ,{"nse_code":"UPL","nse_name":"UPL Limited"}
 ,{"nse_code":"URJA","nse_name":"Urja Global Limited"}
