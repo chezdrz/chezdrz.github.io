@@ -1,5 +1,6 @@
 [ 
-{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":40.20,"v52_hi":110.00,"v52_lo":35.25 }
-,{ "nse_code":"KESARENT","nse_name":"Kesar Enterprises Limited","blu":"N","last_p":28.70,"v52_hi":62.10,"v52_lo":25.75 }
-,{ "nse_code":"MAHASTEEL","nse_name":"Mahamaya Steel Industries Limited","blu":"N","last_p":152.80,"v52_hi":218.45,"v52_lo":66.60 }
+{ "nse_code":"ZENITHEXPO","nse_name":"Zenith Exports Limited","blu":"N","last_p":39.85,"v52_hi":110.00,"v52_lo":35.25 }
+,{ "nse_code":"KESARENT","nse_name":"Kesar Enterprises Limited","blu":"N","last_p":30.00,"v52_hi":62.10,"v52_lo":25.75 }
+,{ "nse_code":"MAHASTEEL","nse_name":"Mahamaya Steel Industries Limited","blu":"N","last_p":150.15,"v52_hi":218.45,"v52_lo":66.60 }
+,{ "nse_code":"CGCL","nse_name":"Capri Global Capital Limited","blu":"N","last_p":183.35,"v52_hi":228.95,"v52_lo":113.70 }
  ]

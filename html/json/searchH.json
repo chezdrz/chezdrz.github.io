@@ -259,6 +259,7 @@
 ,{"nse_code":"DEEPAKNTR","nse_name":"Deepak Nitrite Limited"}
 ,{"nse_code":"DEEPIND","nse_name":"Deep Industries Limited"}
 ,{"nse_code":"DELTACORP","nse_name":"Delta Corp Limited"}
+,{"nse_code":"DELTAMAGNT","nse_name":"Delta Magnets Limited"}
 ,{"nse_code":"DENORA","nse_name":"De Nora India Limited"}
 ,{"nse_code":"DFMFOODS","nse_name":"DFM Foods Limited"}
 ,{"nse_code":"DHAMPURSUG","nse_name":"Dhampur Sugar Mills Limited"}
@@ -405,6 +406,7 @@
 ,{"nse_code":"GTL","nse_name":"GTL Limited"}
 ,{"nse_code":"GTLINFRA","nse_name":"GTL Infrastructure Limited"}
 ,{"nse_code":"GTNIND","nse_name":"GTN Industries Limited"}
+,{"nse_code":"GTNTEX","nse_name":"GTN Textiles Limited"}
 ,{"nse_code":"GTPL","nse_name":"GTPL Hathway Limited"}
 ,{"nse_code":"GUFICBIO","nse_name":"Gufic Biosciences Limited"}
 ,{"nse_code":"GUJALKALI","nse_name":"Gujarat Alkalies and Chemicals Limited"}
@@ -741,7 +743,6 @@
 ,{"nse_code":"NBVENTURES","nse_name":"Nava Bharat Ventures Limited"}
 ,{"nse_code":"NCC","nse_name":"NCC Limited"}
 ,{"nse_code":"NCLIND","nse_name":"NCL Industries Limited"}
-,{"nse_code":"NDGL","nse_name":"Naga Dhunseri Group Limited"}
 ,{"nse_code":"NDL","nse_name":"Nandan Denim Limited"}
 ,{"nse_code":"NDTV","nse_name":"New Delhi Television Limited"}
 ,{"nse_code":"NECCLTD","nse_name":"North Eastern Carrying Corporation Limited"}
@@ -923,7 +924,6 @@
 ,{"nse_code":"RTNINFRA","nse_name":"RattanIndia Infrastructure Limited"}
 ,{"nse_code":"RUCHIRA","nse_name":"Ruchira Papers Limited"}
 ,{"nse_code":"RUPA","nse_name":"Rupa & Company Limited"}
-,{"nse_code":"SABEVENTS","nse_name":"Sab Events & Governance Now Media Limited"}
 ,{"nse_code":"SADBHAV","nse_name":"Sadbhav Engineering Limited"}
 ,{"nse_code":"SADBHIN","nse_name":"Sadbhav Infrastructure Project Limited"}
 ,{"nse_code":"SAGCEM","nse_name":"Sagar Cements Limited"}
