@@ -248,6 +248,7 @@
 ,{"nse_code":"DATAMATICS","nse_name":"Datamatics Global Services Limited"}
 ,{"nse_code":"DBCORP","nse_name":"D.B.Corp Limited"}
 ,{"nse_code":"DBL","nse_name":"Dilip Buildcon Limited"}
+,{"nse_code":"DBSTOCKBRO","nse_name":"DB (International) Stock Brokers Limited"}
 ,{"nse_code":"DCAL","nse_name":"Dishman Carbogen Amcis Limited"}
 ,{"nse_code":"DCBBANK","nse_name":"DCB Bank Limited"}
 ,{"nse_code":"DCMSHRIRAM","nse_name":"DCM Shriram Limited"}
@@ -406,6 +407,7 @@
 ,{"nse_code":"GTL","nse_name":"GTL Limited"}
 ,{"nse_code":"GTLINFRA","nse_name":"GTL Infrastructure Limited"}
 ,{"nse_code":"GTNIND","nse_name":"GTN Industries Limited"}
+,{"nse_code":"GTNTEX","nse_name":"GTN Textiles Limited"}
 ,{"nse_code":"GTPL","nse_name":"GTPL Hathway Limited"}
 ,{"nse_code":"GUFICBIO","nse_name":"Gufic Biosciences Limited"}
 ,{"nse_code":"GUJALKALI","nse_name":"Gujarat Alkalies and Chemicals Limited"}
@@ -701,7 +703,6 @@
 ,{"nse_code":"MMFL","nse_name":"MM Forgings Limited"}
 ,{"nse_code":"MMTC","nse_name":"MMTC Limited"}
 ,{"nse_code":"MOHITIND","nse_name":"Mohit Industries Limited"}
-,{"nse_code":"MOHOTAIND","nse_name":"Mohota Industries Limited"}
 ,{"nse_code":"MOIL","nse_name":"MOIL Limited"}
 ,{"nse_code":"MOLDTECH","nse_name":"Mold-Tek Technologies Limited"}
 ,{"nse_code":"MOLDTKPAC","nse_name":"Mold-Tek Packaging Limited"}
@@ -742,6 +743,7 @@
 ,{"nse_code":"NBVENTURES","nse_name":"Nava Bharat Ventures Limited"}
 ,{"nse_code":"NCC","nse_name":"NCC Limited"}
 ,{"nse_code":"NCLIND","nse_name":"NCL Industries Limited"}
+,{"nse_code":"NDGL","nse_name":"Naga Dhunseri Group Limited"}
 ,{"nse_code":"NDL","nse_name":"Nandan Denim Limited"}
 ,{"nse_code":"NDTV","nse_name":"New Delhi Television Limited"}
 ,{"nse_code":"NECCLTD","nse_name":"North Eastern Carrying Corporation Limited"}
@@ -768,7 +770,6 @@
 ,{"nse_code":"NLCINDIA","nse_name":"NLC India Limited"}
 ,{"nse_code":"NMDC","nse_name":"NMDC Limited"}
 ,{"nse_code":"NOCIL","nse_name":"NOCIL Limited"}
-,{"nse_code":"NORBTEAEXP","nse_name":"Norben Tea & Exports Limited"}
 ,{"nse_code":"NRAIL","nse_name":"N R Agarwal Industries Limited"}
 ,{"nse_code":"NRBBEARING","nse_name":"NRB Bearing Limited"}
 ,{"nse_code":"NSIL","nse_name":"Nalwa Sons Investments Limited"}
@@ -783,6 +784,7 @@
 ,{"nse_code":"OMAXAUTO","nse_name":"Omax Autos Limited"}
 ,{"nse_code":"OMAXE","nse_name":"Omaxe Limited"}
 ,{"nse_code":"OMMETALS","nse_name":"OM Metals Infraprojects Limited"}
+,{"nse_code":"ONELIFECAP","nse_name":"Onelife Capital Advisors Limited"}
 ,{"nse_code":"ONGC","nse_name":"Oil & Natural Gas Corporation Limited"}
 ,{"nse_code":"ONMOBILE","nse_name":"OnMobile Global Limited"}
 ,{"nse_code":"ONWARDTEC","nse_name":"Onward Technologies Limited"}
@@ -1091,6 +1093,7 @@
 ,{"nse_code":"TEXMOPIPES","nse_name":"Texmo Pipes and Products Limited"}
 ,{"nse_code":"TEXRAIL","nse_name":"Texmaco Rail & Engineering Limited"}
 ,{"nse_code":"TFCILTD","nse_name":"Tourism Finance Corporation of India Limited"}
+,{"nse_code":"TFL","nse_name":"Transwarranty Finance Limited"}
 ,{"nse_code":"THANGAMAYL","nse_name":"Thangamayil Jewellery Limited"}
 ,{"nse_code":"THERMAX","nse_name":"Thermax Limited"}
 ,{"nse_code":"THOMASCOOK","nse_name":"Thomas Cook  (India)  Limited"}
