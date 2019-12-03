@@ -1,3 +1,5 @@
 [ 
-{ "nse_code":"MAHASTEEL","nse_name":"Mahamaya Steel Industries Limited","blu":"N","last_p":126.70,"v52_hi":218.45,"v52_lo":66.60 }
+{ "nse_code":"MAHASTEEL","nse_name":"Mahamaya Steel Industries Limited","blu":"N","last_p":114.05,"v52_hi":218.45,"v52_lo":66.60 }
+,{ "nse_code":"ADHUNIKIND","nse_name":"Adhunik Industries Limited","blu":"N","last_p":91.90,"v52_hi":127.50,"v52_lo":35.50 }
+,{ "nse_code":"OISL","nse_name":"OCL Iron and Steel Limited","blu":"N","last_p":3.35,"v52_hi":5.70,"v52_lo":2.00 }
  ]
