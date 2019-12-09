@@ -20,7 +20,6 @@
 ,{"nse_code":"ADANIPOWER","nse_name":"Adani Power Limited"}
 ,{"nse_code":"ADANITRANS","nse_name":"Adani Transmission Limited"}
 ,{"nse_code":"ADFFOODS","nse_name":"ADF Foods Limited"}
-,{"nse_code":"ADHUNIKIND","nse_name":"Adhunik Industries Limited"}
 ,{"nse_code":"ADORWELD","nse_name":"Ador Welding Limited"}
 ,{"nse_code":"ADSL","nse_name":"Allied Digital Services Limited"}
 ,{"nse_code":"ADVANIHOTR","nse_name":"Advani Hotels & Resorts (India) Limited"}
@@ -363,7 +362,6 @@
 ,{"nse_code":"GILLETTE","nse_name":"Gillette India Limited"}
 ,{"nse_code":"GINNIFILA","nse_name":"Ginni Filaments Limited"}
 ,{"nse_code":"GIPCL","nse_name":"Gujarat Industries Power Company Limited"}
-,{"nse_code":"GISOLUTION","nse_name":"GI Engineering Solutions Limited"}
 ,{"nse_code":"GKWLIMITED","nse_name":"GKW Limited"}
 ,{"nse_code":"GLAXO","nse_name":"GlaxoSmithKline Pharmaceuticals Limited"}
 ,{"nse_code":"GLENMARK","nse_name":"Glenmark Pharmaceuticals Limited"}
@@ -407,7 +405,6 @@
 ,{"nse_code":"GSS","nse_name":"GSS Infotech Limited"}
 ,{"nse_code":"GTL","nse_name":"GTL Limited"}
 ,{"nse_code":"GTLINFRA","nse_name":"GTL Infrastructure Limited"}
-,{"nse_code":"GTNIND","nse_name":"GTN Industries Limited"}
 ,{"nse_code":"GTNTEX","nse_name":"GTN Textiles Limited"}
 ,{"nse_code":"GTPL","nse_name":"GTPL Hathway Limited"}
 ,{"nse_code":"GUFICBIO","nse_name":"Gufic Biosciences Limited"}
@@ -872,6 +869,7 @@
 ,{"nse_code":"PVR","nse_name":"PVR Limited"}
 ,{"nse_code":"QUESS","nse_name":"Quess Corp Limited"}
 ,{"nse_code":"QUICKHEAL","nse_name":"Quick Heal Technologies Limited"}
+,{"nse_code":"RADAAN","nse_name":"Radaan Mediaworks India Limited"}
 ,{"nse_code":"RADICO","nse_name":"Radico Khaitan Limited"}
 ,{"nse_code":"RAIN","nse_name":"Rain Industries Limited"}
 ,{"nse_code":"RAJESHEXPO","nse_name":"Rajesh Exports Limited"}
