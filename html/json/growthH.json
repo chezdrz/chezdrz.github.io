@@ -1,12 +1,13 @@
 [ 
-{ "nse_code":"PIIND","nse_name":"PI Industries Limited","blu":"N","last_p":1484.30,"v52_hi":1523.95,"v52_lo":797.30 }
-,{ "nse_code":"JKCEMENT","nse_name":"JK Cement Limited","blu":"N","last_p":1151.15,"v52_hi":1199.00,"v52_lo":682.50 }
-,{ "nse_code":"BAJFINANCE","nse_name":"Bajaj Finance Limited","blu":"Y","last_p":3944.85,"v52_hi":4280.00,"v52_lo":2332.10 }
-,{ "nse_code":"NH","nse_name":"Narayana Hrudayalaya Ltd.","blu":"N","last_p":300.40,"v52_hi":318.80,"v52_lo":182.80 }
-,{ "nse_code":"TATAGLOBAL","nse_name":"Tata Global Beverages Limited","blu":"N","last_p":315.45,"v52_hi":325.30,"v52_lo":177.05 }
-,{ "nse_code":"IGL","nse_name":"Indraprastha Gas Limited","blu":"N","last_p":409.70,"v52_hi":438.70,"v52_lo":241.00 }
-,{ "nse_code":"ICICIPRULI","nse_name":"ICICI Prudential Life Insurance Company Limited","blu":"Y","last_p":489.65,"v52_hi":537.30,"v52_lo":277.35 }
-,{ "nse_code":"RELIANCE","nse_name":"Reliance Industries Limited","blu":"Y","last_p":1572.60,"v52_hi":1614.45,"v52_lo":1055.00 }
-,{ "nse_code":"UJJIVAN","nse_name":"Ujjivan Financial Services Limited","blu":"N","last_p":347.00,"v52_hi":371.60,"v52_lo":207.05 }
-,{ "nse_code":"CESC","nse_name":"CESC Limited","blu":"N","last_p":730.75,"v52_hi":851.70,"v52_lo":642.60 }
+{ "nse_code":"PIIND","nse_name":"PI Industries Limited","blu":"N","last_p":1447.65,"v52_hi":1523.95,"v52_lo":797.30 }
+,{ "nse_code":"JKCEMENT","nse_name":"JK Cement Limited","blu":"N","last_p":1150.75,"v52_hi":1199.00,"v52_lo":682.50 }
+,{ "nse_code":"BAJFINANCE","nse_name":"Bajaj Finance Limited","blu":"Y","last_p":3986.85,"v52_hi":4280.00,"v52_lo":2332.10 }
+,{ "nse_code":"NH","nse_name":"Narayana Hrudayalaya Ltd.","blu":"N","last_p":308.20,"v52_hi":318.80,"v52_lo":182.80 }
+,{ "nse_code":"TATAGLOBAL","nse_name":"Tata Global Beverages Limited","blu":"N","last_p":312.85,"v52_hi":325.30,"v52_lo":177.05 }
+,{ "nse_code":"IGL","nse_name":"Indraprastha Gas Limited","blu":"N","last_p":408.75,"v52_hi":438.70,"v52_lo":241.00 }
+,{ "nse_code":"ICICIPRULI","nse_name":"ICICI Prudential Life Insurance Company Limited","blu":"Y","last_p":488.45,"v52_hi":537.30,"v52_lo":277.35 }
+,{ "nse_code":"TIINDIA","nse_name":"Tube Investments of India Limited","blu":"N","last_p":482.65,"v52_hi":509.00,"v52_lo":319.95 }
+,{ "nse_code":"RELIANCE","nse_name":"Reliance Industries Limited","blu":"Y","last_p":1561.95,"v52_hi":1614.45,"v52_lo":1055.00 }
+,{ "nse_code":"UJJIVAN","nse_name":"Ujjivan Financial Services Limited","blu":"N","last_p":344.30,"v52_hi":371.60,"v52_lo":207.05 }
+,{ "nse_code":"CESC","nse_name":"CESC Limited","blu":"N","last_p":718.75,"v52_hi":851.70,"v52_lo":642.60 }
  ]
