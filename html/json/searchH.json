@@ -45,6 +45,7 @@
 ,{"nse_code":"ALKYLAMINE","nse_name":"Alkyl Amines Chemicals Limited"}
 ,{"nse_code":"ALLCARGO","nse_name":"Allcargo Logistics Limited"}
 ,{"nse_code":"ALLSEC","nse_name":"Allsec Technologies Limited"}
+,{"nse_code":"ALMONDZ","nse_name":"Almondz Global Securities Limited"}
 ,{"nse_code":"ALPA","nse_name":"Alpa Laboratories Limited"}
 ,{"nse_code":"ALPHAGEO","nse_name":"Alphageo (India) Limited"}
 ,{"nse_code":"AMARAJABAT","nse_name":"Amara Raja Batteries Limited"}
@@ -225,7 +226,6 @@
 ,{"nse_code":"COMPINFO","nse_name":"Compuage Infocom Limited"}
 ,{"nse_code":"COMPUSOFT","nse_name":"Compucom Software Limited"}
 ,{"nse_code":"CONCOR","nse_name":"Container Corporation of India Limited"}
-,{"nse_code":"CONSOFINVT","nse_name":"Consolidated Finvest & Holdings Limited"}
 ,{"nse_code":"CONTROLPR","nse_name":"Control Print Limited"}
 ,{"nse_code":"CORALFINAC","nse_name":"Coral India Finance & Housing Limited"}
 ,{"nse_code":"CORDSCABLE","nse_name":"Cords Cable Industries Limited"}
@@ -233,6 +233,7 @@
 ,{"nse_code":"CORPBANK","nse_name":"Corporation Bank"}
 ,{"nse_code":"COSMOFILMS","nse_name":"Cosmo Films Limited"}
 ,{"nse_code":"COUNCODOS","nse_name":"Country Condo's Limited"}
+,{"nse_code":"CREATIVEYE","nse_name":"Creative Eye Limited"}
 ,{"nse_code":"CREST","nse_name":"Crest Ventures Limited"}
 ,{"nse_code":"CRISIL","nse_name":"CRISIL Limited"}
 ,{"nse_code":"CROMPTON","nse_name":"Crompton Greaves Consumer Electricals Limited"}
@@ -249,7 +250,6 @@
 ,{"nse_code":"DATAMATICS","nse_name":"Datamatics Global Services Limited"}
 ,{"nse_code":"DBCORP","nse_name":"D.B.Corp Limited"}
 ,{"nse_code":"DBL","nse_name":"Dilip Buildcon Limited"}
-,{"nse_code":"DBSTOCKBRO","nse_name":"DB (International) Stock Brokers Limited"}
 ,{"nse_code":"DCAL","nse_name":"Dishman Carbogen Amcis Limited"}
 ,{"nse_code":"DCBBANK","nse_name":"DCB Bank Limited"}
 ,{"nse_code":"DCMSHRIRAM","nse_name":"DCM Shriram Limited"}
@@ -408,6 +408,7 @@
 ,{"nse_code":"GTL","nse_name":"GTL Limited"}
 ,{"nse_code":"GTLINFRA","nse_name":"GTL Infrastructure Limited"}
 ,{"nse_code":"GTNIND","nse_name":"GTN Industries Limited"}
+,{"nse_code":"GTNTEX","nse_name":"GTN Textiles Limited"}
 ,{"nse_code":"GTPL","nse_name":"GTPL Hathway Limited"}
 ,{"nse_code":"GUFICBIO","nse_name":"Gufic Biosciences Limited"}
 ,{"nse_code":"GUJALKALI","nse_name":"Gujarat Alkalies and Chemicals Limited"}
@@ -792,7 +793,6 @@
 ,{"nse_code":"OMAXAUTO","nse_name":"Omax Autos Limited"}
 ,{"nse_code":"OMAXE","nse_name":"Omaxe Limited"}
 ,{"nse_code":"OMMETALS","nse_name":"OM Metals Infraprojects Limited"}
-,{"nse_code":"ONELIFECAP","nse_name":"Onelife Capital Advisors Limited"}
 ,{"nse_code":"ONGC","nse_name":"Oil & Natural Gas Corporation Limited"}
 ,{"nse_code":"ONMOBILE","nse_name":"OnMobile Global Limited"}
 ,{"nse_code":"ONWARDTEC","nse_name":"Onward Technologies Limited"}
@@ -936,7 +936,6 @@
 ,{"nse_code":"RUBYMILLS","nse_name":"The Ruby Mills Limited"}
 ,{"nse_code":"RUCHIRA","nse_name":"Ruchira Papers Limited"}
 ,{"nse_code":"RUPA","nse_name":"Rupa & Company Limited"}
-,{"nse_code":"SABEVENTS","nse_name":"Sab Events & Governance Now Media Limited"}
 ,{"nse_code":"SABTN","nse_name":"Sri Adhikari Brothers Television Network Limited"}
 ,{"nse_code":"SADBHAV","nse_name":"Sadbhav Engineering Limited"}
 ,{"nse_code":"SADBHIN","nse_name":"Sadbhav Infrastructure Project Limited"}
