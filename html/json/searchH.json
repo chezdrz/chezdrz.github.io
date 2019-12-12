@@ -11,6 +11,7 @@
 ,{"nse_code":"ABAN","nse_name":"Aban Offshore Limited"}
 ,{"nse_code":"ABB","nse_name":"ABB India Limited"}
 ,{"nse_code":"ABBOTINDIA","nse_name":"Abbott India Limited"}
+,{"nse_code":"ABCAPITAL","nse_name":"Aditya Birla Capital Limited"}
 ,{"nse_code":"ABFRL","nse_name":"Aditya Birla Fashion and Retail Limited"}
 ,{"nse_code":"ACC","nse_name":"ACC Limited"}
 ,{"nse_code":"ACCELYA","nse_name":"Accelya Kale Solutions Limited"}
@@ -73,6 +74,7 @@
 ,{"nse_code":"APTECHT","nse_name":"Aptech Limited"}
 ,{"nse_code":"ARCHIDPLY","nse_name":"Archidply Industries Limited"}
 ,{"nse_code":"ARCHIES","nse_name":"Archies Limited"}
+,{"nse_code":"ARENTERP","nse_name":"Rajdarshan Industries Limited"}
 ,{"nse_code":"ARIES","nse_name":"Aries Agro Limited"}
 ,{"nse_code":"ARIHANTSUP","nse_name":"Arihant Superstructures Limited"}
 ,{"nse_code":"ARMANFIN","nse_name":"Arman Financial Services Limited"}
@@ -148,7 +150,6 @@
 ,{"nse_code":"BFUTILITIE","nse_name":"BF Utilities Limited"}
 ,{"nse_code":"BGRENERGY","nse_name":"BGR Energy Systems Limited"}
 ,{"nse_code":"BHAGYANGR","nse_name":"Bhagyanagar India Limited"}
-,{"nse_code":"BHAGYAPROP","nse_name":"Bhagyanagar Properties Limited"}
 ,{"nse_code":"BHANDARI","nse_name":"Bhandari Hosiery Exports Limited"}
 ,{"nse_code":"BHARATFORG","nse_name":"Bharat Forge Limited"}
 ,{"nse_code":"BHARATGEAR","nse_name":"Bharat Gears Limited"}
@@ -226,6 +227,7 @@
 ,{"nse_code":"COMPINFO","nse_name":"Compuage Infocom Limited"}
 ,{"nse_code":"COMPUSOFT","nse_name":"Compucom Software Limited"}
 ,{"nse_code":"CONCOR","nse_name":"Container Corporation of India Limited"}
+,{"nse_code":"CONSOFINVT","nse_name":"Consolidated Finvest & Holdings Limited"}
 ,{"nse_code":"CONTROLPR","nse_name":"Control Print Limited"}
 ,{"nse_code":"CORALFINAC","nse_name":"Coral India Finance & Housing Limited"}
 ,{"nse_code":"CORDSCABLE","nse_name":"Cords Cable Industries Limited"}
@@ -233,7 +235,6 @@
 ,{"nse_code":"CORPBANK","nse_name":"Corporation Bank"}
 ,{"nse_code":"COSMOFILMS","nse_name":"Cosmo Films Limited"}
 ,{"nse_code":"COUNCODOS","nse_name":"Country Condo's Limited"}
-,{"nse_code":"CREATIVEYE","nse_name":"Creative Eye Limited"}
 ,{"nse_code":"CREST","nse_name":"Crest Ventures Limited"}
 ,{"nse_code":"CRISIL","nse_name":"CRISIL Limited"}
 ,{"nse_code":"CROMPTON","nse_name":"Crompton Greaves Consumer Electricals Limited"}
@@ -250,6 +251,7 @@
 ,{"nse_code":"DATAMATICS","nse_name":"Datamatics Global Services Limited"}
 ,{"nse_code":"DBCORP","nse_name":"D.B.Corp Limited"}
 ,{"nse_code":"DBL","nse_name":"Dilip Buildcon Limited"}
+,{"nse_code":"DBSTOCKBRO","nse_name":"DB (International) Stock Brokers Limited"}
 ,{"nse_code":"DCAL","nse_name":"Dishman Carbogen Amcis Limited"}
 ,{"nse_code":"DCBBANK","nse_name":"DCB Bank Limited"}
 ,{"nse_code":"DCMSHRIRAM","nse_name":"DCM Shriram Limited"}
@@ -384,6 +386,7 @@
 ,{"nse_code":"GODREJIND","nse_name":"Godrej Industries Limited"}
 ,{"nse_code":"GODREJPROP","nse_name":"Godrej Properties Limited"}
 ,{"nse_code":"GOKEX","nse_name":"Gokaldas Exports Limited"}
+,{"nse_code":"GOKUL","nse_name":"Gokul Refoils and Solvent Limited"}
 ,{"nse_code":"GOKULAGRO","nse_name":"Gokul Agro Resources Limited"}
 ,{"nse_code":"GOLDIAM","nse_name":"Goldiam International Limited"}
 ,{"nse_code":"GOLDTECH","nse_name":"Goldstone Technologies Limited"}
@@ -793,6 +796,7 @@
 ,{"nse_code":"OMAXAUTO","nse_name":"Omax Autos Limited"}
 ,{"nse_code":"OMAXE","nse_name":"Omaxe Limited"}
 ,{"nse_code":"OMMETALS","nse_name":"OM Metals Infraprojects Limited"}
+,{"nse_code":"ONELIFECAP","nse_name":"Onelife Capital Advisors Limited"}
 ,{"nse_code":"ONGC","nse_name":"Oil & Natural Gas Corporation Limited"}
 ,{"nse_code":"ONMOBILE","nse_name":"OnMobile Global Limited"}
 ,{"nse_code":"ONWARDTEC","nse_name":"Onward Technologies Limited"}
@@ -936,6 +940,7 @@
 ,{"nse_code":"RUBYMILLS","nse_name":"The Ruby Mills Limited"}
 ,{"nse_code":"RUCHIRA","nse_name":"Ruchira Papers Limited"}
 ,{"nse_code":"RUPA","nse_name":"Rupa & Company Limited"}
+,{"nse_code":"SABEVENTS","nse_name":"Sab Events & Governance Now Media Limited"}
 ,{"nse_code":"SABTN","nse_name":"Sri Adhikari Brothers Television Network Limited"}
 ,{"nse_code":"SADBHAV","nse_name":"Sadbhav Engineering Limited"}
 ,{"nse_code":"SADBHIN","nse_name":"Sadbhav Infrastructure Project Limited"}
