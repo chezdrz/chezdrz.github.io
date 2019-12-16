@@ -74,7 +74,6 @@
 ,{"nse_code":"APTECHT","nse_name":"Aptech Limited"}
 ,{"nse_code":"ARCHIDPLY","nse_name":"Archidply Industries Limited"}
 ,{"nse_code":"ARCHIES","nse_name":"Archies Limited"}
-,{"nse_code":"ARENTERP","nse_name":"Rajdarshan Industries Limited"}
 ,{"nse_code":"ARIES","nse_name":"Aries Agro Limited"}
 ,{"nse_code":"ARIHANTSUP","nse_name":"Arihant Superstructures Limited"}
 ,{"nse_code":"ARMANFIN","nse_name":"Arman Financial Services Limited"}
@@ -236,7 +235,6 @@
 ,{"nse_code":"CORPBANK","nse_name":"Corporation Bank"}
 ,{"nse_code":"COSMOFILMS","nse_name":"Cosmo Films Limited"}
 ,{"nse_code":"COUNCODOS","nse_name":"Country Condo's Limited"}
-,{"nse_code":"CREATIVEYE","nse_name":"Creative Eye Limited"}
 ,{"nse_code":"CREST","nse_name":"Crest Ventures Limited"}
 ,{"nse_code":"CRISIL","nse_name":"CRISIL Limited"}
 ,{"nse_code":"CROMPTON","nse_name":"Crompton Greaves Consumer Electricals Limited"}
@@ -317,7 +315,6 @@
 ,{"nse_code":"ESSARSHPNG","nse_name":"Essar Shipping Limited"}
 ,{"nse_code":"ESSELPACK","nse_name":"Essel Propack Limited"}
 ,{"nse_code":"ESTER","nse_name":"Ester Industries Limited"}
-,{"nse_code":"EUROTEXIND","nse_name":"Eurotex Industries and Exports Limited"}
 ,{"nse_code":"EVEREADY","nse_name":"Eveready Industries India Limited"}
 ,{"nse_code":"EVERESTIND","nse_name":"Everest Industries Limited"}
 ,{"nse_code":"EXCELINDUS","nse_name":"Excel Industries Limited"}
@@ -370,7 +367,6 @@
 ,{"nse_code":"GILLETTE","nse_name":"Gillette India Limited"}
 ,{"nse_code":"GINNIFILA","nse_name":"Ginni Filaments Limited"}
 ,{"nse_code":"GIPCL","nse_name":"Gujarat Industries Power Company Limited"}
-,{"nse_code":"GISOLUTION","nse_name":"GI Engineering Solutions Limited"}
 ,{"nse_code":"GKWLIMITED","nse_name":"GKW Limited"}
 ,{"nse_code":"GLAXO","nse_name":"GlaxoSmithKline Pharmaceuticals Limited"}
 ,{"nse_code":"GLENMARK","nse_name":"Glenmark Pharmaceuticals Limited"}
@@ -739,7 +735,6 @@
 ,{"nse_code":"MUTHOOTCAP","nse_name":"Muthoot Capital Services Limited"}
 ,{"nse_code":"MUTHOOTFIN","nse_name":"Muthoot Finance Limited"}
 ,{"nse_code":"NACLIND","nse_name":"NACL Industries Limited"}
-,{"nse_code":"NAGREEKCAP","nse_name":"Nagreeka Capital & Infrastructure Limited"}
 ,{"nse_code":"NAGREEKEXP","nse_name":"Nagreeka Exports Limited"}
 ,{"nse_code":"NAHARCAP","nse_name":"Nahar Capital and Financial Services Limited"}
 ,{"nse_code":"NAHARINDUS","nse_name":"Nahar Industrial Enterprises Limited"}
@@ -757,6 +752,7 @@
 ,{"nse_code":"NBVENTURES","nse_name":"Nava Bharat Ventures Limited"}
 ,{"nse_code":"NCC","nse_name":"NCC Limited"}
 ,{"nse_code":"NCLIND","nse_name":"NCL Industries Limited"}
+,{"nse_code":"NDGL","nse_name":"Naga Dhunseri Group Limited"}
 ,{"nse_code":"NDL","nse_name":"Nandan Denim Limited"}
 ,{"nse_code":"NDTV","nse_name":"New Delhi Television Limited"}
 ,{"nse_code":"NECCLTD","nse_name":"North Eastern Carrying Corporation Limited"}
@@ -951,6 +947,7 @@
 ,{"nse_code":"SAKSOFT","nse_name":"Saksoft Limited"}
 ,{"nse_code":"SAKUMA","nse_name":"Sakuma Exports Limited"}
 ,{"nse_code":"SALASAR","nse_name":"Salasar Techno Engineering Limited"}
+,{"nse_code":"SALONA","nse_name":"Salona Cotspin Limited"}
 ,{"nse_code":"SALSTEEL","nse_name":"S.A.L. Steel Limited"}
 ,{"nse_code":"SALZERELEC","nse_name":"Salzer Electronics Limited"}
 ,{"nse_code":"SAMBHAAV","nse_name":"Sambhaav Media Limited"}
@@ -1099,6 +1096,7 @@
 ,{"nse_code":"TATASTEEL","nse_name":"Tata Steel Limited"}
 ,{"nse_code":"TBZ","nse_name":"Tribhovandas Bhimji Zaveri Limited"}
 ,{"nse_code":"TCI","nse_name":"Transport Corporation of India Limited"}
+,{"nse_code":"TCIDEVELOP","nse_name":"TCI Developers Limited"}
 ,{"nse_code":"TCIEXP","nse_name":"TCI Express Limited"}
 ,{"nse_code":"TCIFINANCE","nse_name":"TCI Finance Limited"}
 ,{"nse_code":"TCPLPACK","nse_name":"TCPL Packaging Limited"}
@@ -1153,7 +1151,6 @@
 ,{"nse_code":"TVSMOTOR","nse_name":"TVS Motor Company Limited"}
 ,{"nse_code":"TVSSRICHAK","nse_name":"TVS Srichakra Limited"}
 ,{"nse_code":"TVTODAY","nse_name":"TV Today Network Limited"}
-,{"nse_code":"TVVISION","nse_name":"TV Vision Limited"}
 ,{"nse_code":"TWL","nse_name":"Titagarh Wagons Limited"}
 ,{"nse_code":"UBL","nse_name":"United Breweries Limited"}
 ,{"nse_code":"UCALFUEL","nse_name":"Ucal Fuel Systems Limited"}
