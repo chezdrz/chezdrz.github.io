@@ -73,6 +73,7 @@
 ,{"nse_code":"APTECHT","nse_name":"Aptech Limited"}
 ,{"nse_code":"ARCHIDPLY","nse_name":"Archidply Industries Limited"}
 ,{"nse_code":"ARCHIES","nse_name":"Archies Limited"}
+,{"nse_code":"ARENTERP","nse_name":"Rajdarshan Industries Limited"}
 ,{"nse_code":"ARIES","nse_name":"Aries Agro Limited"}
 ,{"nse_code":"ARIHANTSUP","nse_name":"Arihant Superstructures Limited"}
 ,{"nse_code":"ARMANFIN","nse_name":"Arman Financial Services Limited"}
@@ -210,7 +211,6 @@
 ,{"nse_code":"CGCL","nse_name":"Capri Global Capital Limited"}
 ,{"nse_code":"CHAMBLFERT","nse_name":"Chambal Fertilizers & Chemicals Limited"}
 ,{"nse_code":"CHENNPETRO","nse_name":"Chennai Petroleum Corporation Limited"}
-,{"nse_code":"CHROMATIC","nse_name":"Chromatic India Limited"}
 ,{"nse_code":"CIGNITITEC","nse_name":"Cigniti Technologies Limited"}
 ,{"nse_code":"CIMMCO","nse_name":"Cimmco Limited"}
 ,{"nse_code":"CINELINE","nse_name":"Cineline India Limited"}
@@ -505,6 +505,7 @@
 ,{"nse_code":"INDOTHAI","nse_name":"Indo Thai Securities Limited"}
 ,{"nse_code":"INDOWIND","nse_name":"Indowind Energy Limited"}
 ,{"nse_code":"INDRAMEDCO","nse_name":"Indraprastha Medical Corporation Limited"}
+,{"nse_code":"INDSWFTLAB","nse_name":"Ind-Swift Laboratories Limited"}
 ,{"nse_code":"INDSWFTLTD","nse_name":"Ind-Swift Limited"}
 ,{"nse_code":"INDTERRAIN","nse_name":"Indian Terrain Fashions Limited"}
 ,{"nse_code":"INDUSINDBK","nse_name":"IndusInd Bank Limited"}
@@ -596,8 +597,8 @@
 ,{"nse_code":"KECL","nse_name":"Kirloskar Electric Company Limited"}
 ,{"nse_code":"KEI","nse_name":"KEI Industries Limited"}
 ,{"nse_code":"KELLTONTEC","nse_name":"Kellton Tech Solutions Limited"}
-,{"nse_code":"KESARENT","nse_name":"Kesar Enterprises Limited"}
 ,{"nse_code":"KHADIM","nse_name":"Khadim India Limited"}
+,{"nse_code":"KHANDSE","nse_name":"Khandwala Securities Limited"}
 ,{"nse_code":"KICL","nse_name":"Kalyani Investment Company Limited"}
 ,{"nse_code":"KILITCH","nse_name":"Kilitch Drugs (India) Limited"}
 ,{"nse_code":"KINGFA","nse_name":"Kingfa Science & Technology (India) Limited"}
@@ -621,7 +622,6 @@
 ,{"nse_code":"KRBL","nse_name":"KRBL Limited"}
 ,{"nse_code":"KSCL","nse_name":"Kaveri Seed Company Limited"}
 ,{"nse_code":"KSL","nse_name":"Kalyani Steels Limited"}
-,{"nse_code":"KTIL","nse_name":"Kesar Terminals & Infrastructure Limited"}
 ,{"nse_code":"KTKBANK","nse_name":"The Karnataka Bank Limited"}
 ,{"nse_code":"L&TFH","nse_name":"L&T Finance Holdings Limited"}
 ,{"nse_code":"LALPATHLAB","nse_name":"Dr. Lal Path Labs Ltd."}
@@ -781,7 +781,6 @@
 ,{"nse_code":"NIPPOBATRY","nse_name":"Indo-National Limited"}
 ,{"nse_code":"NITCO","nse_name":"Nitco Limited"}
 ,{"nse_code":"NITINSPIN","nse_name":"Nitin Spinners Limited"}
-,{"nse_code":"NKIND","nse_name":"NK Industries Limited"}
 ,{"nse_code":"NLCINDIA","nse_name":"NLC India Limited"}
 ,{"nse_code":"NMDC","nse_name":"NMDC Limited"}
 ,{"nse_code":"NOCIL","nse_name":"NOCIL Limited"}
@@ -952,6 +951,7 @@
 ,{"nse_code":"SAKSOFT","nse_name":"Saksoft Limited"}
 ,{"nse_code":"SAKUMA","nse_name":"Sakuma Exports Limited"}
 ,{"nse_code":"SALASAR","nse_name":"Salasar Techno Engineering Limited"}
+,{"nse_code":"SALONA","nse_name":"Salona Cotspin Limited"}
 ,{"nse_code":"SALSTEEL","nse_name":"S.A.L. Steel Limited"}
 ,{"nse_code":"SALZERELEC","nse_name":"Salzer Electronics Limited"}
 ,{"nse_code":"SAMBHAAV","nse_name":"Sambhaav Media Limited"}
@@ -1233,7 +1233,6 @@
 ,{"nse_code":"WIPRO","nse_name":"Wipro Limited"}
 ,{"nse_code":"WOCKPHARMA","nse_name":"Wockhardt Limited"}
 ,{"nse_code":"WONDERLA","nse_name":"Wonderla Holidays Limited"}
-,{"nse_code":"WSI","nse_name":"W S Industries (I) Limited"}
 ,{"nse_code":"WSTCSTPAPR","nse_name":"West Coast Paper Mills Limited"}
 ,{"nse_code":"XCHANGING","nse_name":"Xchanging Solutions Limited"}
 ,{"nse_code":"XPROINDIA","nse_name":"Xpro India Limited"}

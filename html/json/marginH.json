@@ -1,11 +1,11 @@
 [ 
-{ "nse_code":"ADHUNIKIND","nse_name":"Adhunik Industries Limited","blu":"N","last_p":47.75,"v52_hi":127.50,"v52_lo":34.00 }
+{ "nse_code":"ADHUNIKIND","nse_name":"Adhunik Industries Limited","blu":"N","last_p":49.20,"v52_hi":127.50,"v52_lo":34.00 }
+,{ "nse_code":"MAHASTEEL","nse_name":"Mahamaya Steel Industries Limited","blu":"N","last_p":92.20,"v52_hi":218.45,"v52_lo":73.30 }
 ,{ "nse_code":"COUNCODOS","nse_name":"Country Condo's Limited","blu":"N","last_p":1.65,"v52_hi":5.15,"v52_lo":1.50 }
-,{ "nse_code":"MAHASTEEL","nse_name":"Mahamaya Steel Industries Limited","blu":"N","last_p":96.40,"v52_hi":218.45,"v52_lo":73.30 }
-,{ "nse_code":"ALLSEC","nse_name":"Allsec Technologies Limited","blu":"N","last_p":280.45,"v52_hi":319.80,"v52_lo":165.00 }
-,{ "nse_code":"KESARENT","nse_name":"Kesar Enterprises Limited","blu":"N","last_p":32.10,"v52_hi":62.10,"v52_lo":25.75 }
-,{ "nse_code":"BILENERGY","nse_name":"Bil Energy Systems Limited","blu":"N","last_p":1.00,"v52_hi":3.35,"v52_lo":0.45 }
-,{ "nse_code":"TREEHOUSE","nse_name":"Tree House Education & Accessories Limited","blu":"N","last_p":4.95,"v52_hi":7.50,"v52_lo":3.45 }
-,{ "nse_code":"OISL","nse_name":"OCL Iron and Steel Limited","blu":"N","last_p":3.15,"v52_hi":5.70,"v52_lo":2.00 }
-,{ "nse_code":"REFEX","nse_name":"Refex Industries Limited","blu":"N","last_p":56.65,"v52_hi":81.75,"v52_lo":17.45 }
+,{ "nse_code":"BILENERGY","nse_name":"Bil Energy Systems Limited","blu":"N","last_p":0.95,"v52_hi":3.35,"v52_lo":0.45 }
+,{ "nse_code":"TREEHOUSE","nse_name":"Tree House Education & Accessories Limited","blu":"N","last_p":5.15,"v52_hi":7.50,"v52_lo":3.45 }
+,{ "nse_code":"GOKUL","nse_name":"Gokul Refoils and Solvent Limited","blu":"N","last_p":13.85,"v52_hi":17.25,"v52_lo":7.20 }
+,{ "nse_code":"OISL","nse_name":"OCL Iron and Steel Limited","blu":"N","last_p":3.25,"v52_hi":5.70,"v52_lo":2.00 }
+,{ "nse_code":"REFEX","nse_name":"Refex Industries Limited","blu":"N","last_p":54.25,"v52_hi":81.75,"v52_lo":17.45 }
+,{ "nse_code":"ALLSEC","nse_name":"Allsec Technologies Limited","blu":"N","last_p":286.10,"v52_hi":319.80,"v52_lo":165.00 }
  ]
